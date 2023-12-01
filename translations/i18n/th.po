@@ -1,0 +1,2120 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: webtrader\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: /development/translations/i18n/messages.pot\n"
+"Project-Id-Version: webtrader\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: binarycom\n"
+"Language-Team: Thai\n"
+"Language: th_TH\n"
+"PO-Revision-Date: 2019-08-21 04:30\n"
+
+msgid "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx\""
+msgstr "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx\""
+
+msgid "(if less than one day in duration), or at the end of the trading day (if one day or more in duration)"
+msgstr "(ถ้าระยะเวลาน้อยกว่าหนึ่งวัน) หรือ สิ้นสุดของวันซื้อขาย (ถ้าเป็นระยะเวลาหนึ่งวันหรือมากกว่า)"
+
+msgid "* Contract has not started yet"
+msgstr "* สัญญายังไม่เริ่ม"
+
+msgid "* Password must be 6 characters minimum"
+msgstr "* รหัสผ่านต้องมีอย่างน้อย 6 ตัวอักษร"
+
+msgid "* Password must contain uppercase letters and numbers"
+msgstr "* รหัสผ่านต้องประกอบด้วยอักษรตัวพิมพ์ใหญ่และตัวเลข"
+
+msgid "* Please enter your new password"
+msgstr "* โปรดป้อนรหัสผ่านใหม่ของคุณ"
+
+msgid "- Binary.com is not affiliated with any of the Payment Agents listed above. Each Payment Agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by Binary.com. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of Payment Agents before sending them any money. Binary.com shall not in any circumstance be held responsible for transactions made between customers and Payment Agents"
+msgstr "- Binary.com ไม่ได้เข้าร่วมเป็นพันธมิตรกับตัวแทนรับชำระเงินที่แจกแจงข้างต้น ตัวแทนรับชำระเงินแต่ละรายดำเนินการในฐานะผู้ให้บริการอิสระ และไม่ได้รับการรับรอง รับประกัน หรืออนุมัติโดย Binary.com ลูกค้าที่ติดต่อกับตัวแทนรับชำระเงินจะต้องรับผิดชอบต่อความเสี่ยงต่างๆ ด้วยตัวเอง ขอแนะนำให้ลูกค้าตรวจสอบข้อมูลหลักฐานอ้างอิงของตัวแทนรับชำระเงินก่อนที่จะส่งเงินใดๆให้กับตัวแทน Binary.com ไม่ว่าในกรณีใดๆ ก็ตาม จะไม่รับผิดชอบต่อธุรกรรมที่กระทำขึ้นระหว่างลูกค้ากับตัวแทนรับชำระเงิน"
+
+msgid "0-1 year"
+msgstr "0-1 ปี"
+
+msgid "0-5 transactions in the past 12 months"
+msgstr "มี 0-5 ธุรกรรมในระยะเวลา 12 เดือน ที่ผ่านมา"
+
+msgid "1"
+msgstr "1"
+
+msgid "1 Day"
+msgstr "1 วัน"
+
+msgid "1 Hour"
+msgstr "1 ชั่วโมง"
+
+msgid "1 Minute"
+msgstr "1 นาที"
+
+msgid "1 Tick"
+msgstr "1 ช่วงเวลา"
+
+msgid "1-2 years"
+msgstr "1-2 ปี"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 Minutes"
+msgstr "10 นาที"
+
+msgid "10m"
+msgstr "10 นาที"
+
+msgid "15"
+msgstr "15"
+
+msgid "15 Minutes"
+msgstr "15 นาที"
+
+msgid "15m"
+msgstr "15 นาที"
+
+msgid "1d"
+msgstr "1 วัน"
+
+msgid "1h"
+msgstr "1 ชั่วโมง"
+
+msgid "1m"
+msgstr "1 นาที"
+
+msgid "1t"
+msgstr "1t"
+
+msgid "2"
+msgstr "2"
+
+msgid "2 Hours"
+msgstr "2 ชั่วโมง"
+
+msgid "2 Minutes"
+msgstr "2 นาที"
+
+msgid "2h"
+msgstr "2 ชั่วโมง"
+
+msgid "2m"
+msgstr "2 นาที"
+
+msgid "3"
+msgstr "3"
+
+msgid "3 Minutes"
+msgstr "3 นาที"
+
+msgid "30"
+msgstr "30"
+
+msgid "30 Minutes"
+msgstr "30 นาที"
+
+msgid "30-day limit on losses"
+msgstr "วงเงินขาดทุนในช่วง 30 วัน"
+
+msgid "30-day turnover limit"
+msgstr "วงเงินซื้อขาย 30 วัน"
+
+msgid "30m"
+msgstr "30 นาที"
+
+msgid "3m"
+msgstr "3 นาที"
+
+msgid "4"
+msgstr "4"
+
+msgid "4 Hours"
+msgstr "4 ชั่วโมง"
+
+msgid "40 transactions or more in the past 12 months"
+msgstr "มีมากกว่า 40 ธุรกรรม ภายใน 12 เดือนที่ผ่านมา"
+
+msgid "4h"
+msgstr "4 ชั่วโมง"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 Minutes"
+msgstr "5 นาที"
+
+msgid "5m"
+msgstr "5 นาที"
+
+msgid "6-10 transactions in the past 12 months"
+msgstr "มี 6-10 ธุรกรรมในระยะเวลา 12 เดือน ที่ผ่านมา"
+
+msgid "7-day limit on losses"
+msgstr "วงเงินขาดทุนในช่วง 7 วัน"
+
+msgid "7-day turnover limit"
+msgstr "วงเงินซื้อขาย 7 วัน"
+
+msgid "8"
+msgstr "8"
+
+msgid "8 Hours"
+msgstr "8 ชั่วโมง"
+
+msgid "8h"
+msgstr "8 ชั่วโมง"
+
+msgid "AM"
+msgstr "น."
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+msgid "Accessible from any web browser in 13 languages"
+msgstr "เข้าถึงได้จากเว็บเบราว์เซอร์ใดๆก็ได้ 13 ภาษา"
+
+msgid "Account balance"
+msgstr "ยอดคงเหลือในบัญชี"
+
+msgid "Account balance:"
+msgstr "ยอดคงเหลือในบัญชี:"
+
+msgid "Account id not found."
+msgstr "ไม่พบหมายเลขบัญชี"
+
+msgid "Account token not found."
+msgstr "ไม่พบโทเค่นของบัญชี"
+
+msgid "Action"
+msgstr "การดำเนินการ"
+
+msgid "Active"
+msgstr "ใช้งานอยู่"
+
+msgid "Active Since"
+msgstr "ใช้งานเมื่อ"
+
+msgid "Add comparisons"
+msgstr "เพิ่มการเปรียบเทียบ"
+
+msgid "Add indicator"
+msgstr "เพิ่มตัวบ่งชี้"
+
+msgid "Add/Remove comparisons"
+msgstr "เพิ่ม/ลบ การเปรียบเทียบ"
+
+msgid "Add/Remove indicators"
+msgstr "เพิ่ม/ลบ ตัวชี้วัด"
+
+msgid "Add/remove indicators"
+msgstr "เพิ่ม/ลบ ตัวชี้วัด"
+
+msgid "Added new workspace %"
+msgstr "เพิ่มพื้นที่ใช้งานใหม่ %"
+
+msgid "Admin"
+msgstr "ผู้ดูแลระบบ"
+
+msgid "All fields are optional. If you wish to copy all assets and trade types, please leave all fields empty"
+msgstr "ฟิลด์ข้อมูลทั้งหมดเป็นแบบให้เลือก ถ้าคุณต้องการคัดลอกสินทรัพย์และประเภทการซื้อขายทั้งหมด กรุณาปล่อยฟิลด์เหล่านี้ว่าง"
+
+msgid "All times are in GMT (Greenwich Mean Time)"
+msgstr "เวลาที่ใช้อ้างอิง คือ GMT (Greenwich Mean Time) เวลามาตรฐานเมืองกรีนิช"
+
+msgid "Amount"
+msgstr "มูลค่า"
+
+msgid "Amount per point"
+msgstr "จำนวนต่อจุด"
+
+msgid "Apply"
+msgstr "ใช้งาน"
+
+msgid "Apply to become a Binary.com"
+msgstr "สมัครเพื่อเป็นตัวแทนรับชำระเงินกับ Binary.com"
+
+msgid "Apr"
+msgstr "เม.ย."
+
+msgid "April"
+msgstr "เมษายน"
+
+msgid "Are you sure you want to delete template?"
+msgstr "ท่านแน่ใจหรือไม่ว่า ต้องการลบแม่แบบนี้?"
+
+msgid "Are you sure you want to delete this token?"
+msgstr "ท่านแน่ใจหรือไม่ ท่านต้องการลบโทเค่นนี้?"
+
+msgid "Are you sure you want to overwrite current template?"
+msgstr "ท่านแน่ใจหรือไม่ว่า ต้องการเขียนทับแม่แบบปัจจุบัน?"
+
+msgid "Asian down"
+msgstr "เอเชียลง"
+
+msgid "Asian up"
+msgstr "เอเชียขึ้น"
+
+msgid "Asians"
+msgstr "Asians"
+
+msgid "Asset"
+msgstr "สินทรัพย์"
+
+msgid "Asset Index"
+msgstr "ดัชนีสินทรัพย์"
+
+msgid "Assets"
+msgstr "สินทรัพย์"
+
+msgid "Aug"
+msgstr "ส.ค."
+
+msgid "August"
+msgstr "สิงหาคม"
+
+msgid "Avg. Duration of Open Positions"
+msgstr "ระยะเวลาเฉลี่ยของตำแหน่งที่เปิด"
+
+msgid "Avg. Loss"
+msgstr "ขาดทุนเฉลี่ย"
+
+msgid "Avg. Profit"
+msgstr "กำไรเฉลี่ย"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "Back to list"
+msgstr "กลับไปที่รายการ"
+
+msgid "Barrier"
+msgstr "Barrier"
+
+msgid "Barrier offset"
+msgstr "Barrier ออฟเซ็ท"
+
+msgid "Bill Williams"
+msgstr "Bill Williams"
+
+msgid "Binary.com"
+msgstr "Binary.com"
+
+msgid "Binary.com : Webtrader"
+msgstr "Binary.com : เว็บเทรดเดอร์ (Webtrader)"
+
+msgid "Binary.com is an award-winning online trading provider that helps its clients to trade on financial markets through binary options and CFDs. Trading binary options and CFDs on Volatility Indices is classified as a gambling activity. Remember that gambling can be addictive - please play responsibly. Learn more about [_1]Responsible Trading[_2]. Some products are not available in all countries. This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
+msgstr "Binary.com เป็นผู้ให้บริการการซื้อขายออนไลน์ที่ได้รับรางวัลซึ่งทำให้ลูกค้าได้ทำการซื้อขายในตลาดการเงินผ่านทางไบนารีออปชันและ CFD การซื้อขายไบนารีออปชันและ CFD บนดัชนีผันผวนถูกจัดให้เป็นกิจกรรมด้านการพนัน โปรดจำไว้ว่า การพนันอาจทำให้เกิดการเสพติด กรุณาดำเนินการซื้อขายด้วยความรับผิดชอบ ศึกษาเพิ่มเติมเกี่ยวกับ [_1]ความรับผิดชอบในการซื้อขาย[_2] ผลิตภัณฑ์บางรายการยังไม่มีในทุกประเทศ การบริการทางเว็บไซต์นี้ไม่มีในบางประเทศ เช่น สหรัฐอเมริกา แคนาดา ฮ่องกง หรือ ไม่ได้ให้บริการแก่บุคคลที่อายุต่ำกว่า 18 ปี"
+
+msgid "Blank window"
+msgstr "หน้าต่างว่าง"
+
+msgid "Bought"
+msgstr "ซื้อ"
+
+msgid "Brand of first car"
+msgstr "ยี่ห้อของรถยนต์คันแรก"
+
+msgid "Browser upgrade required"
+msgstr "จำเป็นต้องอัพเกรดเบราเซอร์"
+
+msgid "Buy Price"
+msgstr "ราคาซื้อ"
+
+msgid "Buy price"
+msgstr "ราคาซื้อ"
+
+msgid "By clicking OK, you confirm that you have read and accepted the updated"
+msgstr "เมื่อท่านกดปุ่มตกลง (OK) ท่านยืนยันว่า ได้อ่านและยอมรับการแก้ไขดังกล่าว"
+
+msgid "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. Between 74-89% of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money."
+msgstr "CFD คือ เครื่องมือทางการเงินที่มีความซับซ้อน และมีความเสี่ยงสูงในการสูญเสียเงินอย่างรวดเร็วตามอัตราเลเวอเรจ ระหว่าง 74-89% ของบัญชีนักลงทุนรายย่อยขาดทุนเมื่อซื้อขาย CFD ท่านจึงควรพิจารณาให้ครอบคลุมหากว่า ท่านมีความเข้าใจในการซื้อขาย CFD และท่านมีศักยภาพในการรับความเสี่ยงในอัตราสูงจากการขาดทุนของท่าน"
+
+msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up virtual-money accounts."
+msgstr "สามารถใช้ในการซื้อและขายสัญญาต่างๆ การต่ออายุ และการเติมเงินในบัญชีเงินเสมือนจริง"
+
+msgid "Can be used to open accounts, set settings, manage token usage, and more."
+msgstr "สามารถใช้เพื่อเปิดบัญชี ตั้งค่าต่างๆ จัดการการใช้โทเค่น และอื่นๆ"
+
+msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
+msgstr "สามารถใช้ในการดูกิจกรรมที่เกิดขึ้นของบัญชี รวมถึงการตั้งค่า วงเงิน งบดุล ประวัติการซื้อขาย และอื่นๆ"
+
+msgid "Can be used to withdraw to payment agents, transfer funds between accounts, and set / clear cashier passwords."
+msgstr "สามารถใช้เพื่อถอนเงินให้แก่ตัวแทนชำระ โอนเงินระหว่างบัญชี และตั้งค่า/ลบรหัสผ่านแคชเชียร์"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Candles"
+msgstr "แท่งเทียน"
+
+msgid "Candlestick down-color"
+msgstr "สีแท่งเทียน ลง"
+
+msgid "Candlestick down-line"
+msgstr "เส้นแท่งเทียน ลง"
+
+msgid "Candlestick up-color"
+msgstr "สีแท่งเทียน ขึ้น"
+
+msgid "Candlestick up-line"
+msgstr "เส้นแท่งเทียน ขึ้น"
+
+msgid "Cash Balance"
+msgstr "แคชบาลานซ์"
+
+msgid "Change password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "Chart"
+msgstr "แผนภูมิ"
+
+msgid "Chart Themes"
+msgstr "รูปแบบแผนภูมิ"
+
+msgid "Chart background"
+msgstr "พื้นหลังแผนภูมิ"
+
+msgid "Chart context menu"
+msgstr "เมนูแผนภูมิ"
+
+msgid "Chart template"
+msgstr "แม่แบบแผนภูมิ"
+
+msgid "Chart type"
+msgstr "ชนิดแผนภูมิ"
+
+msgid "Choose your pereferred payment agent"
+msgstr "เลือกตัวแทนชำระเงินที่ท่านพอใจ"
+
+msgid "Choose your pereferred withdrawal method"
+msgstr "เลือกวิธีการถอนเงินที่ท่านพอใจ"
+
+msgid "Chrome"
+msgstr "Chrome"
+
+msgid "Click to log in with your Binary.com account"
+msgstr "คลิกเพื่อเข้าสู่ระบบด้วยบัญชี Binary.com ของท่าน"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Closes"
+msgstr "ปิด"
+
+msgid "Comparisons"
+msgstr "การเปรียบเทียบ"
+
+msgid "Conditions"
+msgstr "เงื่อนไข"
+
+msgid "Confirm transfer"
+msgstr "ยืนยันการโอนเงิน"
+
+msgid "Connection closed."
+msgstr "การเชื่อมต่อถูกปิด"
+
+msgid "Connection error."
+msgstr "การเชื่อมต่อมีความผิดพลาด"
+
+msgid "Construction"
+msgstr "การก่อสร้าง"
+
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
+
+msgid "Continue Trading"
+msgstr "ดำเนินการซื้อขาย"
+
+msgid "Contract"
+msgstr "สัญญา"
+
+msgid "Contract Confirmation"
+msgstr "การยืนยันสัญญา"
+
+msgid "Contract Details"
+msgstr "รายละเอียดสัญญา"
+
+msgid "Contracts"
+msgstr "สัญญา"
+
+msgid "Copier"
+msgstr "ตัวช่วยคัดลอก"
+
+msgid "Copy Trading"
+msgstr "คัดลอกการซื้อขาย"
+
+msgid "Create"
+msgstr "สร้าง"
+
+msgid "Create Account"
+msgstr "สร้างบัญชี"
+
+msgid "Create token"
+msgstr "สร้างโทเค่น"
+
+msgid "Credit/Debit"
+msgstr "เครดิต/เดบิต"
+
+msgid "Crosshair"
+msgstr "เส้นตัดในกราฟ (Crosshair)"
+
+msgid "Current Level"
+msgstr "ระดับปัจจุบัน"
+
+msgid "Current Spot"
+msgstr "สปอตปัจจุบัน"
+
+msgid "Current Spot Time"
+msgstr "เวลาของสปอตปัจจุบัน"
+
+msgid "Current comparisons"
+msgstr "การเปรียบเทียบปัจจุบัน"
+
+msgid "Current indicators"
+msgstr "ตัวชี้วัดปัจจุบัน"
+
+msgid "Current password"
+msgstr "รหัสผ่านปัจจุบัน"
+
+msgid "Current time"
+msgstr "เวลาปัจจุบัน"
+
+msgid "Custom Theme"
+msgstr "ชุดรูปแบบกำหนดเอง"
+
+msgid "Customize chart appearance"
+msgstr "ปรับแต่งหน้าตาของแผนภูมิ"
+
+msgid "Daily limit on losses"
+msgstr "วงเงินขาดทุนต่อวัน"
+
+msgid "Daily turnover limit"
+msgstr "วงเงินซื้อขายต่อวัน"
+
+msgid "Dark Blue"
+msgstr "สีน้ำเงินเข้ม"
+
+msgid "Dark Green"
+msgstr "สีเขียวเข้ม"
+
+msgid "Dark Unica"
+msgstr "พื้นดำทึบ"
+
+msgid "Date"
+msgstr "วันที่"
+
+msgid "Days"
+msgstr "วัน"
+
+msgid "Dec"
+msgstr "ธ.ค."
+
+msgid "December"
+msgstr "ธันวาคม"
+
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Demo for affiliates to access Webtrader charts"
+msgstr "สาธิตให้พันธมิตรเพื่อใช้งานแผนภูมิของ Webtrader"
+
+msgid "Deposit funds"
+msgstr "การฝากเงิน"
+
+msgid "Deposit of USD"
+msgstr "การฝากเงินดอลลาร์สหรัฐ"
+
+msgid "Describe what this token is for to find it later"
+msgstr "อธิบายว่า โทเค่นนี้มีไว้สำหรับการค้นหาภายหลัง"
+
+msgid "Description"
+msgstr "รายละเอียด"
+
+msgid "Deselect"
+msgstr "ยกเลิกการเลือก"
+
+msgid "Differs"
+msgstr "แตกต่าง"
+
+msgid "Digits"
+msgstr "ตัวเลข"
+
+msgid "Do you want to install Webtrader chrome extension?"
+msgstr "ท่านต้องการติดตั้ง Webtrader ส่วนเพิ่มของ Chrome หรือไม่?"
+
+msgid "Don't have an account yet? Sign up and get a $10,000 virtual account"
+msgstr "ท่านมีบัญชีหรือยัง? สมัครและรับบัญชีทดลองพร้อมเงินทดลอง 10,000 เหรียญสหรัฐ"
+
+msgid "Done"
+msgstr "เสร็จ"
+
+msgid "Done. The funds are being transferred to the payment agent"
+msgstr "เสร็จแล้ว หลักประกันได้ถูกโอนไปยังตัวแทนรับชำระเงินแล้ว"
+
+msgid "Done. The funds are transferred"
+msgstr "เรียบร้อย หลักประกันได้ถูกโอนแล้ว"
+
+msgid "Dot"
+msgstr "จุด"
+
+msgid "Double click the object to remove"
+msgstr "ดับเบิ้ลคลิกเพื่อลบวัตถุ"
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+msgid "Download CSV"
+msgstr "ดาวน์โหลด CSV"
+
+msgid "Download JPEG image"
+msgstr "ดาวน์โหลดรูปภาพ JPEG"
+
+msgid "Download PDF document"
+msgstr "ดาวน์โหลดเอกสาร PDF"
+
+msgid "Download PNG"
+msgstr "ดาวน์โหลด PNG"
+
+msgid "Download PNG image"
+msgstr "ดาวน์โหลดรูปภาพ PNG"
+
+msgid "Download SVG"
+msgstr "ดาวน์โหลด SVG"
+
+msgid "Download SVG vector image"
+msgstr "ดาวน์โหลดภาพเวกเตอร์ SVG"
+
+msgid "Download as"
+msgstr "ดาวน์โหลดเป็น"
+
+msgid "Downloading .csv"
+msgstr "กำลังดาวน์โหลด .csv"
+
+msgid "Downloading template as"
+msgstr "ดาวน์โหลดแม่แบบเป็น"
+
+msgid "Downloading workspace as %1"
+msgstr "กำลังดาวน์โหลดพื้นที่ใช้งานให้เป็น %1"
+
+msgid "Drawing tools"
+msgstr "เครื่องมือวาดภาพ"
+
+msgid "Duration"
+msgstr "ระยะเวลา"
+
+msgid "EURUSD"
+msgstr "EURUSD"
+
+msgid "Edge"
+msgstr "ขอบ"
+
+msgid "Education"
+msgstr "การศึกษา"
+
+msgid "Embed code"
+msgstr "รหัสที่ฝังไว้"
+
+msgid "End Time"
+msgstr "เวลาสิ้นสุด"
+
+msgid "Ends in"
+msgstr "สิ้นสุดใน"
+
+msgid "Ends out"
+msgstr "สิ้นสุดนอก"
+
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+msgid "Enjoy an intuitive trading interface with advanced functionality that lets you monitor all of your favourite assets and markets at the same time, as well as essential charts, the asset index, trading times, and historical data. Most importantly, you get to choose what you want to see on your screen"
+msgstr "เพลิดเพลินไปกับการเชื่อมต่อในการซื้อขายที่ใช้ง่าย ด้วยฟังก์ชันขั้นสูงที่ให้ท่านได้ตรวจสอบสินทรัพย์ที่ท่านโปรดปรานทั้งหมดและตลาดในเวลาเดียวกัน เช่นเดียวกับแผนภูมิสำคัญ ดัชนีสินทรัพย์ เวลาการซื้อขาย และข้อมูลประวัติ ที่สำคัญที่สุด ท่านเลือกได้ว่าต้องการเห็นอะไรในหน้าจอ"
+
+msgid "Enter a valid trader token"
+msgstr "กรอกโทเค่นของนักลงทุนที่ถูกต้อง"
+
+msgid "Enter your current password"
+msgstr "โปรดป้อนรหัสผ่านปัจจุบันของท่าน"
+
+msgid "Entry Spot"
+msgstr "สปอตเริ่มต้น"
+
+msgid "Entry spot"
+msgstr "สปอตเริ่มต้น"
+
+msgid "Error getting data for %1"
+msgstr "ข้อผิดพลาดในการรับข้อมูลสำหรับ %1"
+
+msgid "Even"
+msgstr "คู่"
+
+msgid "Exclude me from the website until"
+msgstr "พักการใช้งานของฉันจากเว็บไซต์จนถึง"
+
+msgid "Exclude time"
+msgstr "เวลาของการพัก"
+
+msgid "Exclude time must be after today."
+msgstr "เวลาของการพักจะต้องเป็นหลังจากวันนี้"
+
+msgid "Exclude until time cannot be less than 6 months."
+msgstr "เวลาการพักต้องไม่น้อยกว่า 6 เดือน"
+
+msgid "Exclude until time cannot be more than 5 years."
+msgstr "เวลาการพักต้องไม่น้อยกว่า 5 เดือน"
+
+msgid "Exit Spot"
+msgstr "สปอตสิ้นสุด"
+
+msgid "Exit Spot Time"
+msgstr "เวลาที่สปอตสิ้นสุด"
+
+msgid "Exit spot"
+msgstr "สปอตสิ้นสุด"
+
+msgid "Explanation"
+msgstr "คำอธิบาย"
+
+msgid "Failed to update the password"
+msgstr "ไม่สามารถอัพเดทรหัสผ่าน"
+
+msgid "Fall"
+msgstr "Fall"
+
+msgid "Favorites"
+msgstr "รายการโปรด"
+
+msgid "Favourite artist"
+msgstr "ศิลปินที่ท่านโปรดปราน"
+
+msgid "Favourite dish"
+msgstr "อาหารที่ท่านโปรดปราน"
+
+msgid "Features"
+msgstr "คุณลักษณะ"
+
+msgid "Feb"
+msgstr "ก.พ."
+
+msgid "February"
+msgstr "กุมภาพันธ์"
+
+msgid "Final Price"
+msgstr "ราคาสุดท้าย"
+
+msgid "Final price"
+msgstr "ราคาสุดท้าย"
+
+msgid "Finance"
+msgstr "การเงิน"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Fri"
+msgstr "ศ"
+
+msgid "Friday"
+msgstr "วันศุกร์"
+
+msgid "From"
+msgstr "จาก"
+
+msgid "Full-screen trading interface"
+msgstr "อินเทอร์เฟสของการซื้อขายแบบเต็มหน้าตอ"
+
+msgid "Further instructions"
+msgstr "คำแนะนำเพิ่มเติม"
+
+msgid "GAMSTOP is a free service that enables you to self-exclude from all online gambling companies licensed in Great Britain"
+msgstr "GAMSTOP เป็นบริการฟรีที่ช่วยให้ท่านสามารถพักตัวเองจากบริษัทที่ให้บริการด้านการพนันออนไลน์ทั้งหมด และได้รับอนุญาตในสหราชอาณาจักร"
+
+msgid "Get API token from trader(s) and add it in your list"
+msgstr "ใช้ API โทเค่น จากนักลงทุน และเพิ่มเข้าในรายการของท่าน"
+
+msgid "Go to"
+msgstr "ไปที่"
+
+msgid "Goes out"
+msgstr "Goes out"
+
+msgid "Gray"
+msgstr "สีเทา"
+
+msgid "Grid"
+msgstr "Grid"
+
+msgid "Grid Light"
+msgstr "Grid Light"
+
+msgid "Health"
+msgstr "สุขภาพ"
+
+msgid "High"
+msgstr "สูง"
+
+msgid "High Barrier"
+msgstr "Barrier สูง"
+
+msgid "High barrier"
+msgstr "Barrier สูง"
+
+msgid "High barrier offset"
+msgstr "Barrier สูง ที่หักกลบลบกัน"
+
+msgid "Higher"
+msgstr "สูงกว่า"
+
+msgid "Historical Data"
+msgstr "ข้อมูลเก่า"
+
+msgid "Historical Data For"
+msgstr "ข้อมูลเก่าสำหรับ"
+
+msgid "Horizontal line"
+msgstr "เส้นแนวนอน"
+
+msgid "Hour"
+msgstr "ชั่วโมง"
+
+msgid "Hours"
+msgstr "ชั่วโมง"
+
+msgid "IMPORTANT DISCLAIMER"
+msgstr "ข้อสงวนสิทธิ์ที่สำคัญ"
+
+msgid "IMPORTANT DISCLAIMER - Binary.com is not affiliated with any of the payment agents listed above. Each payment agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by Binary.com. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of payment agents before sending them any money. Binary.com shall not in any circumstance be held responsible for transactions made between customers and payment agents"
+msgstr "ข้อสงวนสิทธิ์ที่สำคัญ - Binary.com ไม่ได้เข้าร่วมเป็นพันธมิตรกับตัวแทนรับชำระเงินที่แจกแจงข้างต้น ตัวแทนรับชำระเงินแต่ละรายดำเนินการในฐานะผู้ให้บริการอิสระ และไม่ได้รับการรับรอง รับประกัน หรืออนุมัติโดย Binary.com ลูกค้าที่ติดต่อกับตัวแทนรับชำระเงินจะต้องรับผิดชอบต่อความเสี่ยงต่างๆด้วยตัวเอง ขอแนะนำให้ลูกค้าตรวจสอบข้อมูลหลักฐานอ้างอิงของตัวแทนรับชำระเงินก่อนที่จะส่งเงินใดๆให้กับตัวแทน Binary.com ไม่ว่าในกรณีใดๆ ก็ตาม จะไม่รับผิดชอบต่อธุรกรรมที่กระทำขึ้นระหว่างลูกค้ากับตัวแทนรับชำระเงิน"
+
+msgid "If you are considering self-exclusion, you may wish to register with GAMSTOP"
+msgstr "หากท่านกำลังพิจารณาพักตัวเองจากการใช้งานระบบ ท่านอาจต้องการลงทะเบียนกับ GAMSTOP ด้วย"
+
+msgid "If you select a"
+msgstr "หากท่านเลือก"
+
+msgid "If you select a specific"
+msgstr "หากท่านเลือก"
+
+msgid "In order to properly apply theme, a full refresh of page is required. Are you sure you want to proceed?"
+msgstr "เพื่อการใช้งานธีมอย่างมีประสิทธิภาพ ต้องมีการรีเฟรชหน้าจอ ท่านต้องการดำเนินการหรือไม่?"
+
+msgid "In the EU, financial products are offered by Binary Investments (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, licensed and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2])."
+msgstr "ในสหภาพยุโรป Binary Investments (Europe) Ltd ให้บริการผลิตภัณฑ์ทางการเงิน บริษัทฯ มีที่ตั้งสำนักงานอยู่ที่อาคาร W Business Centre ชั้น 3 Triq Dun Karm, Birkirkara, BKR 9033 ประเทศมอลตา ได้รับใบอนุญาตและกำกับดูแลในฐานะผู้ให้บริการทางการลงทุน ประเภทที่ 3 โดย Malta Financial Services Authority ([_1]ใบอนุญาตเลขที่ IS/70156[_2])"
+
+msgid "In the EU, financial products are offered by Binary Investments (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2])."
+msgstr "ในสหภาพยุโรป Binary Investments (Europe) Ltd ให้บริการผลิตภัณฑ์ทางการเงิน บริษัทฯ มีที่ตั้งสำนักงานอยู่ที่ อาคาร W Business Centre ชั้น 3 Triq Dun Karm, Birkirkara, BKR 9033 ประเทศมอลตา ได้รับใบอนุญาตและกำกับดูแลในฐานะผู้ให้บริการทางการลงทุน ประเภทที่ 3 โดย Malta Financial Services Authority ([_1]ใบอนุญาตเลขที่ IS/70156[_2])"
+
+msgid "In the Isle of Man and the UK, Volatility Indices are offered by Binary (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles; licensed and regulated respectively by (1) the Gambling Supervision Commission in the Isle of Man (current licence issued on 31 August 2017) and by (2) the Gambling Commission in the UK (licence [_1]reference no: 39172[_2])."
+msgstr "ที่เกาะ Isle of Man และสหราชอาณาจักร ดัชนีผันผวนถูกเสนอโดย Binary (IOM) Ltd. ชั้นหนึ่ง อาคาร Millennium House ถนนวิคตอเรีย ดักลาส IM2 4RW เกาะ Isle of Man ในบริติชไอลส์ โดยได้รับใบอนุญาตและการควบคุมดูแลตามกฎหมายโดย (1) Gambling Supervision Commission บนเกาะ Isle of Man (ใบอนุญาตปัจจุบันออกให้เมื่อวันที่ 31 สิงหาคม 2017) และโดย (2) Gambling Commission ในสหราชอาณาจักร (ใบอนุญาต[_1]หมายเลขอ้างอิง: 39172[_2])"
+
+msgid "In the rest of the EU, Volatility Indices are offered by Binary (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority in Malta (licence no. MGA/B2C/102/2000 issued on 01 August 2018), for UK clients by (2) the UK Gambling Commission (licence [_1]reference no: 39495[_2]), and for Irish clients by (3) the Revenue Commissioners in Ireland (Remote Bookmaker's Licence no. 1010285 issued on 1 July 2017). View complete [_3]Regulatory Information[_4]."
+msgstr "ในประเทศอื่นๆ ของสหภาพยุโรป Binary (Europe) Ltd. ให้บริการดัชนีผันผวน บริษัทฯ มีที่ตั้งสำนักงานอยู่ที่ อาคาร W Business Centre ชั้น 3 Triq Dun Karm, Birkirkara, BKR 9033 ประเทศมอลตา บริษัทฯ ได้รับใบอนุญาตและกำกับดูแลตามกฎหมายโดย (1) Malta Gaming Authority ประเทศมอลตา (ใบอนุญาตเลขที่ MGA/B2C/102/2000 ออกให้เมื่อวันที่ 1 สิงหาคม ค.ศ. 2018) สำหรับลูกค้าสหราชอาณาจักร โดย (2) UK Gambling Commission (ใบอนุญาต [_1]หมายเลขอ้างอิง: 39495[_2]) และสำหรับลูกค้าไอร์แลนด์ โดย (3) Revenue Commissioners ในประเทศไอร์แลนด์ (ใบอนุญาต Remote Bookmaker เลขที่ 1010285 ออกให้เมื่อวันที่ 1 กรกฎาคม ค.ศ. 2017) ดู [_3]ข้อมูลด้านกฎหมาย[_4] ฉบับสมบูรณ์"
+
+msgid "In/Out"
+msgstr "In/Out"
+
+msgid "Indicative"
+msgstr "บ่งชี้"
+
+msgid "Indicative Price"
+msgstr "ราคาดัชนี"
+
+msgid "Indicators"
+msgstr "ดัชนีต่างๆ"
+
+msgid "Instruments"
+msgstr "เครื่องมือ"
+
+msgid "Invalid JSON file"
+msgstr "ไฟล์ JSON ไม่ถูกต้อง"
+
+msgid "Invalid parameter(s)"
+msgstr "ตัวแปรไม่ถูกต้อง"
+
+msgid "Invalid template type"
+msgstr "ประเภทแม่แบบไม่ถูกต้อง"
+
+msgid "Invalid template type."
+msgstr "ประเภทแม่แบบไม่ถูกต้อง"
+
+msgid "Investments & Dividends"
+msgstr "การลงทุนและเงินปันผล"
+
+msgid "Jan"
+msgstr "ม.ค."
+
+msgid "January"
+msgstr "มกราคม"
+
+msgid "Japan accounts are not supported."
+msgstr "ไม่สนับสนุนบัญชีญี่ปุ่น"
+
+msgid "Jul"
+msgstr "ก.ค."
+
+msgid "July"
+msgstr "กรกฎาคม"
+
+msgid "Jump to:"
+msgstr "ไปที่:"
+
+msgid "Jun"
+msgstr "มิ.ย."
+
+msgid "June"
+msgstr "มิถุนายน"
+
+msgid "Last 12 mnts Profitable Trades"
+msgstr "ตารางผลกำไร 12 รอบเดือนที่ผ่านมา"
+
+msgid "Last Digit Prediction"
+msgstr "การพยากรณ์เลขหลักสุดท้าย"
+
+msgid "Last Digit is Over"
+msgstr "เลขหลักสุดท้ายมากกว่า"
+
+msgid "Last Digit is Under"
+msgstr "เลขหลักสุดท้ายต่ำกว่า"
+
+msgid "Last used"
+msgstr "ใช้ครั้งล่าสุด"
+
+msgid "Less than"
+msgstr "น้อยกว่า  "
+
+msgid "Line"
+msgstr "เส้น"
+
+msgid "Line Dot"
+msgstr "เส้นจุด"
+
+msgid "Link"
+msgstr "ลิงค์"
+
+msgid "Load Workspace"
+msgstr "โหลด Workspace"
+
+msgid "Load chart template"
+msgstr "โหลดแผนภูมิแม่แบบ"
+
+msgid "Load trade template"
+msgstr "โหลดแม่แบบสำหรับซื้อขาย"
+
+msgid "Loading ..."
+msgstr "กำลังโหลด ..."
+
+msgid "Loading Asset Index ..."
+msgstr "กำลังโหลดดัชนีสินทรัพย์..."
+
+msgid "Loading Copy Trade..."
+msgstr "กำลังโหลดคัดลอกการซื้อขาย..."
+
+msgid "Loading Download/View Data ..."
+msgstr "กำลังโหลด ดาวน์โหลด/ดูข้อมูล ..."
+
+msgid "Loading Password dialog ..."
+msgstr "กำลังโหลด Password Dialog ..."
+
+msgid "Loading Profit Table ..."
+msgstr "กำลังโหลดตารางกำไร ..."
+
+msgid "Loading Self-Exclusion ..."
+msgstr "กำลังโหลดเมนูพักการใช้งาน ..."
+
+msgid "Loading Statement Table ..."
+msgstr "กำลังโหลดตารางรายการธุรกรรม..."
+
+msgid "Loading Token management ..."
+msgstr "กำลังโหลดการจัดการโทเค่น ..."
+
+msgid "Loading Trading Times ..."
+msgstr "กำลังโหลดเวลาซื้อขาย ..."
+
+msgid "Loading chart and trade menus ..."
+msgstr "กำลังโหลดแผนภูมิและเมนูในการเทรด ..."
+
+msgid "Loading custom theme configuration..."
+msgstr "กำลังโหลดค่าตัวแปรในการปรับแต่งธีม..."
+
+msgid "Loading portfolio ..."
+msgstr "กำลังโหลดพอร์ตโฟลิโอ ..."
+
+msgid "Loading self-exclusion settings."
+msgstr "กำลังโหลดการตั้งค่าการพักการใช้งาน"
+
+msgid "Loading..."
+msgstr "กำลังโหลด..."
+
+msgid "Log in"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Log in time"
+msgstr "เวลาเข้าสู่ระบบ"
+
+msgid "Logging out because of self-exclusion session time out!"
+msgstr "ออกจากระบบเนื่องจากหมดเวลาของเซสชันการพักการใช้งาน"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+msgid "Low"
+msgstr "ต่ำ"
+
+msgid "Low barrier"
+msgstr "Barrier ต่ำ"
+
+msgid "Low barrier offset"
+msgstr "Barrier ต่ำ ที่หักกลบลบกัน"
+
+msgid "Lower"
+msgstr "ต่ำกว่า"
+
+msgid "Make sure that you have first agreed with the Agent on the terms of payment before submitting your request. Once you click the 'Confirm transfer' button the funds will be withdrawn from your account and will be sent to the Payment Agent you have chosen. The Agent will send you the withdrawal amount (minus the commission) via your preferred payment method"
+msgstr "โปรดแน่ใจว่า ท่านได้แสดงความยินยอมต่อตัวแทนรับชำระเงินในเงื่อนไขการชำระเงินก่อนส่งคำขอของท่าน เมื่อท่านคลิกปุ่ม \"ยืนยันการโอน\" หลักประกันจะถูกถอนจากบัญชีของท่านและจะถูกส่งไปยังตัวแทนรับชำระเงินที่ท่านเลือก ตัวแทนรับชำระเงินจะส่งจำนวนเงินที่ถอน (หักด้วยค่าธรรมเนียม) ให้ท่านตามช่องทางการรับเงินที่ท่านเลือก"
+
+msgid "Manage"
+msgstr "จัดการ"
+
+msgid "Mar"
+msgstr "มี.ค."
+
+msgid "March"
+msgstr "มีนาคม"
+
+msgid "Matches"
+msgstr "จับคู่"
+
+msgid "Max. Trade Stake"
+msgstr "เดิมพันสูงสุด"
+
+msgid "Maximum account cash balance"
+msgstr "มูลค่าบัญชีเงินสดคงเหลือสูงสุด"
+
+msgid "Maximum aggregate contract purchases over a 30-day period"
+msgstr "มูลค่าสัญญารวมสูงสุดที่ซื้อในระยะเวลา 30 วัน"
+
+msgid "Maximum aggregate contract purchases over a 7-day period"
+msgstr "มูลค่าสัญญารวมสูงสุดที่ซื้อในระยะเวลา 7 วัน"
+
+msgid "Maximum aggregate contract purchases per day"
+msgstr "มูลค่าสัญญารวมสูงสุดที่ซื้อต่อวัน"
+
+msgid "Maximum aggregate loss over a 30-day period"
+msgstr "มูลค่ารวมที่ขาดทุนสูงสุดในระยะเวลา 30 วัน"
+
+msgid "Maximum aggregate loss per day"
+msgstr "มูลค่ารวมที่ขาดทุนสูงสุดต่อวัน"
+
+msgid "Maximum balance"
+msgstr "ยอดคงเหลือสูงสุด"
+
+msgid "Maximum number of open positions"
+msgstr "จำนวนสูงสุดของโพซิชั่นที่เปิดอยู่"
+
+msgid "Maximum open positions"
+msgstr "โพซิชั่นที่เปิดอยู่สูงสุด"
+
+msgid "May"
+msgstr "พ.ค."
+
+msgid "Memorable date"
+msgstr "วันแห่งความทรงจำ"
+
+msgid "Memorable town/city"
+msgstr "เมืองแห่งความทรงจำ"
+
+msgid "Min trade stake should be lower than max trade stake."
+msgstr "การเดิมพันต่ำสุดควรต่ำกว่าการเดิมพันสูงสุด"
+
+msgid "Min. Trade Stake"
+msgstr "เดิมพันต่ำสุด"
+
+msgid "Minimum of six lower and uppercase letters with numbers"
+msgstr "จำนวนตัวอักขระอย่างน้อย 6 อักขระ ซึ่งเป็นอักษรตัวเล็ก ตัวใหญ่ และตัวเลข"
+
+msgid "Minus the agent's commission"
+msgstr "หักค่านายหน้าตัวแทน"
+
+msgid "Minute"
+msgstr "นาที"
+
+msgid "Minutes"
+msgstr "นาที"
+
+msgid "Miss"
+msgstr "นางสาว"
+
+msgid "Momentum Indicators"
+msgstr "ตัวชี้วัดโมเมนตัม"
+
+msgid "Mon"
+msgstr "จ."
+
+msgid "Monday"
+msgstr "วันจันทร์"
+
+msgid "Mother's maiden name"
+msgstr "ชื่อกลางของมารดา"
+
+msgid "Mr"
+msgstr "นาย"
+
+msgid "Mrs"
+msgstr "นาง"
+
+msgid "Ms"
+msgstr "นางสาว"
+
+msgid "Multiplier"
+msgstr "ตัวคูณ"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Name of first love"
+msgstr "ชื่อของคนรักคนแรก"
+
+msgid "Name of your pet"
+msgstr "ชื่อของสัตว์เลี้ยงของท่าน"
+
+msgid "Navigator handles background"
+msgstr "พื้นหลังของ Navigator"
+
+msgid "Navigator handles border"
+msgstr "เส้นขอบของ Navigator"
+
+msgid "Navigator mask-fill"
+msgstr "สีเติมหน้ากากของ Navigator"
+
+msgid "Navigator outline"
+msgstr "เส้นรอบนอกของ Navigator"
+
+msgid "Navigator series color"
+msgstr "แผงสีของ Navigator"
+
+msgid "Navigator series line"
+msgstr "แผงเส้นของ Navigator"
+
+msgid "Net Profit"
+msgstr "กำไรสุทธิ"
+
+msgid "New password"
+msgstr "รหัสผ่านใหม่"
+
+msgid "No"
+msgstr "ไม่ใช่"
+
+msgid "No touch"
+msgstr "ไม่แตะเส้น"
+
+msgid "Note: Contract will be sold at the prevailing market price when the request is received by our servers. This price may differ from the indicated price."
+msgstr "หมายเหตุ: สัญญาจะถูกจำหน่ายที่ราคาทั่วไปของตลาดเมื่อเซิร์ฟเวอร์ได้รับการแจ้งความจำนง ราคานี้อาจจะแตกต่างจากราคาที่ระบุ"
+
+msgid "Note: withdrawal via payment agent is available only if you deposit exclusively via payment agent"
+msgstr "หมายเหตุ: การถอนเงินผ่านตัวแทนรับชำระเงินมีให้บริการท่าน เมื่อท่านฝากเงินผ่านตัวตัวแทนรับชำระเงิน"
+
+msgid "Nov"
+msgstr "พ.ย."
+
+msgid "November"
+msgstr "November"
+
+msgid "Now"
+msgstr "ขณะนี้"
+
+msgid "OHLC"
+msgstr "OHLC"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Oct"
+msgstr "ต.ค."
+
+msgid "October"
+msgstr "ตุลาคม"
+
+msgid "Odd"
+msgstr "คี่"
+
+msgid "Ok"
+msgstr "ตกลง"
+
+msgid "Once this limit is reached, you may no longer deposit"
+msgstr "เมื่อวงเงินเต็ม ท่านไม่สามารถฝากเงินได้"
+
+msgid "Online trading can become addictive. Fill in the form below to limit your participation on the website or send a signed letter or fax to our customer support team. Once set, you can only tighten your limits. Limits will only be removed or loosened after 7 days with the exception of the self-exclusion date, which cannot be removed or altered once you have confirmed it. To remove or increase your limits, please contact"
+msgstr "การซื้อขายผลิตภัณฑ์ทางการเงินอาจทำให้ท่านเสพติดได้ โปรดกรอกข้อมูลในแบบฟอร์มด้านล่างเพื่อกำหนดเงื่อนไขการใช้เว็บไซต์ของท่าน หรือ โดยการส่งจดหมายที่มีการลงนามของท่าน หรือ ดำเนินการส่งโทรสารมายังฝ่ายลูกค้าสัมพันธ์ เมื่อมีการตั้งค่าดังกล่าวแล้ว ท่านจะทำได้เพียงลดวงเงินเท่านั้น วงเงินจะถูกปรับลด หรือ ผ่อนปรนหลังจาก 7 วัน ของวันที่กำหนดให้พัก แต่ท่านจะไม่สามารถทำการยกเลิก หรือ เปลี่ยนแปลงได้หลังจากได้ทำการยืนยันแล้ว หากท่านต้องการยกเลิก หรือ เพิ่มวงเงินของท่าน โปรดติดต่อ"
+
+msgid "Open"
+msgstr "เปิด"
+
+msgid "Open a Financial Account"
+msgstr "เปิดบัญชีทางการเงิน 1 บัญชี"
+
+msgid "Opens"
+msgstr "เปิด"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Option trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis"
+msgstr "การซื้อขายออปชั่นสามารถทำให้ท่านเสพติดได้เฉกเช่นกับกิจกรรมอื่นที่มีการกำหนดขีดจำกัด เพื่อหลีกเลี่ยงความเสี่ยงต่างๆ ในการเสพติด พวกเรามีทางเลือกในการตรวจสอบเพื่อช่วยให้ท่านได้รับรายงานสรุปการซื้อขายของท่านในบัญชีต่างๆ ของท่านตามปกติ"
+
+msgid "Other"
+msgstr "อื่นๆ"
+
+msgid "Outside the EU, financial products are offered by Binary (SVG) Ltd, Hinds Building, Kingstown, St. Vincent and the Grenadines; Binary (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission ([_1]view licence[_2]); Binary (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission ([_3]licence no. SIBA/L/18/1114[_4]); and Binary (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business ([_5]licence no. MB/18/0024[_6])."
+msgstr "พื้นที่นอกสหภาพยุโรปนั้น บริษัท Binary (SVG) Ltd เป็นผู้ให้บริการผลิตภัณฑ์ทางการเงิน มีที่ตั้งอยู่ที่ อาคาร Hinds, คิงส์ทาวน์ เซนต์วินเซนต์และเกรนาดีนส์ บริษัท Binary (V) Ltd. ตั้งอยู่ที่อาคาร Govant, Port Vila ตู้ปณ. 1276 สาธารณรัฐวานูอาตู ซึ่งได้รับการรับรองจาก Vanuatu Financial Services Commission ([_1]ดูใบรับรอง[_2]) บริษัท Binary (BVI) Ltd มีที่ตั้งอยู่ที่ Kingston Chambers ตู้ปณ. 173 โรดทาวน์ ทอร์ทอลา หมู่เกาะบริติชเวอร์จิน ซึ่งได้รับการรับรองจาก British Virgin Islands Financial Services Commission ([_3]ใบรับรองเลขที่ SIBA/L/18/1114[_4]) และบริษัท Binary (FX) Ltd. ตั้งอยู่ที่ ห้อง F16 ชั้น 1 อาคาร Paragon Labuan ถนน Tun Mustapha 87000 ลาบวน ประเทศมาเลเซีย ซึ่งได้รับการรับรองจาก Labuan Financial Services Authority ในการดำเนินการธุรกิจตัวแทนด้านการเงิน ([_5]ใบรับรองเลขที่ MB/18/0024[_6])"
+
+msgid "Over"
+msgstr "มากกว่า"
+
+msgid "Over 3 years"
+msgstr "มากกว่า 3 ปี"
+
+msgid "Overlap Studies"
+msgstr "การศึกษาการซ้อนทับกัน"
+
+msgid "PM"
+msgstr "น."
+
+msgid "Password successfully updated."
+msgstr "ได้อัพเดทรหัสผ่านแล้ว"
+
+msgid "Passwords didn't match. Please type them again"
+msgstr "รหัสผ่านไม่ตรงกัน โปรดพิมพ์อีกครั้ง"
+
+msgid "Pattern Recognition"
+msgstr "การรู้จำรูปแบบ"
+
+msgid "Payment agent"
+msgstr "ตัวแทนรับชำระเงิน"
+
+msgid "Payment agents"
+msgstr "ตัวแทนรับชำระเงิน"
+
+msgid "Payments"
+msgstr "การชำระเงิน"
+
+msgid "Payout"
+msgstr "การชำระเงิน"
+
+msgid "Pension"
+msgstr "บำนาญ"
+
+msgid "Performance Probability"
+msgstr "ความเป็นไปได้ของผลประกอบการ"
+
+msgid "Permissions"
+msgstr "สิทธิ์"
+
+msgid "Please [_1]accept the updated Terms and Conditions[_2] to lift your withdrawal and trading limits."
+msgstr "โปรด[_1]ยอมรับข้อตกลงและเงื่อนไขที่ปรับปรุงใหม่[_2] เพื่อเพิ่มวงเงินการถอนเงินและการซื้อขายของคุณ"
+
+msgid "Please [_1]complete your account profile[_2] to lift your withdrawal and trading limits."
+msgstr "โปรด[_1]กรอกประวัติในบัญชีของคุณ[_2] เพื่อเพิ่มวงเงินการถอนเงินและการซื้อขายของคุณ"
+
+msgid "Please choose at least one token scope"
+msgstr "โปรดเลือกอย่างน้อยหนึ่งขอบเขตโทเค่น"
+
+msgid "Please complete the [_1]financial assessment form[_2] to lift your withdrawal and trading limits."
+msgstr "โปรดกรอก[_1]แบบฟอร์มการประเมินทางการเงิน[_2]ให้เสร็จสิ้น เพื่อเพิ่มวงเงินการถอนเงินและการซื้อขายของคุณ"
+
+msgid "Please confirm the following details in order to complete the transfer"
+msgstr "โปรดยืนยันรายละเอียดของธุรกรรมเพื่อดำเนินการโอนเงิน"
+
+msgid "Please enter a number between"
+msgstr "โปรดป้อนตัวเลขระหว่าง"
+
+msgid "Please enter a valid value for"
+msgstr "โปรดป้อนตัวเลขที่ถูกต้องสำหรับ"
+
+msgid "Please enter a value between 0 and"
+msgstr "โปรดป้อนตัวเลขระหว่าง 0 และ"
+
+msgid "Please enter a value greater than 0"
+msgstr "โปรดป้อนค่าที่มากกว่าศูนย์"
+
+msgid "Please enter a value less than 6 weeks for time out until."
+msgstr "โปรดป้อนตัวเลขที่น้อยกว่า 6 สัปดาห์สำหรับระยะเวลาการหมดเวลา"
+
+msgid "Please enter date in the format YYYY-MM-DD"
+msgstr "โปรดป้อนวันที่ในรูปแบบ YYYY-MM-DD"
+
+msgid "Please enter the token name"
+msgstr "โปรดใส่ชื่อโทเค่น"
+
+msgid "Please enter time in the format HH:MM"
+msgstr "โปรดป้อนเวลาในรูปแบบ HH:MM"
+
+msgid "Please enter your current password"
+msgstr "โปรดป้อนรหัสผ่านปัจจุบันของท่าน"
+
+msgid "Please input correct token"
+msgstr "โปรดป้อนโทเค่นที่ถูกต้อง"
+
+msgid "Please install the latest version of one of these browsers"
+msgstr "โปรดติดตั้งเบราเซอร์เวอร์ชันล่าสุดตัวใดตัวหนึ่ง"
+
+msgid "Please keep your message to a single line, don't press enter"
+msgstr "โปรดจำกัดข้อความของท่านให้อยู่ในบรรทัดเดียว อย่ากดปุ่ม Enter"
+
+msgid "Please log in"
+msgstr "โปรดเข้าสู่ระบบ"
+
+msgid "Please log in to see your saved workspace."
+msgstr "โปรดเข้าสู่ระบบเพื่อดูพื้นที่ทำงานของคุณบันทึกไว้"
+
+msgid "Please log in."
+msgstr "โปรดเข้าสู่ระบบ"
+
+msgid "Please select a date for time out until."
+msgstr "โปรดเลือกวันที่ที่จะให้หมดเวลาถึง"
+
+msgid "Please select a payment agent"
+msgstr "โปรดระบุตัวแทนรับชำระเงิน"
+
+msgid "Please set the [_1]currency[_2] of your account"
+msgstr "กรุณาตั้ง [_1]สกุลเงิน[_2] ของบัญชีของคุณ"
+
+msgid "Please try again after 1 minute."
+msgstr "โปรดทดลองใหม่อีกครั้งในอีก 1 นาที"
+
+msgid "Please use your new password to login."
+msgstr "กรุณาใช้รหัสผ่านใหม่เพื่อลงชื่อเข้าใช้"
+
+msgid "Plot"
+msgstr "วาด"
+
+msgid "Pofit/Loss"
+msgstr "กำไร/ขาดทุน"
+
+msgid "Points"
+msgstr "จุด"
+
+msgid "Portfolio"
+msgstr "พอร์ตโฟลิโอ"
+
+msgid "Potential Payout"
+msgstr "ประมาณการจำนวนเงินที่ชำระ"
+
+msgid "Potential Profit"
+msgstr "ประมาณการกำไร"
+
+msgid "Potential profit"
+msgstr "ประมาณการกำไร"
+
+msgid "Pre-Defined"
+msgstr "กำหนดไว้ล่วงหน้า"
+
+msgid "Preferred reality-check interval"
+msgstr "รอบการตรวจสอบที่ต้องการ"
+
+msgid "Press Create token button on the right to create your first token"
+msgstr "กดปุ่ม สร้างโทเค่น ทางด้านขวาเพื่อสร้างโทเค่นแรกของท่าน"
+
+msgid "Price Transformation"
+msgstr "การเปลี่ยนแปลงราคา"
+
+msgid "Primary"
+msgstr "หลัก"
+
+msgid "Print chart"
+msgstr "พิมพ์แผนภูมิ"
+
+msgid "Profit"
+msgstr "กำไร"
+
+msgid "Profit Table"
+msgstr "ตารางกำไร"
+
+msgid "Profit table"
+msgstr "ตารางผลกำไร"
+
+msgid "Profit/ Loss"
+msgstr "กำไร / ขาดทุน"
+
+msgid "Purchase"
+msgstr "ซื้อ"
+
+msgid "Purchase Date"
+msgstr "วันที่ซื้อ"
+
+msgid "Purchase Price"
+msgstr "ราคาซื้อ"
+
+msgid "Purchase Time"
+msgstr "เวลาซื้อ"
+
+msgid "Read"
+msgstr "อ่าน"
+
+msgid "Reality check"
+msgstr "การตรวจสอบสภาพความเป็นจริง"
+
+msgid "Redirecting to oauth login page,"
+msgstr "เปลี่ยนเส้นทางไปหน้าลงชื่อเข้าใช้ oauth"
+
+msgid "Ref"
+msgstr "อ้างอิง"
+
+msgid "Ref."
+msgstr "อ้างอิง"
+
+msgid "Refresh failed"
+msgstr "การรีเฟรชล้มเหลว"
+
+msgid "Register free account"
+msgstr "ลงทะเบียนบัญชีใหม่ฟรี"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Remove Selected"
+msgstr "ลบรายการที่เลือก"
+
+msgid "Rename"
+msgstr "เปลี่ยนชื่อ"
+
+msgid "Resale of this contract is not offered"
+msgstr "ไม่มีการเสนอการจำหน่ายซ้ำของสัญญานี้"
+
+msgid "Reset zoom"
+msgstr "ตั้งค่าขยายเป็นค่าเดิม"
+
+msgid "Reset zoom level 1:1"
+msgstr "ตั้งค่าขยายเป็นระดับ 1:1"
+
+msgid "Resources"
+msgstr "แหล่งข้อมูล"
+
+msgid "Results"
+msgstr "ผลลัพธ์"
+
+msgid "Return"
+msgstr "ผลตอบแทน"
+
+msgid "Rise"
+msgstr "ขึ้น"
+
+msgid "Robust and secure platform"
+msgstr "แพลตฟอร์มที่แข็งแกร่งและปลอดภัย"
+
+msgid "Safari"
+msgstr "Safari"
+
+msgid "Salaried Employee"
+msgstr "พนักงานที่ได้รับเงินเดือน"
+
+msgid "Sale Date"
+msgstr "วันที่ขาย"
+
+msgid "Sale Price"
+msgstr "ราคาขาย"
+
+msgid "Sand Signika"
+msgstr "Sand Signika"
+
+msgid "Sat"
+msgstr "ส"
+
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Save as"
+msgstr "บันทึกเป็น"
+
+msgid "Save changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "Saved"
+msgstr "บันทึกแล้ว"
+
+msgid "Secondary"
+msgstr "ลำดับที่สอง"
+
+msgid "Seems like our servers are down, we are working on fixing it."
+msgstr "ดูเหมือนว่าเซิร์ฟเวอร์จะขัดข้อง เรากำลังดำเนินการแก้ไข"
+
+msgid "Self-Employed"
+msgstr "อาชีพอิสระ"
+
+msgid "Self-Exclusion"
+msgstr "การพักการใช้งาน"
+
+msgid "Self-Exclusion Facilities"
+msgstr "เครื่องมือสำหรับพักการซื้อขาย"
+
+msgid "Self-exclusion on this website only applies to your Binary.com account and does not include other companies or websites"
+msgstr "การพักตัวเองบนเว็บไซต์นี้ใช้ได้กับบัญชี Binary.com ของท่านเท่านั้น และไม่รวมถึงบริษัทฯ อื่นๆ หรือ เว็บไซต์อื่นๆ"
+
+msgid "Sell At Market"
+msgstr "ขายที่ราคาตลาด"
+
+msgid "Sent to account"
+msgstr "ส่งไปยังบัญชี"
+
+msgid "Sep"
+msgstr "ก.ย."
+
+msgid "September"
+msgstr "กันยายน"
+
+msgid "Session"
+msgstr "เซสชัน"
+
+msgid "Session duration limit"
+msgstr "ข้อจำกัดระยะเวลาที่ใช้งาน"
+
+msgid "Session duration limit, in minutes"
+msgstr "รอบระยะเวลาการซื้อขาย ในหน่วยนาที"
+
+msgid "Settles"
+msgstr "ชำระเงิน"
+
+msgid "Share"
+msgstr "หุ้น"
+
+msgid "Share chart"
+msgstr "แบ่งปันแผนภูมิ"
+
+msgid "Since you feel the need to self-exclude, we strongly encourage you to exclude yourself from similar services that you may have signed up for"
+msgstr "หากท่านรู้สึกว่า ท่านต้องการพักการใช้งาน เราแนะนำให้ท่านพักการใช้งานจากการบริการอื่นๆ ที่มีลักษณะเดียวกันที่ท่านได้ลงทะเบียนไว้"
+
+msgid "Sold"
+msgstr "ขาย"
+
+msgid "Some random index"
+msgstr "ดัชนี้สุ่มบางตัว"
+
+msgid "Spline"
+msgstr "เส้นโค้ง"
+
+msgid "Spreads"
+msgstr "สเปรด"
+
+msgid "Spreads down"
+msgstr "สเปรดลง"
+
+msgid "Spreads up"
+msgstr "สเปรดขึ้น"
+
+msgid "Stake"
+msgstr "วางเงิน"
+
+msgid "Standard methods"
+msgstr "วิธีการมาตรฐาน"
+
+msgid "Standard withdrawal"
+msgstr "การถอนเงินมาตรฐาน"
+
+msgid "Start Time"
+msgstr "เวลาเริ่มต้น"
+
+msgid "Start Trading"
+msgstr "เริ่มซื้อขาย"
+
+msgid "Start time"
+msgstr "เวลาเริ่มต้น"
+
+msgid "Statement"
+msgstr "รายการเดินบัญชี"
+
+msgid "Statistical Functions"
+msgstr "ฟังก์ชันทางสถิติ"
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Stays in"
+msgstr "Stays in"
+
+msgid "Stop-loss"
+msgstr "หยุดขาดทุน"
+
+msgid "Stop-profit"
+msgstr "หยุดกำไร"
+
+msgid "Stop-type"
+msgstr "ประเภทการยุติ"
+
+msgid "Stroke color"
+msgstr "สีของเส้น"
+
+msgid "Stroke width"
+msgstr "ความกว้างของเส้น"
+
+msgid "Submit"
+msgstr "ส่ง"
+
+msgid "Successfully added new token"
+msgstr "โทเค่นใหม่ได้ถูกเพิ่มเข้ามาแล้ว"
+
+msgid "Successfully added workspace as"
+msgstr "พื้นที่ทำงานใหม่ได้ถูกเพิ่มเข้ามาให้เป็น"
+
+msgid "Successfully applied the template and saved it as"
+msgstr "เลือกใช้แม่แบบแล้ว และบันทึกเป็น"
+
+msgid "Sun"
+msgstr "อา"
+
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+msgid "Table"
+msgstr "ตาราง"
+
+msgid "Tel"
+msgstr "โทร"
+
+msgid "Template already saved as"
+msgstr "ได้บันทึกแม่แบบเป็น"
+
+msgid "Template applied partially."
+msgstr "แม่แบบถูกใช้เพียงบางส่วน"
+
+msgid "Template changes saved"
+msgstr "การเปลี่ยนแปลงแม่แบบได้ถูกบันทึกแล้ว"
+
+msgid "Template is not applicable."
+msgstr "แม่แบบไม่สามารถใช้ได้"
+
+msgid "Template name"
+msgstr "ชื่อแม่แบบ"
+
+msgid "Template name already exists"
+msgstr "มีชื่อแม่แบบนี้แล้ว"
+
+msgid "Terms"
+msgstr "ข้อตกลง"
+
+msgid "Terms and Conditions"
+msgstr "ข้อตกลงและเงื่อนไข"
+
+msgid "Tertiary"
+msgstr "ลำดับที่สาม"
+
+msgid "The"
+msgstr "-"
+
+msgid "The company holds customer funds in separate bank accounts to the operational accounts which would not, in the event of insolvency, form part of the Company's assets. This meets the Gambling Commission's requirements for the segregation of customer funds at the level"
+msgstr "บริษัทฯ ดูแลเงินทุนประกันของลูกค้าในบัญชีที่ถูกจัดสรรแยกเพื่อการปฏิบัติการ และการจัดการเพื่อให้แน่ใจว่า สินทรัพย์ของบัญชีลูกค้ามีการถูกจำหน่ายหากมีกรณีล้มละลาย ซึ่งเป็นไปตามข้อกำหนดของ Gambling Commission ในการแยกเงินทุนลูกค้าโดยเป็นมาตรการการป้องกันระดับ: "
+
+msgid "The products offered via this website include binary options, contracts for difference (\"CFDs\") and other complex derivatives. Trading binary options may not be suitable for everyone. Trading CFDs carries a high level of risk since leverage can work both to your advantage and disadvantage. As a result, the products offered on this website may not be suitable for all investors because of the risk of losing all of your invested capital. You should never invest money that you cannot afford to lose, and never trade with borrowed money. Before trading in the complex products offered, please be sure to understand the risks involved and learn about [_1]Responsible Trading[_2]."
+msgstr "ผลิตภัณฑ์ที่ให้บริการในเว็บไซต์นี้ ได้แก่ ไบนารีออปชั่น สัญญาการซื้อขายส่วนต่าง (\"CFD\") และอนุพันธ์ที่มีความซับซ้อนอื่นๆ การซื้อขายไบนารีออปชั่นอาจไม่เหมาะกับทุกคน การซื้อขาย CFD มีความเสี่ยงสูงเพราะเลเวอรเรจจะส่งผลทั้งดีและเสียให้ท่าน ดังนั้น ผลิตภัณฑ์ในเว็บไซต์นี้จึงอาจจะไม่เหมาะสมกับนักลงทุนทุกคน เนื่องจากความเสี่ยงที่อาจสูญเสียเงินลงทุนทั้งหมด ท่านไม่ควรลงทุน หากไม่สามารถรับภาวะการขาดทุน และต้องไม่ซื้อขายด้วยเงินที่ยืมมา ก่อนการซื้อขายผลิตภัณฑ์ที่มีความซับซ้อน โปรดทำความเข้าใจต่อความเสี่ยงที่เกี่ยวข้องและศึกษาเกี่ยวกับ [_1]การซื้อขายด้วยความรับผิดชอบ[_2]"
+
+msgid "There was a market data disruption during the contract period. For real-money accounts we will attempt to correct this and settle the contract properly, otherwise the contract will be cancelled and refunded. Virtual-money contracts will be cancelled and refunded."
+msgstr "มีการหยุดชะงักของข้อมูลตลาดในช่วงระยะเวลาของสัญญา สำหรับบัญชีเงินจริง เราจะพยายามแก้ไขและชำระสัญญาอย่างเหมาะสม มิเช่นนั้นสัญญาจะถูกยกเลิกและคืนเงิน สัญญาเงินเสมือนจะถูกยกเลิกและคืนเงิน"
+
+msgid "There was an error"
+msgstr "มีความผิดพลาดเกิดขึ้น"
+
+msgid "This contract has expired"
+msgstr "สัญญานี้หมดอายุ"
+
+msgid "This contract lost"
+msgstr "สัญญานี้ขาดทุน"
+
+msgid "This contract won"
+msgstr "สัญญานี้กำไร"
+
+msgid "This field is required"
+msgstr "ข้อมูลนี้ต้องระบุ ไม่สามารถเป็นค่าว่าง"
+
+msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, Japan, or to persons under age 18."
+msgstr "บริการต่างๆ ของเว็บไซต์นี้ไม่ได้มีให้บริการในบางประเทศ เช่น สหรัฐอเมริกา แคนาดา ฮ่องกง ญี่ปุ่น หรือ ให้บริการต่อบุคคลที่อายุต่ำกว่า 18 ปี"
+
+msgid "Thu"
+msgstr "พฤ"
+
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+msgid "Tick"
+msgstr "ช่วงห่างของราคา"
+
+msgid "Tick Trade app"
+msgstr "แอพ Tick Trade "
+
+msgid "Tick {row.number}"
+msgstr "ช่วงราคา {row.number}"
+
+msgid "Ticks"
+msgstr "ช่วงห่างของราคา"
+
+msgid "Time interval"
+msgstr "ช่วงเวลา"
+
+msgid "Time out until"
+msgstr "หมดเวลากระทั่ง"
+
+msgid "Timeout for websocket request"
+msgstr "หมดเวลาสำหรับการร้องขอ websocket"
+
+msgid "Title"
+msgstr "คำนำหน้าชื่อ"
+
+msgid "To"
+msgstr "ถึง"
+
+msgid "To deposit money please contact the payment agent directly"
+msgstr "ในการฝากเงิน โปรดติดต่อตัวแทนรับชำระเงินโดยตรง"
+
+msgid "To find out more and to sign up with GAMSTOP, please visit"
+msgstr "เพื่อศึกษาข้อมูลเพิ่มเติม และลงทะเบียนใช้งานกับ GAMSTOP โปรดเยี่ยมชมที่"
+
+msgid "To process deposits and withdrawals for payment methods or local currencies not supported by Binary.com contact a payment agent"
+msgstr "เพื่อดำเนินฝากและถอนเงินสำหรับวิธีการชำระเงิน  หรือ สกุลเงินท้องถิ่นไม่รองรับ โดย Binary.com โปรดติดต่อตัวแทนรับชำระเงิน"
+
+msgid "To self-exclude from all online gambling companies licensed in Great Britain, you may go to"
+msgstr "การพักตัวเองจากเหล่าบริษัทการพนันออนไลน์ที่ได้รับใบอนุญาตในสหราชอาณาจักร โปรดดำเนินการที่"
+
+msgid "To withdraw funds please enter the special verification token we have just emailed you"
+msgstr "ในการถอนหลักประกัน โปรดป้อนรหัสโทเค่นเพื่อการยืนยัน ซึ่งเราได้ส่งให้ท่านทางอีเมล์แล้ว"
+
+msgid "Today"
+msgstr "วันนี้"
+
+msgid "Token"
+msgstr "โทเค่น"
+
+msgid "Token Management"
+msgstr "การจัดการโทเค่น"
+
+msgid "Token already added"
+msgstr "โทเค่นได้ถูกเพิ่มแล้ว"
+
+msgid "Token management"
+msgstr "การจัดการโทเค่น"
+
+msgid "Token name"
+msgstr "ชื่อโทเค่น"
+
+msgid "Token name can contain alphanumeric characters with spaces and underscores"
+msgstr "ชื่อโทเค่นประกอบด้วยอักษรตัวเลข ช่องว่าง และขีดเส้นใต้ได้"
+
+msgid "Token name can have a maximum of 32 characters"
+msgstr "ชื่อโทเค่นมีจำนวนตัวอักษรได้สูงสุด 32 ตัว"
+
+msgid "Token name must contain atleast 2 characters"
+msgstr "ชื่อโทเคนต้องประกอบด้วยอักษรอย่างน้อย 2 ตัว"
+
+msgid "Token name should begin with alphanumeric characters only"
+msgstr "ชื่อโทเค่นควรขึ้นต้นด้วยอักษรตัวเลขเท่านั้น"
+
+msgid "Token permissions"
+msgstr "สิทธิ์โทเค่น"
+
+msgid "Tooltip background"
+msgstr "พื้นหลังของป้ายคำแนะนำ"
+
+msgid "Tooltip text"
+msgstr "ข้อความในป้ายคำแนะนำ"
+
+msgid "Total Copiers"
+msgstr "เครื่องมือการคัดลอกทั้งหมด"
+
+msgid "Total Cost"
+msgstr "ต้นทุนรวม"
+
+msgid "Total Profit/Loss"
+msgstr "รวมกำไร/ขาดทุน"
+
+msgid "Total Trades"
+msgstr "การซื้อขายทั้งหมด"
+
+msgid "Touch"
+msgstr "แตะ"
+
+msgid "Touch/No Touch"
+msgstr "Touch/No Touch"
+
+msgid "Tourism"
+msgstr "การท่องเที่ยว"
+
+msgid "Trade"
+msgstr "ซื้อ-ขาย"
+
+msgid "Trade Confirmation"
+msgstr "การยืนยันซื้อขาย"
+
+msgid "Trade Types"
+msgstr "ประเภทการซื้อขาย"
+
+msgid "Trade using"
+msgstr "ซื้อขายโดยใช้"
+
+msgid "Trader"
+msgstr "นักลงทุน"
+
+msgid "Trader's Statistics"
+msgstr "สถิติของนักลงทุน"
+
+msgid "Trades Profitability"
+msgstr "ความสามารถในการทำกำไรของนักลงทุน"
+
+msgid "Trading Times"
+msgstr "เวลาซื้อขาย"
+
+msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset."
+msgstr "การซื้อขายไบนารีออปชันอาจไม่เหมาะสมสำหรับทุกคน ดังนั้นโปรดแน่ใจว่าคุณเข้าใจความเสี่ยงที่เกี่ยวข้อง การขาดทุนของคุณอาจเกินจำนวนเงินฝากเบื้องต้นและคุณไม่ได้เป็นเจ้าของหรือได้รับผลประโยชน์ใดๆจากสินทรัพย์ที่อ้างอิง"
+
+msgid "Tradingview for Binary.com"
+msgstr "Tradingview สำหรับ Binary.com"
+
+msgid "Transfer"
+msgstr "โอน"
+
+msgid "Transfer to another Binary account"
+msgstr "โอนไปยังบัญชี Binary อีกอันหนึ่ง"
+
+msgid "Try"
+msgstr "ลอง"
+
+msgid "Tue"
+msgstr "อัง"
+
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+msgid "Turnover"
+msgstr "การซื้อขาย"
+
+msgid "USD"
+msgstr "USD"
+
+msgid "USDJPY"
+msgstr "USDJPY"
+
+msgid "Under"
+msgstr "ต่ำกว่า"
+
+msgid "Unfortunately, your browser does not support them"
+msgstr "ขออภัย เบราเซอร์ของท่านไม่รองรับการใช้งาน"
+
+msgid "Up/Down"
+msgstr "Up/Down"
+
+msgid "Upcoming Events"
+msgstr "กิจกรรมในอนาคต"
+
+msgid "Update"
+msgstr "การปรับปรุง"
+
+msgid "Update Settings"
+msgstr "การปรับปรุงการตั้งค่า"
+
+msgid "Upgrade to a Real Account"
+msgstr "อัพเกรดเป็นบัญชีจริง"
+
+msgid "Upload template"
+msgstr "อัปโหลดแม่แบบ"
+
+msgid "Use"
+msgstr "ใช้"
+
+msgid "Use the \"Save as ...\" button to save the chart settings, type, time period, indicators and comparisons"
+msgstr "ใช้เมนู \"บันทึกเป็น...\" เพื่อบันทึกการตั้งค่าแผนภูมิ ชนิด ระยะเวลา ตัวชี้วัด และการเปรียบเทียบ"
+
+msgid "Use the \"Save as ...\" button to save the trade settings"
+msgstr "ใช้คำสั่ง \"บันทึกเป็น...\" เพื่อบันทึกการตั้งค่าการซื้อขาย"
+
+msgid "Various customisable features like loading and arranging assets, charting, and other resources however you see fit"
+msgstr "มีเครื่องมือ และหน้าจอที่สามารถปรับแต่งใช้งานได้หลายรูปแบบ เช่น การแสดงและการจัดการผลิตภัณฑ์อ้างอิง การแสดงแผนภูมิ และเครื่องมืออื่นๆ "
+
+msgid "Verification code sent to"
+msgstr "รหัสยืนยันถูกส่งไปที่"
+
+msgid "Verification token"
+msgstr "รหัสตรวจสอบ"
+
+msgid "Verify new password"
+msgstr "ตรวจสอบรหัสผ่านใหม่"
+
+msgid "Vertical line"
+msgstr "เส้นแนวตั้ง"
+
+msgid "View"
+msgstr "ดูรายการ"
+
+msgid "View Statement"
+msgstr "ดูรายการเดินบัญชี"
+
+msgid "Volatility Indicators"
+msgstr "ดัชนีความผันผวน"
+
+msgid "We are required by our license to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency"
+msgstr "พวกเราถูกกำหนดโดยใบอนุญาตของพวกเราเพื่อเรียนให้ท่านทราบเกี่ยวกับสิ่งที่เกิดขึ้นกับเงินทุนที่พวกเราดูแลในบัญชีของท่าน และขอบเขตที่เงินทุนได้รับการปกป้องจากภาวะล้มละลาย "
+
+msgid "Webtrader"
+msgstr "Webtrader"
+
+msgid "Webtrader is an advanced trading platform that's fully-customisable according to your personal preferences"
+msgstr "Webtrader เป็นแพลตฟอร์มการซื้อขายขั้นสูงที่ออกแบบเพื่อการซื้อขายส่วนบุคคลของท่าน"
+
+msgid "Webtrader uses new web technologies for rich and enjoyable trading experience"
+msgstr "Webtrader ใช้เทคโนโลยีเว็บสมัยใหม่เพื่อให้ได้รับประสบการณ์การซื้อขายหลากหลาย และสนุกสนาน"
+
+msgid "Wed"
+msgstr "พ"
+
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+msgid "Welcome to Binary.com Webtrader"
+msgstr "ยินดีต้อนรับสู่ Binary.com Webtrader"
+
+msgid "When you click \"Ok\" you will be excluded from trading on the site until the selected date."
+msgstr "เมื่อคุณเลือก \"Ok\" คุณจะถูกพักจากระบบซื้อขายจนถึงวันที่ที่ระบุ"
+
+msgid "While on the go, you can"
+msgstr "ขณะตลาดดำเนินไป ท่านสามารถ"
+
+msgid "Withdraw funds"
+msgstr "ถอนหลักประกัน"
+
+msgid "Withdrawal via payment agents"
+msgstr "การถอนเงินผ่านตัวแทนรับชำระเงิน"
+
+msgid "Workspace"
+msgstr "พื้นที่ใช้งาน"
+
+msgid "Workspace changes saved"
+msgstr "ได้บันทึกการเปลี่ยนแปลงในพื้นที่ใช้งานแล้ว"
+
+msgid "X-axis labels"
+msgstr "ป้ายชื่อแกนเอ็กซ์ (แนวนอน)"
+
+msgid "X-axis line"
+msgstr "เส้นแกนเอ็กซ์ (แนวนอน)"
+
+msgid "X-axis tick"
+msgstr "ช่วงราคาบนแกนเอ็กซ์ (แนวนอน)"
+
+msgid "Y-axis gridline"
+msgstr "เส้นตาราง แกนวาย (แนวตั้ง)"
+
+msgid "Y-axis labels"
+msgstr "ป้ายชื่อแกนวาย (แนวตั้ง)"
+
+msgid "Yes"
+msgstr "ใช่"
+
+msgid "You are not copying any trade(s) yet"
+msgstr "ท่านยังไม่ได้คัดลอกการซื้อขายใดๆ"
+
+msgid "You have excluded yourself until"
+msgstr "คุณได้พักตนเองจนกระทั่ง"
+
+msgid "You have sold the following contract"
+msgstr "ท่านจำหน่ายสัญญาต่อไปนี้แล้ว"
+
+msgid "You haven't saved any templates yet"
+msgstr "ท่านยังไม่ได้บันทึกแม่แบบใด ๆ"
+
+msgid "You pay"
+msgstr "ท่านชำระ"
+
+msgid "You will be automatically logged out after such time"
+msgstr "ท่านออกจากระบบโดยอัตโนมัติภายหลังเวลาดังกล่าว"
+
+msgid "You wish to allow other traders to copy your trades"
+msgstr "ท่านยินยอมให้นักลงทุนท่านอื่นๆ คัดลอกการซื้อขายของท่าน"
+
+msgid "You wish to copy another trader's trades"
+msgstr "ท่านปรารถนาที่จะคัดลอกการซื้อขายของนักลงทุนท่านอื่นๆ"
+
+msgid "Your account (%) is locked, please contact customer support for more info."
+msgstr "บัญชีของท่าน (%) ถูกระงับการใช้งาน โปรดติดต่อฝ่ายบริการลูกค้าเพื่อดำเนินการ"
+
+msgid "Your account is restricted. Kindly [_1]contact customer support[_2] for assistance."
+msgstr "บัญชีของท่านถูกระงับ โปรด[_1]ติดต่อฝ่ายลูกค้าสัมพันธ์[_2] เพื่อดำเนินการต่อไป"
+
+msgid "Your browser doesn't support copy to clipboard"
+msgstr "เบราเซอร์ของคุณไม่สนับสนุนการคัดลอกลงคลิปบอร์ด"
+
+msgid "Your browser is not supported"
+msgstr "เบราเซอร์ของท่านไม่รองรับการใช้งาน"
+
+msgid "Your changes have been updated"
+msgstr "การเปลี่ยนแปลงของคุณได้ถูกอัพเดทแล้ว"
+
+msgid "Your copying settings"
+msgstr "การตั้งค่าการคัดลอกของท่าน"
+
+msgid "Your new account balance is"
+msgstr "ยอดคงเหลือในบัญชีใหม่ของท่าน คือ"
+
+msgid "Your transaction reference is"
+msgstr "หมายเลขอ้างอิงของธุรกรรมของท่าน คือ"
+
+msgid "Your transaction reference number is"
+msgstr "หมายเลขอ้างอิงของธุรกรรมของท่าน คือ"
+
+msgid "Zoom"
+msgstr "ขยาย"
+
+msgid "[_1]Authenticate your account[_2] now to take full advantage of all withdrawal options available."
+msgstr "[_1]ยืนยันบัญชีของคุณ[_2]เดี๋ยวนี้ เพื่อใช้ประโยชน์จากวิธีการถอนเงินที่มีทั้งหมด"
+
+msgid "and"
+msgstr "และ"
+
+msgid "commission"
+msgstr "คอมมิชชั่น"
+
+msgid "create a Read-only token, and share the token with your copier(s)"
+msgstr "สร้างโทเค่นแบบอ่านอย่างเดียว และแชร์โทเค่นกับท่านอื่น"
+
+msgid "customer support"
+msgstr "ฝ่ายบริการลูกค้า"
+
+msgid "day"
+msgstr "วัน"
+
+msgid "days"
+msgstr "วัน"
+
+msgid "deposits"
+msgstr "การฝาก"
+
+msgid "end time"
+msgstr "เวลาสิ้นสุด"
+
+msgid "entry spot"
+msgstr "สปอตเริ่มต้น"
+
+msgid "exit spot"
+msgstr "สปอตสิ้นสุด"
+
+msgid "for"
+msgstr "สำหรับ"
+
+msgid "for mobile charts"
+msgstr "สำหรับแผนภูมิ"
+
+msgid "has updated its"
+msgstr "ได้ปรับปรุง"
+
+msgid "hour"
+msgstr "ชั่วโมง"
+
+msgid "hours"
+msgstr "ชั่วโมง"
+
+msgid "in the future, the"
+msgstr "ในอนาคต"
+
+msgid "is Binary's advanced desktop trading platform. Its multi-window interface provides maximum flexibility and suits the needs of active traders working on their desktop PCs"
+msgstr "คือ ระบบซื้อขายของ Binary ขั้นสูง บนเดสก์ทอป ลักษณะหน้าจอที่มีความยืดหยุ่นโดยสามารถเปิดได้หลายหน้าต่างพร้อมๆ กัน และเหมาะอย่างยิ่งสำหรับผู้ใช้งานที่ต้องทำงานของเขาไปด้วยบนคอมพิวเตอร์ส่วนบุคคลแบบเดสก์ทอป"
+
+msgid "is required. Current spread"
+msgstr "เป็นสิ่งจำเป็น สเปรดปัจจุบัน"
+
+msgid "is that which is selected and the"
+msgstr "ซึ่งถูกเลือก"
+
+msgid "is the"
+msgstr "คือ"
+
+msgid "is the price in effect at that time"
+msgstr "คือ ราคามีผลในเวลาดังกล่าว"
+
+msgid "is the selected number of minutes/hours after the"
+msgstr "คือ ตัวเลขชั่วโมง และ นาทีที่ระบุ หลังจาก"
+
+msgid "is the selected time"
+msgstr "คือ เวลาที่เลือก"
+
+msgid "is the spot at the"
+msgstr "คือ สปอต ที่"
+
+msgid "is when the contract is processed by our servers and the"
+msgstr "เมื่อสัญญาถูกประมวลผลโดยเครื่องแม่ข่ายของเราและ"
+
+msgid "main site"
+msgstr "เว็บไซต์หลัก"
+
+msgid "market is presently closed."
+msgstr "ขณะนี้ ตลาดปิดทำการ"
+
+msgid "medium protection"
+msgstr "การป้องกันระดับกลาง"
+
+msgid "minute"
+msgstr "นาที"
+
+msgid "minutes"
+msgstr "นาที"
+
+msgid "next tick"
+msgstr "ช่วงราคาถัดไป"
+
+msgid "of \"Now\", the"
+msgstr "ของ \"เวลาปัจจุบัน\""
+
+msgid "payment agent"
+msgstr "ตัวแทนรับชำระเงิน"
+
+msgid "points"
+msgstr "จุด"
+
+msgid "risk warning"
+msgstr "การแจ้งเตือนเกี่ยวกับความเสี่ยง"
+
+msgid "sec"
+msgstr "วินาที"
+
+msgid "second"
+msgstr "วินาที"
+
+msgid "seconds"
+msgstr "วินาที"
+
+msgid "session overview"
+msgstr "ภาพรวม"
+
+msgid "start time"
+msgstr "เวลาเริ่มต้น"
+
+msgid "the"
+msgstr "-"
+
+msgid "thereafter"
+msgstr "หลังจากนั้น"
+
+msgid "tick"
+msgstr "ช่วงห่างของราคา"
+
+msgid "ticks"
+msgstr "ช่วงห่างของราคา"
+
+msgid "withdrawals"
+msgstr "การถอนเงิน"
+
+msgid "www.gamstop.co.uk"
+msgstr "www.gamstop.co.uk"
+
+msgid "yes"
+msgstr "ใช่"
+
+msgid "{agent.commission}%"
+msgstr "{agent.commission}%"
+
+msgid "| Return"
+msgstr "| ผลตอบแทน"
+
+msgid "﻿"
+msgstr "ช่องว่าง"
+

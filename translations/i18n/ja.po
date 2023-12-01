@@ -1,0 +1,2120 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: webtrader\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /development/translations/i18n/messages.pot\n"
+"Project-Id-Version: webtrader\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: binarycom\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"PO-Revision-Date: 2019-05-22 09:02\n"
+
+msgid "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx\""
+msgstr "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx\""
+
+msgid "(if less than one day in duration), or at the end of the trading day (if one day or more in duration)"
+msgstr "（取引期間が1日未満の場合）、または取引最終日（取引期間が1日以上の場合）"
+
+msgid "* Contract has not started yet"
+msgstr ""
+
+msgid "* Password must be 6 characters minimum"
+msgstr ""
+
+msgid "* Password must contain uppercase letters and numbers"
+msgstr ""
+
+msgid "* Please enter your new password"
+msgstr ""
+
+msgid "- Binary.com is not affiliated with any of the Payment Agents listed above. Each Payment Agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by Binary.com. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of Payment Agents before sending them any money. Binary.com shall not in any circumstance be held responsible for transactions made between customers and Payment Agents"
+msgstr "- Binary.comは上記の決済サービスとは提携しておりません。各決済サービスは、独立したサービスプロバイダーとして動作し、Binary.comによる承認、保証またはその他の許可がなされていません。お客さまは危険を承知で自信の責任をもって決済サービスに処断します。送金をされる前に、決済サービス会社の資格情報を確認されることをお勧めいたします。Binary.comはいかなる状況下においても、お客さまと決済サービス会社の間で生じた処理への責任は負いません。"
+
+msgid "0-1 year"
+msgstr "0~1年"
+
+msgid "0-5 transactions in the past 12 months"
+msgstr "過去12ヶ月で0-5のお取引"
+
+msgid "1"
+msgstr "1"
+
+msgid "1 Day"
+msgstr "日足"
+
+msgid "1 Hour"
+msgstr "1時間"
+
+msgid "1 Minute"
+msgstr "1分"
+
+msgid "1 Tick"
+msgstr "1 ティック"
+
+msgid "1-2 years"
+msgstr "1-2年"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 Minutes"
+msgstr "10分"
+
+msgid "10m"
+msgstr "10分"
+
+msgid "15"
+msgstr "15"
+
+msgid "15 Minutes"
+msgstr "15分"
+
+msgid "15m"
+msgstr "15分"
+
+msgid "1d"
+msgstr "1日"
+
+msgid "1h"
+msgstr "1時間"
+
+msgid "1m"
+msgstr "1分"
+
+msgid "1t"
+msgstr "1テック"
+
+msgid "2"
+msgstr "2"
+
+msgid "2 Hours"
+msgstr "2時間"
+
+msgid "2 Minutes"
+msgstr "2分"
+
+msgid "2h"
+msgstr "2時間"
+
+msgid "2m"
+msgstr "2分"
+
+msgid "3"
+msgstr "3"
+
+msgid "3 Minutes"
+msgstr "3分"
+
+msgid "30"
+msgstr "30"
+
+msgid "30 Minutes"
+msgstr "30分"
+
+msgid "30-day limit on losses"
+msgstr "30日間の損失制限"
+
+msgid "30-day turnover limit"
+msgstr "30日の取引数量限度額"
+
+msgid "30m"
+msgstr "30分"
+
+msgid "3m"
+msgstr "3分"
+
+msgid "4"
+msgstr "4時間"
+
+msgid "4 Hours"
+msgstr "4時間"
+
+msgid "40 transactions or more in the past 12 months"
+msgstr "過去12ヶ月で40以上のお取引"
+
+msgid "4h"
+msgstr "4時間"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 Minutes"
+msgstr "5分"
+
+msgid "5m"
+msgstr "5分"
+
+msgid "6-10 transactions in the past 12 months"
+msgstr "過去12ヶ月で6~10のお取引"
+
+msgid "7-day limit on losses"
+msgstr "7日間の損失制限"
+
+msgid "7-day turnover limit"
+msgstr "7日の取引数量限度額"
+
+msgid "8"
+msgstr "8"
+
+msgid "8 Hours"
+msgstr "8時間"
+
+msgid "8h"
+msgstr "8時間"
+
+msgid "AM"
+msgstr ""
+
+msgid "Accept"
+msgstr "承諾"
+
+msgid "Accessible from any web browser in 13 languages"
+msgstr ""
+
+msgid "Account balance"
+msgstr "口座残高"
+
+msgid "Account balance:"
+msgstr ""
+
+msgid "Account id not found."
+msgstr ""
+
+msgid "Account token not found."
+msgstr ""
+
+msgid "Action"
+msgstr "売買"
+
+msgid "Active"
+msgstr ""
+
+msgid "Active Since"
+msgstr ""
+
+msgid "Add comparisons"
+msgstr "比較チャートを追加"
+
+msgid "Add indicator"
+msgstr "指標を追加（英語表示のみ）"
+
+msgid "Add/Remove comparisons"
+msgstr "比較チャートの追加/削除"
+
+msgid "Add/Remove indicators"
+msgstr "指標の追加/削除"
+
+msgid "Add/remove indicators"
+msgstr "指標を追加/削除（英語表示のみ）"
+
+msgid "Added new workspace %"
+msgstr ""
+
+msgid "Admin"
+msgstr "管理者"
+
+msgid "All fields are optional. If you wish to copy all assets and trade types, please leave all fields empty"
+msgstr ""
+
+msgid "All times are in GMT (Greenwich Mean Time)"
+msgstr "当社サイトの時間表示は全て、GMT（グリニッジ標準時）に基づきます。"
+
+msgid "Amount"
+msgstr "金額"
+
+msgid "Amount per point"
+msgstr "ポイントごとの金額"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Apply to become a Binary.com"
+msgstr "Binary.comに申し込む"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Are you sure you want to delete template?"
+msgstr "テンプレートを完全に削除してもよろしいですか？"
+
+msgid "Are you sure you want to delete this token?"
+msgstr "このトークンを完全に削除してもよろしいですか？"
+
+msgid "Are you sure you want to overwrite current template?"
+msgstr "現在のテンプレートを上書きしてもよろしいですか？"
+
+msgid "Asian down"
+msgstr "ASIAN DOWN"
+
+msgid "Asian up"
+msgstr "ASIAN UP"
+
+msgid "Asians"
+msgstr "Asians"
+
+msgid "Asset"
+msgstr "資産"
+
+msgid "Asset Index"
+msgstr "取引期間データ"
+
+msgid "Assets"
+msgstr ""
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Avg. Duration of Open Positions"
+msgstr ""
+
+msgid "Avg. Loss"
+msgstr ""
+
+msgid "Avg. Profit"
+msgstr ""
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Back to list"
+msgstr "一覧へ戻る"
+
+msgid "Barrier"
+msgstr "バリア"
+
+msgid "Barrier offset"
+msgstr "追加バリア値"
+
+msgid "Bill Williams"
+msgstr "Bill Williams"
+
+msgid "Binary.com"
+msgstr "Binary.com"
+
+msgid "Binary.com : Webtrader"
+msgstr "Binary.com : ウェブトレーダー"
+
+msgid "Binary.com is an award-winning online trading provider that helps its clients to trade on financial markets through binary options and CFDs. Trading binary options and CFDs on Volatility Indices is classified as a gambling activity. Remember that gambling can be addictive - please play responsibly. Learn more about [_1]Responsible Trading[_2]. Some products are not available in all countries. This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
+msgstr ""
+
+msgid "Blank window"
+msgstr ""
+
+msgid "Bought"
+msgstr "購入済"
+
+msgid "Brand of first car"
+msgstr "最初の車のブランド"
+
+msgid "Browser upgrade required"
+msgstr "ブラウザのアップデートが必要です"
+
+msgid "Buy Price"
+msgstr "購入"
+
+msgid "Buy price"
+msgstr "購入"
+
+msgid "By clicking OK, you confirm that you have read and accepted the updated"
+msgstr "当社でお取引なさっているお客さまにおいて、改定内容を必ずご確認いただく必要がございます。原則、改定後の書面の内容をご確認いただきOKボタンを押して頂くまで、お取引できなくなりますので、お取引の際ご注意ください。"
+
+msgid "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. Between 74-89% of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money."
+msgstr ""
+
+msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up virtual-money accounts."
+msgstr "トレードの売買、期限切れトレードの更新、デモ口座の補充にご利用いただけます。"
+
+msgid "Can be used to open accounts, set settings, manage token usage, and more."
+msgstr "口座開設、設定、トークン使用状況の管理などをご利用いただけます。"
+
+msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
+msgstr "設定、制限、バランスシート、購入履歴などの口座アクティビティ"
+
+msgid "Can be used to withdraw to payment agents, transfer funds between accounts, and set / clear cashier passwords."
+msgstr "決済サービスでのご出金、口座間の資金送金、入出金パスワードの設定/削除をご利用いただけます。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Candles"
+msgstr "ローソク足"
+
+msgid "Candlestick down-color"
+msgstr "ローソク足 ダウンカラー"
+
+msgid "Candlestick down-line"
+msgstr "ローソク足 陰線"
+
+msgid "Candlestick up-color"
+msgstr "ローソク足 アップカラー"
+
+msgid "Candlestick up-line"
+msgstr "ローソク足 陽線"
+
+msgid "Cash Balance"
+msgstr "口座預託額"
+
+msgid "Change password"
+msgstr "パスワード変更"
+
+msgid "Chart"
+msgstr "チャート"
+
+msgid "Chart Themes"
+msgstr "チャートのテーマ"
+
+msgid "Chart background"
+msgstr "チャート背景"
+
+msgid "Chart context menu"
+msgstr "チャートコンテキストメニュー"
+
+msgid "Chart template"
+msgstr "チャートテンプレート"
+
+msgid "Chart type"
+msgstr "チャートの種類"
+
+msgid "Choose your pereferred payment agent"
+msgstr "ご希望の決済サービスをご選択ください"
+
+msgid "Choose your pereferred withdrawal method"
+msgstr "ご希望の出金方法をご選択ください"
+
+msgid "Chrome"
+msgstr "Chrome"
+
+msgid "Click to log in with your Binary.com account"
+msgstr "「Binary.comアカウントでログインする」をクリックしてください"
+
+msgid "Close"
+msgstr "終値"
+
+msgid "Closes"
+msgstr "取引終了時間"
+
+msgid "Comparisons"
+msgstr "比較チャート"
+
+msgid "Conditions"
+msgstr "条件"
+
+msgid "Confirm transfer"
+msgstr "送金を実行する"
+
+msgid "Connection closed."
+msgstr ""
+
+msgid "Connection error."
+msgstr ""
+
+msgid "Construction"
+msgstr "設営"
+
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+msgid "Continue Trading"
+msgstr "取引を継続"
+
+msgid "Contract"
+msgstr "取引内容"
+
+msgid "Contract Confirmation"
+msgstr ""
+
+msgid "Contract Details"
+msgstr ""
+
+msgid "Contracts"
+msgstr "トレード"
+
+msgid "Copier"
+msgstr ""
+
+msgid "Copy Trading"
+msgstr ""
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Create Account"
+msgstr ""
+
+msgid "Create token"
+msgstr "トークンを作成"
+
+msgid "Credit/Debit"
+msgstr "支払/受取"
+
+msgid "Crosshair"
+msgstr "クロスヘア"
+
+msgid "Current Level"
+msgstr "現在のレベル"
+
+msgid "Current Spot"
+msgstr "現在レート"
+
+msgid "Current Spot Time"
+msgstr "現在レート時間"
+
+msgid "Current comparisons"
+msgstr "現在使用中の比較チャート"
+
+msgid "Current indicators"
+msgstr "現在使用中の指標"
+
+msgid "Current password"
+msgstr "現在のパスワード"
+
+msgid "Current time"
+msgstr "現在時刻："
+
+msgid "Custom Theme"
+msgstr "カスタムテーマ"
+
+msgid "Customize chart appearance"
+msgstr ""
+
+msgid "Daily limit on losses"
+msgstr "損失限度額（1日）"
+
+msgid "Daily turnover limit"
+msgstr "1日の取引数量限度額"
+
+msgid "Dark Blue"
+msgstr "ダークブルー"
+
+msgid "Dark Green"
+msgstr "ダークグリーン"
+
+msgid "Dark Unica"
+msgstr "Dark Unica テーマ"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Days"
+msgstr "日"
+
+msgid "Dec"
+msgstr "12月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Default"
+msgstr "規定"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Demo for affiliates to access Webtrader charts"
+msgstr "アフィリエイト会員専用ウェブトレーダーチャートへのアクセス例"
+
+msgid "Deposit funds"
+msgstr "資金のご入金"
+
+msgid "Deposit of USD"
+msgstr "USDでのご入金"
+
+msgid "Describe what this token is for to find it later"
+msgstr "後で認識できるよう、このトークンの説明を記入してください"
+
+msgid "Description"
+msgstr "取引内容"
+
+msgid "Deselect"
+msgstr ""
+
+msgid "Differs"
+msgstr "DIFFERS"
+
+msgid "Digits"
+msgstr "数字"
+
+msgid "Do you want to install Webtrader chrome extension?"
+msgstr "ウェブトレーダーのchrome拡張機能をインストールしますか？"
+
+msgid "Don't have an account yet? Sign up and get a $10,000 virtual account"
+msgstr "まだ口座をお持ちではありませんか？デモ口座を開設して、100万円のバーチャルマネーでお取引を始めましょう"
+
+msgid "Done"
+msgstr ""
+
+msgid "Done. The funds are being transferred to the payment agent"
+msgstr "送金が完了しました。ご選択いただいた決済サービスへ資金が送金されました。"
+
+msgid "Done. The funds are transferred"
+msgstr "資金の送金が完了しました"
+
+msgid "Dot"
+msgstr "ドット"
+
+msgid "Double click the object to remove"
+msgstr "削除するオブジェクトをダブルクリックしてください"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Download CSV"
+msgstr "CSVでダウンロード"
+
+msgid "Download JPEG image"
+msgstr "JPEGでダウンロード"
+
+msgid "Download PDF document"
+msgstr "PDFでダウンロード"
+
+msgid "Download PNG"
+msgstr "PNGでダウンロード"
+
+msgid "Download PNG image"
+msgstr "PNGでダウンロード"
+
+msgid "Download SVG"
+msgstr "SVGでダウンロード"
+
+msgid "Download SVG vector image"
+msgstr "SVGベクターでダウンロード"
+
+msgid "Download as"
+msgstr "ダウンロード"
+
+msgid "Downloading .csv"
+msgstr ".csvファイルをダウンロード"
+
+msgid "Downloading template as"
+msgstr "でテンプレートをダウンロード"
+
+msgid "Downloading workspace as %1"
+msgstr ""
+
+msgid "Drawing tools"
+msgstr "描画ツール"
+
+msgid "Duration"
+msgstr "期間"
+
+msgid "EURUSD"
+msgstr "EURUSD"
+
+msgid "Edge"
+msgstr "エッジ"
+
+msgid "Education"
+msgstr "お役立ち情報"
+
+msgid "Embed code"
+msgstr "埋め込みコード"
+
+msgid "End Time"
+msgstr "終了時刻"
+
+msgid "Ends in"
+msgstr "END-IN"
+
+msgid "Ends out"
+msgstr "END-OUT"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Enjoy an intuitive trading interface with advanced functionality that lets you monitor all of your favourite assets and markets at the same time, as well as essential charts, the asset index, trading times, and historical data. Most importantly, you get to choose what you want to see on your screen"
+msgstr "基本チャート、資産インデックス、取引時間や取引履歴データ同様、お気に入りの資産や市場を全て同時に監視することができる高度な機能を兼ね備えた直感的取引インターフェースをお楽しみください。一番のポイントは、ご自身のスクリーンにご希望のものを表示できる点です。"
+
+msgid "Enter a valid trader token"
+msgstr ""
+
+msgid "Enter your current password"
+msgstr "現在のパスワードを入力してください"
+
+msgid "Entry Spot"
+msgstr "取引時刻直後のテック"
+
+msgid "Entry spot"
+msgstr "取引時刻直後のテック"
+
+msgid "Error getting data for %1"
+msgstr "%1のデータ取得中にエラーが発生しました"
+
+msgid "Even"
+msgstr "偶数"
+
+msgid "Exclude me from the website until"
+msgstr "特定日まで利用禁止（日時単位）"
+
+msgid "Exclude time"
+msgstr ""
+
+msgid "Exclude time must be after today."
+msgstr ""
+
+msgid "Exclude until time cannot be less than 6 months."
+msgstr ""
+
+msgid "Exclude until time cannot be more than 5 years."
+msgstr ""
+
+msgid "Exit Spot"
+msgstr "終値"
+
+msgid "Exit Spot Time"
+msgstr "売却/判定時刻"
+
+msgid "Exit spot"
+msgstr "終値"
+
+msgid "Explanation"
+msgstr "取引概要"
+
+msgid "Failed to update the password"
+msgstr ""
+
+msgid "Fall"
+msgstr "Fall"
+
+msgid "Favorites"
+msgstr "お気に入り"
+
+msgid "Favourite artist"
+msgstr "好きなアーティスト"
+
+msgid "Favourite dish"
+msgstr "好きな料理"
+
+msgid "Features"
+msgstr "機能"
+
+msgid "Feb"
+msgstr "2月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "Final Price"
+msgstr "最終価格"
+
+msgid "Final price"
+msgstr "最終価格"
+
+msgid "Finance"
+msgstr "金融"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Fri"
+msgstr "金曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "From"
+msgstr "開始"
+
+msgid "Full-screen trading interface"
+msgstr "全画面取引インターフェース"
+
+msgid "Further instructions"
+msgstr "詳細説明"
+
+msgid "GAMSTOP is a free service that enables you to self-exclude from all online gambling companies licensed in Great Britain"
+msgstr ""
+
+msgid "Get API token from trader(s) and add it in your list"
+msgstr ""
+
+msgid "Go to"
+msgstr ""
+
+msgid "Goes out"
+msgstr "BREAK-OUT"
+
+msgid "Gray"
+msgstr "グレー"
+
+msgid "Grid"
+msgstr "グリッド"
+
+msgid "Grid Light"
+msgstr "グリッド ライト"
+
+msgid "Health"
+msgstr "健全度"
+
+msgid "High"
+msgstr "高値"
+
+msgid "High Barrier"
+msgstr ""
+
+msgid "High barrier"
+msgstr "上限バリア"
+
+msgid "High barrier offset"
+msgstr "上限追加バリア値"
+
+msgid "Higher"
+msgstr "HIGH"
+
+msgid "Historical Data"
+msgstr ""
+
+msgid "Historical Data For"
+msgstr ""
+
+msgid "Horizontal line"
+msgstr "水平線"
+
+msgid "Hour"
+msgstr ""
+
+msgid "Hours"
+msgstr "時間"
+
+msgid "IMPORTANT DISCLAIMER"
+msgstr "重要な免責事項"
+
+msgid "IMPORTANT DISCLAIMER - Binary.com is not affiliated with any of the payment agents listed above. Each payment agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by Binary.com. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of payment agents before sending them any money. Binary.com shall not in any circumstance be held responsible for transactions made between customers and payment agents"
+msgstr "重要な免責事項 -Binary.comは、上記の決済サービス会社と提携していません。各決済サービスは、独立したサービスプロバイダーとして動作し、Binary.comによる承認、保証またはその他の許可がなされていません。お客さまは危険を承知で自信の責任をもって決済サービスに処断します。送金をされる前に、決済サービス会社の資格情報を確認されることをお勧めいたします。Binary.comはいかなる状況下においても、お客さまと決済サービス会社の間で生じた処理への責任は負いません。"
+
+msgid "If you are considering self-exclusion, you may wish to register with GAMSTOP"
+msgstr ""
+
+msgid "If you select a"
+msgstr "xxxを選択した場合"
+
+msgid "If you select a specific"
+msgstr "特定のxxxを選択した場合"
+
+msgid "In order to properly apply theme, a full refresh of page is required. Are you sure you want to proceed?"
+msgstr "テーマを適用するためには、ページの更新をする必要があります。続行してもよろしいですか？"
+
+msgid "In the EU, financial products are offered by Binary Investments (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, licensed and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2])."
+msgstr ""
+
+msgid "In the EU, financial products are offered by Binary Investments (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2])."
+msgstr ""
+
+msgid "In the Isle of Man and the UK, Volatility Indices are offered by Binary (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles; licensed and regulated respectively by (1) the Gambling Supervision Commission in the Isle of Man (current licence issued on 31 August 2017) and by (2) the Gambling Commission in the UK (licence [_1]reference no: 39172[_2])."
+msgstr ""
+
+msgid "In the rest of the EU, Volatility Indices are offered by Binary (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority in Malta (licence no. MGA/B2C/102/2000 issued on 01 August 2018), for UK clients by (2) the UK Gambling Commission (licence [_1]reference no: 39495[_2]), and for Irish clients by (3) the Revenue Commissioners in Ireland (Remote Bookmaker's Licence no. 1010285 issued on 1 July 2017). View complete [_3]Regulatory Information[_4]."
+msgstr ""
+
+msgid "In/Out"
+msgstr "In/Out"
+
+msgid "Indicative"
+msgstr ""
+
+msgid "Indicative Price"
+msgstr "気配値"
+
+msgid "Indicators"
+msgstr "指標（英語表示のみ）"
+
+msgid "Instruments"
+msgstr "商品"
+
+msgid "Invalid JSON file"
+msgstr "無効な JSONファイルです"
+
+msgid "Invalid parameter(s)"
+msgstr "無効なパラメーターです"
+
+msgid "Invalid template type"
+msgstr "テンプレートの種類が無効です"
+
+msgid "Invalid template type."
+msgstr ""
+
+msgid "Investments & Dividends"
+msgstr "投資と配当"
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "January"
+msgstr "1月"
+
+msgid "Japan accounts are not supported."
+msgstr ""
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "Jump to:"
+msgstr ""
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Last 12 mnts Profitable Trades"
+msgstr ""
+
+msgid "Last Digit Prediction"
+msgstr ""
+
+msgid "Last Digit is Over"
+msgstr ""
+
+msgid "Last Digit is Under"
+msgstr ""
+
+msgid "Last used"
+msgstr "最後に使用したもの"
+
+msgid "Less than"
+msgstr "未満"
+
+msgid "Line"
+msgstr "ライン"
+
+msgid "Line Dot"
+msgstr "ラインドット"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "Load Workspace"
+msgstr ""
+
+msgid "Load chart template"
+msgstr "チャートテンプレートを読み込む"
+
+msgid "Load trade template"
+msgstr "取引テンプレートを読み込む"
+
+msgid "Loading ..."
+msgstr ""
+
+msgid "Loading Asset Index ..."
+msgstr ""
+
+msgid "Loading Copy Trade..."
+msgstr ""
+
+msgid "Loading Download/View Data ..."
+msgstr ""
+
+msgid "Loading Password dialog ..."
+msgstr ""
+
+msgid "Loading Profit Table ..."
+msgstr ""
+
+msgid "Loading Self-Exclusion ..."
+msgstr ""
+
+msgid "Loading Statement Table ..."
+msgstr ""
+
+msgid "Loading Token management ..."
+msgstr ""
+
+msgid "Loading Trading Times ..."
+msgstr ""
+
+msgid "Loading chart and trade menus ..."
+msgstr ""
+
+msgid "Loading custom theme configuration..."
+msgstr ""
+
+msgid "Loading portfolio ..."
+msgstr ""
+
+msgid "Loading self-exclusion settings."
+msgstr ""
+
+msgid "Loading..."
+msgstr "読み込み中…"
+
+msgid "Log in"
+msgstr "ログイン"
+
+msgid "Log in time"
+msgstr "ログイン時間"
+
+msgid "Logging out because of self-exclusion session time out!"
+msgstr ""
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Low"
+msgstr "安値"
+
+msgid "Low barrier"
+msgstr "下限バリア"
+
+msgid "Low barrier offset"
+msgstr "下限追加バリア値"
+
+msgid "Lower"
+msgstr "LOW"
+
+msgid "Make sure that you have first agreed with the Agent on the terms of payment before submitting your request. Once you click the 'Confirm transfer' button the funds will be withdrawn from your account and will be sent to the Payment Agent you have chosen. The Agent will send you the withdrawal amount (minus the commission) via your preferred payment method"
+msgstr "リクエストを送信される前に、エージェントの支払規約に同意いただいてることをきちんと確認してください。「送金を実行する」ボタンをクリックされますと、資金はお客様のBinary口座から出金され、ご選択いただいた決済サービスエージェントに送金されます。エージェントは出金額（各エージェントの手数料が引かれます）をご希望の支払方法でお客様のアカウントへ送金します。"
+
+msgid "Manage"
+msgstr ""
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "Matches"
+msgstr "MATCHE"
+
+msgid "Max. Trade Stake"
+msgstr ""
+
+msgid "Maximum account cash balance"
+msgstr "口座預託額の上限額"
+
+msgid "Maximum aggregate contract purchases over a 30-day period"
+msgstr "30日の最大取引数量 (半角)"
+
+msgid "Maximum aggregate contract purchases over a 7-day period"
+msgstr "7日間の最大取引数量 (半角)"
+
+msgid "Maximum aggregate contract purchases per day"
+msgstr "1日の最大取引数量 (半角)"
+
+msgid "Maximum aggregate loss over a 30-day period"
+msgstr "30日間の最大損失 (半角)"
+
+msgid "Maximum aggregate loss per day"
+msgstr "1日の最大損失 (半角)"
+
+msgid "Maximum balance"
+msgstr ""
+
+msgid "Maximum number of open positions"
+msgstr "最大保有ポジション"
+
+msgid "Maximum open positions"
+msgstr ""
+
+msgid "May"
+msgstr "5月"
+
+msgid "Memorable date"
+msgstr "思い出のある日時"
+
+msgid "Memorable town/city"
+msgstr "思い出のある都市／街の名前"
+
+msgid "Min trade stake should be lower than max trade stake."
+msgstr ""
+
+msgid "Min. Trade Stake"
+msgstr ""
+
+msgid "Minimum of six lower and uppercase letters with numbers"
+msgstr ""
+
+msgid "Minus the agent's commission"
+msgstr "決済サービスの手数料を引く"
+
+msgid "Minute"
+msgstr ""
+
+msgid "Minutes"
+msgstr "分"
+
+msgid "Miss"
+msgstr "Miss"
+
+msgid "Momentum Indicators"
+msgstr "モメンタム・インジケーター"
+
+msgid "Mon"
+msgstr "月曜日"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Mother's maiden name"
+msgstr "母親の旧姓"
+
+msgid "Mr"
+msgstr "Mr"
+
+msgid "Mrs"
+msgstr "Mrs"
+
+msgid "Ms"
+msgstr "Ms"
+
+msgid "Multiplier"
+msgstr ""
+
+msgid "Name"
+msgstr "お名前"
+
+msgid "Name of first love"
+msgstr "初恋相手の名前"
+
+msgid "Name of your pet"
+msgstr "ペットの名前"
+
+msgid "Navigator handles background"
+msgstr "ナビゲーターバックグラント処理"
+
+msgid "Navigator handles border"
+msgstr "ナビゲーター ハンドルボーダー"
+
+msgid "Navigator mask-fill"
+msgstr "マビゲーターマスク塗りつぶし"
+
+msgid "Navigator outline"
+msgstr "ナビゲーターアウトライン"
+
+msgid "Navigator series color"
+msgstr "ナビゲーターシリーズカラー"
+
+msgid "Navigator series line"
+msgstr "ナビゲーターシリーズライン"
+
+msgid "Net Profit"
+msgstr "純利益"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No touch"
+msgstr "NO-TOUCH"
+
+msgid "Note: Contract will be sold at the prevailing market price when the request is received by our servers. This price may differ from the indicated price."
+msgstr ""
+
+msgid "Note: withdrawal via payment agent is available only if you deposit exclusively via payment agent"
+msgstr "ご注意：決済サービスでのご出金は、ご入金の際に決済サービスをご利用いただいた場合にのみご利用いただけます。"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "Now"
+msgstr "Now"
+
+msgid "OHLC"
+msgstr "OHLC"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Odd"
+msgstr "奇数"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Once this limit is reached, you may no longer deposit"
+msgstr "上限額に達した場合、入金頂くことができません。"
+
+msgid "Online trading can become addictive. Fill in the form below to limit your participation on the website or send a signed letter or fax to our customer support team. Once set, you can only tighten your limits. Limits will only be removed or loosened after 7 days with the exception of the self-exclusion date, which cannot be removed or altered once you have confirmed it. To remove or increase your limits, please contact"
+msgstr ""
+
+msgid "Open"
+msgstr "始値"
+
+msgid "Open a Financial Account"
+msgstr "口座開設"
+
+msgid "Opens"
+msgstr "取引開始時間"
+
+msgid "Opera"
+msgstr "操作"
+
+msgid "Option trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis"
+msgstr "オプション取引は依存性があります。依存を防ぐために、当社ではお客様のお取引や口座の概要を定期的に提供するリアリティチェックを行っています"
+
+msgid "Other"
+msgstr "その他"
+
+msgid "Outside the EU, financial products are offered by Binary (SVG) Ltd, Hinds Building, Kingstown, St. Vincent and the Grenadines; Binary (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission ([_1]view licence[_2]); Binary (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission ([_3]licence no. SIBA/L/18/1114[_4]); and Binary (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business ([_5]licence no. MB/18/0024[_6])."
+msgstr ""
+
+msgid "Over"
+msgstr "オーバー"
+
+msgid "Over 3 years"
+msgstr "3年以上"
+
+msgid "Overlap Studies"
+msgstr "オーバーレイ分析"
+
+msgid "PM"
+msgstr ""
+
+msgid "Password successfully updated."
+msgstr ""
+
+msgid "Passwords didn't match. Please type them again"
+msgstr "パスワードが一致しませんでした。再度お試しください。"
+
+msgid "Pattern Recognition"
+msgstr "パターン認識"
+
+msgid "Payment agent"
+msgstr "決済サービス"
+
+msgid "Payment agents"
+msgstr "決済サービス"
+
+msgid "Payments"
+msgstr "アフィリエイト報酬の支払いについて"
+
+msgid "Payout"
+msgstr "ペイアウト"
+
+msgid "Pension"
+msgstr "年金"
+
+msgid "Performance Probability"
+msgstr ""
+
+msgid "Permissions"
+msgstr "アクセス許可"
+
+msgid "Please [_1]accept the updated Terms and Conditions[_2] to lift your withdrawal and trading limits."
+msgstr ""
+
+msgid "Please [_1]complete your account profile[_2] to lift your withdrawal and trading limits."
+msgstr ""
+
+msgid "Please choose at least one token scope"
+msgstr ""
+
+msgid "Please complete the [_1]financial assessment form[_2] to lift your withdrawal and trading limits."
+msgstr ""
+
+msgid "Please confirm the following details in order to complete the transfer"
+msgstr "送金を完了するために、下記詳細をご確認ください"
+
+msgid "Please enter a number between"
+msgstr ""
+
+msgid "Please enter a valid value for"
+msgstr ""
+
+msgid "Please enter a value between 0 and"
+msgstr ""
+
+msgid "Please enter a value greater than 0"
+msgstr "0より大きい値をご入力ください"
+
+msgid "Please enter a value less than 6 weeks for time out until."
+msgstr ""
+
+msgid "Please enter date in the format YYYY-MM-DD"
+msgstr "年月日の順で日付をご入力ください"
+
+msgid "Please enter the token name"
+msgstr ""
+
+msgid "Please enter time in the format HH:MM"
+msgstr "時刻の形式をHH:MMで入力してください"
+
+msgid "Please enter your current password"
+msgstr "現在のパスワードをご入力ください"
+
+msgid "Please input correct token"
+msgstr "正しいトークンをご入力ください"
+
+msgid "Please install the latest version of one of these browsers"
+msgstr "いずれかのブラウザをご利用の方は最新バージョンをインストールしてください"
+
+msgid "Please keep your message to a single line, don't press enter"
+msgstr ""
+
+msgid "Please log in"
+msgstr ""
+
+msgid "Please log in to see your saved workspace."
+msgstr ""
+
+msgid "Please log in."
+msgstr ""
+
+msgid "Please select a date for time out until."
+msgstr ""
+
+msgid "Please select a payment agent"
+msgstr ""
+
+msgid "Please set the [_1]currency[_2] of your account"
+msgstr ""
+
+msgid "Please try again after 1 minute."
+msgstr ""
+
+msgid "Please use your new password to login."
+msgstr ""
+
+msgid "Plot"
+msgstr "プロット"
+
+msgid "Pofit/Loss"
+msgstr "損益"
+
+msgid "Points"
+msgstr "ポイント"
+
+msgid "Portfolio"
+msgstr "ポジション一覧"
+
+msgid "Potential Payout"
+msgstr "ペイアウト"
+
+msgid "Potential Profit"
+msgstr "期待利益"
+
+msgid "Potential profit"
+msgstr "期待利益"
+
+msgid "Pre-Defined"
+msgstr "所定の"
+
+msgid "Preferred reality-check interval"
+msgstr "好ましいリアリティチェック実施間隔"
+
+msgid "Press Create token button on the right to create your first token"
+msgstr "最初のトークンを作成するには、右の トークン作成 ボタンを押してください"
+
+msgid "Price Transformation"
+msgstr "価格変換"
+
+msgid "Primary"
+msgstr "主要"
+
+msgid "Print chart"
+msgstr "チャートを印刷"
+
+msgid "Profit"
+msgstr "利益"
+
+msgid "Profit Table"
+msgstr ""
+
+msgid "Profit table"
+msgstr "取引明細"
+
+msgid "Profit/ Loss"
+msgstr "損益"
+
+msgid "Purchase"
+msgstr "購入"
+
+msgid "Purchase Date"
+msgstr "購入日時"
+
+msgid "Purchase Price"
+msgstr "購入金額"
+
+msgid "Purchase Time"
+msgstr ""
+
+msgid "Read"
+msgstr "読む"
+
+msgid "Reality check"
+msgstr ""
+
+msgid "Redirecting to oauth login page,"
+msgstr ""
+
+msgid "Ref"
+msgstr "参照"
+
+msgid "Ref."
+msgstr ""
+
+msgid "Refresh failed"
+msgstr ""
+
+msgid "Register free account"
+msgstr "無料口座に登録"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove Selected"
+msgstr "選択項目を削除"
+
+msgid "Rename"
+msgstr "名前変更"
+
+msgid "Resale of this contract is not offered"
+msgstr ""
+
+msgid "Reset zoom"
+msgstr "ズームをリセット"
+
+msgid "Reset zoom level 1:1"
+msgstr "1:1にズームをリセット"
+
+msgid "Resources"
+msgstr "取引参考情報"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "Return"
+msgstr "リターン率"
+
+msgid "Rise"
+msgstr "RISE"
+
+msgid "Robust and secure platform"
+msgstr "ロバストで安心なプラットフォーム"
+
+msgid "Safari"
+msgstr "Safari"
+
+msgid "Salaried Employee"
+msgstr "サラリーマン"
+
+msgid "Sale Date"
+msgstr "約定日時"
+
+msgid "Sale Price"
+msgstr "決済価格"
+
+msgid "Sand Signika"
+msgstr "Sand Signikaテーマ"
+
+msgid "Sat"
+msgstr "土曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save as"
+msgstr "名前をつけて保存"
+
+msgid "Save changes"
+msgstr "変更が保存されました"
+
+msgid "Saved"
+msgstr ""
+
+msgid "Secondary"
+msgstr "第二"
+
+msgid "Seems like our servers are down, we are working on fixing it."
+msgstr ""
+
+msgid "Self-Employed"
+msgstr "自営業"
+
+msgid "Self-Exclusion"
+msgstr "取引制限"
+
+msgid "Self-Exclusion Facilities"
+msgstr ""
+
+msgid "Self-exclusion on this website only applies to your Binary.com account and does not include other companies or websites"
+msgstr ""
+
+msgid "Sell At Market"
+msgstr "売却"
+
+msgid "Sent to account"
+msgstr "口座に送金"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "Session"
+msgstr "セッション"
+
+msgid "Session duration limit"
+msgstr ""
+
+msgid "Session duration limit, in minutes"
+msgstr "取引継続時間の制限(分単位)"
+
+msgid "Settles"
+msgstr "約定時間"
+
+msgid "Share"
+msgstr "シェア"
+
+msgid "Share chart"
+msgstr "チャートを共有"
+
+msgid "Since you feel the need to self-exclude, we strongly encourage you to exclude yourself from similar services that you may have signed up for"
+msgstr ""
+
+msgid "Sold"
+msgstr "売却"
+
+msgid "Some random index"
+msgstr ""
+
+msgid "Spline"
+msgstr "スプライン"
+
+msgid "Spreads"
+msgstr "スプレッド"
+
+msgid "Spreads down"
+msgstr "SPREAD DOWN"
+
+msgid "Spreads up"
+msgstr "SPREAD UP"
+
+msgid "Stake"
+msgstr "購入価格"
+
+msgid "Standard methods"
+msgstr "標準方法"
+
+msgid "Standard withdrawal"
+msgstr "スタンダード出金"
+
+msgid "Start Time"
+msgstr "開始開始時刻"
+
+msgid "Start Trading"
+msgstr "取引を始める"
+
+msgid "Start time"
+msgstr "開始時刻"
+
+msgid "Statement"
+msgstr "口座残高"
+
+msgid "Statistical Functions"
+msgstr "統計関数"
+
+msgid "Status"
+msgstr "金融資産"
+
+msgid "Stays in"
+msgstr "STAY-IN"
+
+msgid "Stop-loss"
+msgstr "損切り"
+
+msgid "Stop-profit"
+msgstr "利益ストップ"
+
+msgid "Stop-type"
+msgstr "ストップタイプ"
+
+msgid "Stroke color"
+msgstr "境界線の色"
+
+msgid "Stroke width"
+msgstr "境界線の幅"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Successfully added new token"
+msgstr ""
+
+msgid "Successfully added workspace as"
+msgstr ""
+
+msgid "Successfully applied the template and saved it as"
+msgstr "テンプレートが適用され、正常に保存されました"
+
+msgid "Sun"
+msgstr "日曜日"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Table"
+msgstr "歩み値"
+
+msgid "Tel"
+msgstr "電話番号"
+
+msgid "Template already saved as"
+msgstr ""
+
+msgid "Template applied partially."
+msgstr ""
+
+msgid "Template changes saved"
+msgstr "テンプレートの変更が完了しました"
+
+msgid "Template is not applicable."
+msgstr ""
+
+msgid "Template name"
+msgstr "テンプレート名"
+
+msgid "Template name already exists"
+msgstr "このテンプレート名は既に存在しています"
+
+msgid "Terms"
+msgstr "利用規約"
+
+msgid "Terms and Conditions"
+msgstr ""
+
+msgid "Tertiary"
+msgstr "第三"
+
+msgid "The"
+msgstr "　"
+
+msgid "The company holds customer funds in separate bank accounts to the operational accounts which would not, in the event of insolvency, form part of the Company's assets. This meets the Gambling Commission's requirements for the segregation of customer funds at the level"
+msgstr "当社は運用口座とは別に銀行口座に顧客の資金を保持しています。破産の場合には、当社の資産の一部から支払われます。これは顧客資金分離への賭博委員会の要件を満たしています。"
+
+msgid "The products offered via this website include binary options, contracts for difference (\"CFDs\") and other complex derivatives. Trading binary options may not be suitable for everyone. Trading CFDs carries a high level of risk since leverage can work both to your advantage and disadvantage. As a result, the products offered on this website may not be suitable for all investors because of the risk of losing all of your invested capital. You should never invest money that you cannot afford to lose, and never trade with borrowed money. Before trading in the complex products offered, please be sure to understand the risks involved and learn about [_1]Responsible Trading[_2]."
+msgstr ""
+
+msgid "There was a market data disruption during the contract period. For real-money accounts we will attempt to correct this and settle the contract properly, otherwise the contract will be cancelled and refunded. Virtual-money contracts will be cancelled and refunded."
+msgstr ""
+
+msgid "There was an error"
+msgstr ""
+
+msgid "This contract has expired"
+msgstr ""
+
+msgid "This contract lost"
+msgstr ""
+
+msgid "This contract won"
+msgstr ""
+
+msgid "This field is required"
+msgstr "この項目は必須です"
+
+msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, Japan, or to persons under age 18."
+msgstr ""
+
+msgid "Thu"
+msgstr "木曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Tick"
+msgstr "ティック"
+
+msgid "Tick Trade app"
+msgstr "Tickトレードアプリ"
+
+msgid "Tick {row.number}"
+msgstr "ティック {row.number}"
+
+msgid "Ticks"
+msgstr "ティック"
+
+msgid "Time interval"
+msgstr "期間"
+
+msgid "Time out until"
+msgstr "タイムアウト"
+
+msgid "Timeout for websocket request"
+msgstr ""
+
+msgid "Title"
+msgstr "敬称"
+
+msgid "To"
+msgstr "宛先"
+
+msgid "To deposit money please contact the payment agent directly"
+msgstr "ご入金いただくには、お手数ですが決済サービスエージェントまで直接ご連絡ください。"
+
+msgid "To find out more and to sign up with GAMSTOP, please visit"
+msgstr ""
+
+msgid "To process deposits and withdrawals for payment methods or local currencies not supported by Binary.com contact a payment agent"
+msgstr "こちらのお支払方法または現地通貨での入出金処理は、Binary.comでは対応しておりません。決済サービスエージェントまでご連絡ください。"
+
+msgid "To self-exclude from all online gambling companies licensed in Great Britain, you may go to"
+msgstr ""
+
+msgid "To withdraw funds please enter the special verification token we have just emailed you"
+msgstr "資金のご出金には、お客様のアドレスに只今送信されたワンタイムパスワードをご入力ください"
+
+msgid "Today"
+msgstr ""
+
+msgid "Token"
+msgstr "トークン"
+
+msgid "Token Management"
+msgstr ""
+
+msgid "Token already added"
+msgstr ""
+
+msgid "Token management"
+msgstr "トークン設定"
+
+msgid "Token name"
+msgstr "トークン名"
+
+msgid "Token name can contain alphanumeric characters with spaces and underscores"
+msgstr ""
+
+msgid "Token name can have a maximum of 32 characters"
+msgstr ""
+
+msgid "Token name must contain atleast 2 characters"
+msgstr ""
+
+msgid "Token name should begin with alphanumeric characters only"
+msgstr ""
+
+msgid "Token permissions"
+msgstr "トークンのアクセス許可"
+
+msgid "Tooltip background"
+msgstr "ツールチップ背景"
+
+msgid "Tooltip text"
+msgstr "ツールチップ テキスト"
+
+msgid "Total Copiers"
+msgstr ""
+
+msgid "Total Cost"
+msgstr "合計投資額"
+
+msgid "Total Profit/Loss"
+msgstr "合計　損益"
+
+msgid "Total Trades"
+msgstr ""
+
+msgid "Touch"
+msgstr "TOUCH"
+
+msgid "Touch/No Touch"
+msgstr "TOUCH/NO-TOUCH"
+
+msgid "Tourism"
+msgstr "ご利用方法"
+
+msgid "Trade"
+msgstr "トレード"
+
+msgid "Trade Confirmation"
+msgstr "トレード確定"
+
+msgid "Trade Types"
+msgstr ""
+
+msgid "Trade using"
+msgstr "XXXでお取引"
+
+msgid "Trader"
+msgstr ""
+
+msgid "Trader's Statistics"
+msgstr ""
+
+msgid "Trades Profitability"
+msgstr ""
+
+msgid "Trading Times"
+msgstr "取引時間"
+
+msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset."
+msgstr ""
+
+msgid "Tradingview for Binary.com"
+msgstr "Binary.comのTradingView"
+
+msgid "Transfer"
+msgstr "送金"
+
+msgid "Transfer to another Binary account"
+msgstr "他のBinary口座へ送金する"
+
+msgid "Try"
+msgstr "試してみる"
+
+msgid "Tue"
+msgstr "火曜日"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Turnover"
+msgstr "取引数量"
+
+msgid "USD"
+msgstr "USD"
+
+msgid "USDJPY"
+msgstr "USDJPY"
+
+msgid "Under"
+msgstr "未満"
+
+msgid "Unfortunately, your browser does not support them"
+msgstr "残念ながら、お使いのブラウザは対応しておりません"
+
+msgid "Up/Down"
+msgstr "ラダー"
+
+msgid "Upcoming Events"
+msgstr "取引時間短縮日"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Settings"
+msgstr "設定内容を更新"
+
+msgid "Upgrade to a Real Account"
+msgstr "リアル口座へアップグレード"
+
+msgid "Upload template"
+msgstr "テンプレートをアップロード"
+
+msgid "Use"
+msgstr "使用する"
+
+msgid "Use the \"Save as ...\" button to save the chart settings, type, time period, indicators and comparisons"
+msgstr "「名前を付けて保存」から、チャート設定、タイプ、期間、指標、比較などを保存することができます"
+
+msgid "Use the \"Save as ...\" button to save the trade settings"
+msgstr "取引設定は「名前を付けて保存」から保存をしてください"
+
+msgid "Various customisable features like loading and arranging assets, charting, and other resources however you see fit"
+msgstr ""
+
+msgid "Verification code sent to"
+msgstr ""
+
+msgid "Verification token"
+msgstr "ワンタイムパスワード"
+
+msgid "Verify new password"
+msgstr "新しいパスワード（確認用）"
+
+msgid "Vertical line"
+msgstr "垂直線"
+
+msgid "View"
+msgstr "表示"
+
+msgid "View Statement"
+msgstr "取引履歴を表示する"
+
+msgid "Volatility Indicators"
+msgstr "ボラティリティ指標"
+
+msgid "We are required by our license to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency"
+msgstr "当社はライセンスにより、当社が保持しているお客さまの口座の資金に何か起きた場合、及び支払不能になった場合にどの資金が保護されるかその範囲をお知らせする必要があります。"
+
+msgid "Webtrader"
+msgstr "ウェブトレーダー"
+
+msgid "Webtrader is an advanced trading platform that's fully-customisable according to your personal preferences"
+msgstr ""
+
+msgid "Webtrader uses new web technologies for rich and enjoyable trading experience"
+msgstr "ウェブトレーダーは取引経験をより豊かに、より楽しめるものへとする全く新しいウェブテクノロジーを使用しています"
+
+msgid "Wed"
+msgstr "水曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Welcome to Binary.com Webtrader"
+msgstr " Binary.com Webtrader へようこそ"
+
+msgid "When you click \"Ok\" you will be excluded from trading on the site until the selected date."
+msgstr ""
+
+msgid "While on the go, you can"
+msgstr "出先でもお取引が可能"
+
+msgid "Withdraw funds"
+msgstr "資金のご出金"
+
+msgid "Withdrawal via payment agents"
+msgstr "決済サービスでのご出金"
+
+msgid "Workspace"
+msgstr ""
+
+msgid "Workspace changes saved"
+msgstr ""
+
+msgid "X-axis labels"
+msgstr "X 軸ラベル"
+
+msgid "X-axis line"
+msgstr "X 軸線"
+
+msgid "X-axis tick"
+msgstr "X軸目盛"
+
+msgid "Y-axis gridline"
+msgstr "Y 軸目盛線"
+
+msgid "Y-axis labels"
+msgstr "Y 軸のラベル"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You are not copying any trade(s) yet"
+msgstr ""
+
+msgid "You have excluded yourself until"
+msgstr ""
+
+msgid "You have sold the following contract"
+msgstr "以下のトレードを売却しました"
+
+msgid "You haven't saved any templates yet"
+msgstr "テンプレートはまだ保存されていません"
+
+msgid "You pay"
+msgstr "xxxを支払う"
+
+msgid "You will be automatically logged out after such time"
+msgstr "その時間が経過しますと、自動的にログアウトされます"
+
+msgid "You wish to allow other traders to copy your trades"
+msgstr ""
+
+msgid "You wish to copy another trader's trades"
+msgstr ""
+
+msgid "Your account (%) is locked, please contact customer support for more info."
+msgstr ""
+
+msgid "Your account is restricted. Kindly [_1]contact customer support[_2] for assistance."
+msgstr ""
+
+msgid "Your browser doesn't support copy to clipboard"
+msgstr ""
+
+msgid "Your browser is not supported"
+msgstr "お使いのブラウザは対応しておりません"
+
+msgid "Your changes have been updated"
+msgstr ""
+
+msgid "Your copying settings"
+msgstr ""
+
+msgid "Your new account balance is"
+msgstr "最新の口座残高："
+
+msgid "Your transaction reference is"
+msgstr "トレード参照番号："
+
+msgid "Your transaction reference number is"
+msgstr "トレード参照番号："
+
+msgid "Zoom"
+msgstr "ズーム"
+
+msgid "[_1]Authenticate your account[_2] now to take full advantage of all withdrawal options available."
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "commission"
+msgstr "手数料"
+
+msgid "create a Read-only token, and share the token with your copier(s)"
+msgstr ""
+
+msgid "customer support"
+msgstr "カスタマーサポート"
+
+msgid "day"
+msgstr "日"
+
+msgid "days"
+msgstr "日"
+
+msgid "deposits"
+msgstr ""
+
+msgid "end time"
+msgstr "終了時刻"
+
+msgid "entry spot"
+msgstr "エントリー価格"
+
+msgid "exit spot"
+msgstr "終値"
+
+msgid "for"
+msgstr ""
+
+msgid "for mobile charts"
+msgstr "モバイルチャート"
+
+msgid "has updated its"
+msgstr "更新しました"
+
+msgid "hour"
+msgstr "時間"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "in the future, the"
+msgstr "将来"
+
+msgid "is Binary's advanced desktop trading platform. Its multi-window interface provides maximum flexibility and suits the needs of active traders working on their desktop PCs"
+msgstr "Binaryの高度なデスクトップ用取引プラットフォームです。マルチウィンドウインターフェースでは可能な限りの柔軟性を提供し、デスクトップPCでご利用いただける、トレーダーのニーズに適しています。"
+
+msgid "is required. Current spread"
+msgstr "必要です。現在のスプレッド"
+
+msgid "is that which is selected and the"
+msgstr "選択いただいたもの"
+
+msgid "is the"
+msgstr "それ"
+
+msgid "is the price in effect at that time"
+msgstr "その際に影響をうけている価格です"
+
+msgid "is the selected number of minutes/hours after the"
+msgstr "XXXの後に、分/時間の数字が選択されています"
+
+msgid "is the selected time"
+msgstr "選択された時間です"
+
+msgid "is the spot at the"
+msgstr "XXX時点のレートです"
+
+msgid "is when the contract is processed by our servers and the"
+msgstr "トレードの際に、当サーバーにより処理されました"
+
+msgid "main site"
+msgstr "メインサイト"
+
+msgid "market is presently closed."
+msgstr ""
+
+msgid "medium protection"
+msgstr "媒体保護"
+
+msgid "minute"
+msgstr "分"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "next tick"
+msgstr "次のティック"
+
+msgid "of \"Now\", the"
+msgstr "「今」のXXX"
+
+msgid "payment agent"
+msgstr "決済サービス"
+
+msgid "points"
+msgstr "ポイント"
+
+msgid "risk warning"
+msgstr ""
+
+msgid "sec"
+msgstr ""
+
+msgid "second"
+msgstr "秒"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "session overview"
+msgstr "セッション概要"
+
+msgid "start time"
+msgstr "開始時間"
+
+msgid "the"
+msgstr "　"
+
+msgid "thereafter"
+msgstr "その後"
+
+msgid "tick"
+msgstr "ティック"
+
+msgid "ticks"
+msgstr "ティック"
+
+msgid "withdrawals"
+msgstr ""
+
+msgid "www.gamstop.co.uk"
+msgstr ""
+
+msgid "yes"
+msgstr "はい"
+
+msgid "{agent.commission}%"
+msgstr "{agent.commission}%"
+
+msgid "| Return"
+msgstr ""
+
+msgid "﻿"
+msgstr ""
+

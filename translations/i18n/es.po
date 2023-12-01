@@ -1,0 +1,2120 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: webtrader\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /development/translations/i18n/messages.pot\n"
+"Project-Id-Version: webtrader\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: binarycom\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2019-06-21 08:40\n"
+
+msgid "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx\""
+msgstr "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx\""
+
+msgid "(if less than one day in duration), or at the end of the trading day (if one day or more in duration)"
+msgstr "(si menos de un día de duración), o al final de la jornada bursátil (si un día o más de duración)"
+
+msgid "* Contract has not started yet"
+msgstr "* El contrato no ha comenzado todavía"
+
+msgid "* Password must be 6 characters minimum"
+msgstr "*La contraseña debe tener un mínimo de 6 caracteres"
+
+msgid "* Password must contain uppercase letters and numbers"
+msgstr "*La contraseña debe contener letras mayúsculas y números"
+
+msgid "* Please enter your new password"
+msgstr "* Por favor ingrese su nueva contraseña"
+
+msgid "- Binary.com is not affiliated with any of the Payment Agents listed above. Each Payment Agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by Binary.com. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of Payment Agents before sending them any money. Binary.com shall not in any circumstance be held responsible for transactions made between customers and Payment Agents"
+msgstr "-Binary.com no está afiliado con ninguno de los agentes de pago mencionados anteriormente. Cada agente de pago opera como un proveedor de servicios independiente y no es avalado, garantizado o de lo contrario aprobado por Binary.com. LOS CLIENTES TRATAN CON AGENTES DE PAGO A SU EXCLUSIVO RIESGO Y PELIGRO. Se recomienda a los clientes verificar las credenciales de los agentes de pago antes de enviarles dinero. Binary.com no será responsable en ninguna circunstancia por las transacciones realizadas entre los clientes y los agentes de pago"
+
+msgid "0-1 year"
+msgstr "0-1 año"
+
+msgid "0-5 transactions in the past 12 months"
+msgstr "0-5 transacciones en los últimos 12 meses"
+
+msgid "1"
+msgstr "1"
+
+msgid "1 Day"
+msgstr "1 Día"
+
+msgid "1 Hour"
+msgstr "1 Hora"
+
+msgid "1 Minute"
+msgstr "1 Minuto"
+
+msgid "1 Tick"
+msgstr "1 Tick(t)"
+
+msgid "1-2 years"
+msgstr "1-2 años"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 Minutes"
+msgstr "10 Minutos"
+
+msgid "10m"
+msgstr "10min"
+
+msgid "15"
+msgstr "15"
+
+msgid "15 Minutes"
+msgstr "15 Minutos"
+
+msgid "15m"
+msgstr "15min"
+
+msgid "1d"
+msgstr "1d"
+
+msgid "1h"
+msgstr "1h"
+
+msgid "1m"
+msgstr "1min"
+
+msgid "1t"
+msgstr "1t"
+
+msgid "2"
+msgstr "2"
+
+msgid "2 Hours"
+msgstr "2 Horas"
+
+msgid "2 Minutes"
+msgstr "2 Minutos"
+
+msgid "2h"
+msgstr "2h"
+
+msgid "2m"
+msgstr "2min"
+
+msgid "3"
+msgstr "3"
+
+msgid "3 Minutes"
+msgstr "3 Minutos"
+
+msgid "30"
+msgstr "30"
+
+msgid "30 Minutes"
+msgstr "30 Minutos"
+
+msgid "30-day limit on losses"
+msgstr "límite de 30 días en pérdidas"
+
+msgid "30-day turnover limit"
+msgstr "límite de facturación de 30 días"
+
+msgid "30m"
+msgstr "30min"
+
+msgid "3m"
+msgstr "3min"
+
+msgid "4"
+msgstr "4"
+
+msgid "4 Hours"
+msgstr "4 Horas"
+
+msgid "40 transactions or more in the past 12 months"
+msgstr "40 transacciones o más en los últimos 12 meses"
+
+msgid "4h"
+msgstr "4h"
+
+msgid "5"
+msgstr "5"
+
+msgid "5 Minutes"
+msgstr "5 Minutos"
+
+msgid "5m"
+msgstr "5min"
+
+msgid "6-10 transactions in the past 12 months"
+msgstr "6-10 transacciones en los úlitmos 12 meses"
+
+msgid "7-day limit on losses"
+msgstr "límite de 7 días para pérdidas"
+
+msgid "7-day turnover limit"
+msgstr "límite de volumen de negocios de 7 días"
+
+msgid "8"
+msgstr "8"
+
+msgid "8 Hours"
+msgstr "8 Horas"
+
+msgid "8h"
+msgstr "8h"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Accept"
+msgstr "Aceptar"
+
+msgid "Accessible from any web browser in 13 languages"
+msgstr "Accesible desde cualquier navegador web en 13 idiomas"
+
+msgid "Account balance"
+msgstr "Saldo de la cuenta"
+
+msgid "Account balance:"
+msgstr "Saldo de la cuenta:"
+
+msgid "Account id not found."
+msgstr "No se ha encontrado el ID de la cuenta."
+
+msgid "Account token not found."
+msgstr "No se ha encontrado el token de la cuenta."
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Active Since"
+msgstr "Activo Desde"
+
+msgid "Add comparisons"
+msgstr "Añadir comparaciones"
+
+msgid "Add indicator"
+msgstr "Añadir indicador"
+
+msgid "Add/Remove comparisons"
+msgstr "Agregar/Quitar comparaciones"
+
+msgid "Add/Remove indicators"
+msgstr "Agregar o quitar indicadores"
+
+msgid "Add/remove indicators"
+msgstr "Agregar o quitar indicadores"
+
+msgid "Added new workspace %"
+msgstr "Agregado nuevo espacio de trabajo %"
+
+msgid "Admin"
+msgstr "Administrador"
+
+msgid "All fields are optional. If you wish to copy all assets and trade types, please leave all fields empty"
+msgstr "Todos los campos son opcionales. Si desea copiar todos los activos y tipos de operaciones, deje todos los campos en blanco"
+
+msgid "All times are in GMT (Greenwich Mean Time)"
+msgstr "Todas las horas están en GMT (Greenwich Mean Time)"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "Amount per point"
+msgstr "Cantidad por punto"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Apply to become a Binary.com"
+msgstr "Solicitar convertirse en un"
+
+msgid "Apr"
+msgstr "Abr"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "Are you sure you want to delete template?"
+msgstr "¿Está seguro de que desea eliminar esta plantilla?"
+
+msgid "Are you sure you want to delete this token?"
+msgstr "¿Está seguro de que desea eliminar este token?"
+
+msgid "Are you sure you want to overwrite current template?"
+msgstr "¿Está seguro de que desea sobrescribir esta plantilla?"
+
+msgid "Asian down"
+msgstr "Asiáticas Abajo"
+
+msgid "Asian up"
+msgstr "Asiáticas Arriba"
+
+msgid "Asians"
+msgstr "Asiáticas"
+
+msgid "Asset"
+msgstr "Activo"
+
+msgid "Asset Index"
+msgstr "Índice de activos"
+
+msgid "Assets"
+msgstr "Activos"
+
+msgid "Aug"
+msgstr "Ago"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "Avg. Duration of Open Positions"
+msgstr "Duración media de las posiciones abiertas"
+
+msgid "Avg. Loss"
+msgstr "Pérdida media"
+
+msgid "Avg. Profit"
+msgstr "Ganancia media"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Back to list"
+msgstr "Volver a la lista"
+
+msgid "Barrier"
+msgstr "Barrera"
+
+msgid "Barrier offset"
+msgstr "Desplazamiento de la barrera"
+
+msgid "Bill Williams"
+msgstr "Bill Williams"
+
+msgid "Binary.com"
+msgstr "Binary.com"
+
+msgid "Binary.com : Webtrader"
+msgstr "Binary.com: Webtrader"
+
+msgid "Binary.com is an award-winning online trading provider that helps its clients to trade on financial markets through binary options and CFDs. Trading binary options and CFDs on Volatility Indices is classified as a gambling activity. Remember that gambling can be addictive - please play responsibly. Learn more about [_1]Responsible Trading[_2]. Some products are not available in all countries. This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
+msgstr "Binary.com es un proveedor de servicios comerciales en línea galardonado, que ayuda a sus clientes a operar en mercados financieros a través de opciones binarias y CFD. Operar con opciones binarias y CFDs en Índices de Volatilidad está clasificado como un juego de azar. Recuerde que los juegos de azar pueden ser adictivos – por favor juegue con responsabilidad. Aprenda más acerca de [_1]Comercio responsable[_2]. Algunos productos no se encuentran disponibles en todos los países. Los servicios de este sitio web no están disponibles en algunos países como los Estados Unidos, Canadá, Costa Rica, Hong Kong, o para menores de 18 años."
+
+msgid "Blank window"
+msgstr "Ventana en blanco"
+
+msgid "Bought"
+msgstr "Comprado"
+
+msgid "Brand of first car"
+msgstr "Marca del primer coche"
+
+msgid "Browser upgrade required"
+msgstr "Actualización del navegador requerida"
+
+msgid "Buy Price"
+msgstr "Precio de Compra"
+
+msgid "Buy price"
+msgstr "Precio de compra"
+
+msgid "By clicking OK, you confirm that you have read and accepted the updated"
+msgstr "Haciendo clic en OK, usted confirma que ha leído y aceptado la actualización del"
+
+msgid "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. Between 74-89% of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money."
+msgstr "Los CFD son instrumentos complejos e implican un alto riesgo de perder dinero rápidamente debido al apalancamiento. Entre el 74 y el 89% de las cuentas de inversores minoristas pierden dinero cuando operan con CFD. Usted debe considerar si entiende cómo funcionan los CFD y si puede permitirse el riesgo de perder su dinero."
+
+msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up virtual-money accounts."
+msgstr "Se puede utilizar para comprar y vender contratos, renovar compras caducadas y recargar las cuentas de dinero virtual."
+
+msgid "Can be used to open accounts, set settings, manage token usage, and more."
+msgstr "Se puede utilizar para abrir cuentas, configurar ajustes, administrar el uso de token y mucho más."
+
+msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
+msgstr "Se puede utilizar para ver la actividad de la cuenta, incluyendo la configuración, límites, balances, historial de compras del contratos y mucho más."
+
+msgid "Can be used to withdraw to payment agents, transfer funds between accounts, and set / clear cashier passwords."
+msgstr "Se puede utilizar para retirar fondos y transferirlos a agentes de pago, transferir fondos entre cuentas y establecer o cancelar contraseñas del cajero."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Candles"
+msgstr "Velas"
+
+msgid "Candlestick down-color"
+msgstr "Gráfico de velas color hacia abajo"
+
+msgid "Candlestick down-line"
+msgstr "Gráfico de velas línea hacia abajo"
+
+msgid "Candlestick up-color"
+msgstr "Gráfico de velas color hacia arriba"
+
+msgid "Candlestick up-line"
+msgstr "Gráfico de velas línea hacia arriba"
+
+msgid "Cash Balance"
+msgstr "Saldo de efectivo"
+
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+msgid "Chart"
+msgstr "Gráfico"
+
+msgid "Chart Themes"
+msgstr "Temas del Gráfico"
+
+msgid "Chart background"
+msgstr "Fondo del Gráfico"
+
+msgid "Chart context menu"
+msgstr "Menú de contexto del gráfico"
+
+msgid "Chart template"
+msgstr "Plantilla del gráfico"
+
+msgid "Chart type"
+msgstr "Tipo de gráfico"
+
+msgid "Choose your pereferred payment agent"
+msgstr "Seleccione su agente de pago preferido"
+
+msgid "Choose your pereferred withdrawal method"
+msgstr "Seleccione el método de retirada preferido"
+
+msgid "Chrome"
+msgstr "Chrome"
+
+msgid "Click to log in with your Binary.com account"
+msgstr "Haga clic para iniciar sesión con su cuenta de Binary.com"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Closes"
+msgstr "Cierra"
+
+msgid "Comparisons"
+msgstr "Comparaciones"
+
+msgid "Conditions"
+msgstr "Condiciones"
+
+msgid "Confirm transfer"
+msgstr "Confirmar la transferencia"
+
+msgid "Connection closed."
+msgstr "Conexión cerrada."
+
+msgid "Connection error."
+msgstr "Error de conexión."
+
+msgid "Construction"
+msgstr "Construcción"
+
+msgid "Contact Us"
+msgstr "Contáctenos"
+
+msgid "Continue Trading"
+msgstr "Seguir Operando"
+
+msgid "Contract"
+msgstr "Contrato"
+
+msgid "Contract Confirmation"
+msgstr "Confirmación del contrato"
+
+msgid "Contract Details"
+msgstr "Detalles del contrato"
+
+msgid "Contracts"
+msgstr "Contratos"
+
+msgid "Copier"
+msgstr "Copiador"
+
+msgid "Copy Trading"
+msgstr "Copy Trading"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Create Account"
+msgstr "Crear cuenta"
+
+msgid "Create token"
+msgstr "Crear token"
+
+msgid "Credit/Debit"
+msgstr "Crédito/Débito"
+
+msgid "Crosshair"
+msgstr "Punto de mira"
+
+msgid "Current Level"
+msgstr "Nivel Actual"
+
+msgid "Current Spot"
+msgstr "Spot Actual"
+
+msgid "Current Spot Time"
+msgstr "Tiempo de Spot Actual"
+
+msgid "Current comparisons"
+msgstr "Comparaciones actuales"
+
+msgid "Current indicators"
+msgstr "Indicadores actuales"
+
+msgid "Current password"
+msgstr "Contraseña actual"
+
+msgid "Current time"
+msgstr "Hora actual"
+
+msgid "Custom Theme"
+msgstr "Tema personalizado"
+
+msgid "Customize chart appearance"
+msgstr "Personalizar la apariencia del gráfico"
+
+msgid "Daily limit on losses"
+msgstr "Límite diario de pérdidas"
+
+msgid "Daily turnover limit"
+msgstr "Límite diario de ventas"
+
+msgid "Dark Blue"
+msgstr "Azul Oscuro"
+
+msgid "Dark Green"
+msgstr "Verde Oscuro"
+
+msgid "Dark Unica"
+msgstr "Oscuro Única"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Dec"
+msgstr "Dic"
+
+msgid "December"
+msgstr "Diciembre"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Demo for affiliates to access Webtrader charts"
+msgstr "Demo para que los afiliados accedan a los gráficos Webtrader"
+
+msgid "Deposit funds"
+msgstr "Depositar fondos"
+
+msgid "Deposit of USD"
+msgstr "Depósito de USD"
+
+msgid "Describe what this token is for to find it later"
+msgstr "Describir para qué es este token para encontrarlo más tarde"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Deselect"
+msgstr "Deseleccionar"
+
+msgid "Differs"
+msgstr "Dígito Difiere"
+
+msgid "Digits"
+msgstr "Dígitos"
+
+msgid "Do you want to install Webtrader chrome extension?"
+msgstr "¿Quiere instalar la extensión Webtrader de chrome?"
+
+msgid "Don't have an account yet? Sign up and get a $10,000 virtual account"
+msgstr "¿Todavía no tiene una cuenta? Regístrese y obtenga una cuenta virtual de $10.000"
+
+msgid "Done"
+msgstr "Finalizado"
+
+msgid "Done. The funds are being transferred to the payment agent"
+msgstr "Hecho. Los fondos están siendo transferidos al agente de pago"
+
+msgid "Done. The funds are transferred"
+msgstr "Hecho. Los fondos se han transferido"
+
+msgid "Dot"
+msgstr "Punto"
+
+msgid "Double click the object to remove"
+msgstr "Haga doble clic en el objeto para quitar"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Download CSV"
+msgstr "Descargar CSV"
+
+msgid "Download JPEG image"
+msgstr "Descargar imagen JPEG"
+
+msgid "Download PDF document"
+msgstr "Descargar documento PDF"
+
+msgid "Download PNG"
+msgstr "Descargar PNG"
+
+msgid "Download PNG image"
+msgstr "Descargar imagen PNG"
+
+msgid "Download SVG"
+msgstr "Descargar SVG"
+
+msgid "Download SVG vector image"
+msgstr "Descargar imagen de vector SVG"
+
+msgid "Download as"
+msgstr "Descargar como"
+
+msgid "Downloading .csv"
+msgstr "Descargando .csv"
+
+msgid "Downloading template as"
+msgstr "Descargando plantilla como"
+
+msgid "Downloading workspace as %1"
+msgstr "Descargando espacio de trabajo como %1"
+
+msgid "Drawing tools"
+msgstr "Herramientas para dibujar"
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "EURUSD"
+msgstr "EURUSD"
+
+msgid "Edge"
+msgstr "Borde"
+
+msgid "Education"
+msgstr "Educación"
+
+msgid "Embed code"
+msgstr "Incrustar código"
+
+msgid "End Time"
+msgstr "Hora de finalización"
+
+msgid "Ends in"
+msgstr "Finaliza dentro"
+
+msgid "Ends out"
+msgstr "Finaliza fuera"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Enjoy an intuitive trading interface with advanced functionality that lets you monitor all of your favourite assets and markets at the same time, as well as essential charts, the asset index, trading times, and historical data. Most importantly, you get to choose what you want to see on your screen"
+msgstr "Disfrute de una interfaz intuitiva de comercio con funcionalidad avanzada que le permite controlar todos sus activos y mercados favoritos al mismo tiempo, así como los gráficos esenciales, el índice de activos, horarios comerciales y datos del historial. Lo más importante es que puede elegir lo que quiere ver en su pantalla"
+
+msgid "Enter a valid trader token"
+msgstr "Ingrese un token de operador válido"
+
+msgid "Enter your current password"
+msgstr "Introduzca su contraseña actual"
+
+msgid "Entry Spot"
+msgstr "Punto de Entrada"
+
+msgid "Entry spot"
+msgstr "Punto de entrada"
+
+msgid "Error getting data for %1"
+msgstr "Error al obtener datos para %1"
+
+msgid "Even"
+msgstr "Par"
+
+msgid "Exclude me from the website until"
+msgstr "Excluirme del sitio web hasta que"
+
+msgid "Exclude time"
+msgstr "Tiempo de exclusión"
+
+msgid "Exclude time must be after today."
+msgstr "El tiempo de exclusión debe ser después de hoy."
+
+msgid "Exclude until time cannot be less than 6 months."
+msgstr "El tiempo de exclusión no puede ser menor que 6 meses."
+
+msgid "Exclude until time cannot be more than 5 years."
+msgstr "El tiempo de exclusión no puede ser mayor que 5 años."
+
+msgid "Exit Spot"
+msgstr "Punto de Salida"
+
+msgid "Exit Spot Time"
+msgstr "Tiempo de punto de salida"
+
+msgid "Exit spot"
+msgstr "Punto de salida"
+
+msgid "Explanation"
+msgstr "Explicación"
+
+msgid "Failed to update the password"
+msgstr "Error al actualizar la contraseña"
+
+msgid "Fall"
+msgstr "Baja"
+
+msgid "Favorites"
+msgstr "Favoritos"
+
+msgid "Favourite artist"
+msgstr "Artista favorito"
+
+msgid "Favourite dish"
+msgstr "Plato favorito"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "Febrero"
+
+msgid "Final Price"
+msgstr "Precio Final"
+
+msgid "Final price"
+msgstr "Precio final"
+
+msgid "Finance"
+msgstr "Finanzas"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Fri"
+msgstr "Vie"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "From"
+msgstr "De"
+
+msgid "Full-screen trading interface"
+msgstr "Interfaz comercial de pantalla completa"
+
+msgid "Further instructions"
+msgstr "Otras instrucciones"
+
+msgid "GAMSTOP is a free service that enables you to self-exclude from all online gambling companies licensed in Great Britain"
+msgstr "GAMSTOP es un servicio gratuito que le permite autoexcluirse de todas las empresas de apuestas en línea con licencia en Gran Bretaña"
+
+msgid "Get API token from trader(s) and add it in your list"
+msgstr "Obtenga el token de API de trader (s) y agréguelos a su lista"
+
+msgid "Go to"
+msgstr "Ir a"
+
+msgid "Goes out"
+msgstr "Sale"
+
+msgid "Gray"
+msgstr "Gris"
+
+msgid "Grid"
+msgstr "Rejilla"
+
+msgid "Grid Light"
+msgstr "Luz de la Rejilla"
+
+msgid "Health"
+msgstr "Salud"
+
+msgid "High"
+msgstr "Máximo"
+
+msgid "High Barrier"
+msgstr "Barrera Alta"
+
+msgid "High barrier"
+msgstr "Límite alto"
+
+msgid "High barrier offset"
+msgstr "Offset del límite alto"
+
+msgid "Higher"
+msgstr "Más alto"
+
+msgid "Historical Data"
+msgstr "Datos Históricos"
+
+msgid "Historical Data For"
+msgstr "Datos Históricos para"
+
+msgid "Horizontal line"
+msgstr "Línea horizontal"
+
+msgid "Hour"
+msgstr "Hora"
+
+msgid "Hours"
+msgstr "Horas"
+
+msgid "IMPORTANT DISCLAIMER"
+msgstr "AVISO IMPORTANTE"
+
+msgid "IMPORTANT DISCLAIMER - Binary.com is not affiliated with any of the payment agents listed above. Each payment agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by Binary.com. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of payment agents before sending them any money. Binary.com shall not in any circumstance be held responsible for transactions made between customers and payment agents"
+msgstr "AVISO IMPORTANTE - Binary.com no está afiliado con ninguno de los agentes de pago mencionados anteriormente. Cada agente de pago opera como un proveedor de servicios independiente y no es avalado, garantizado o de lo contrario aprobado por Binary.com. LOS CLIENTES TRATAN CON AGENTES DE PAGO A SU EXCLUSIVO RIESGO Y PELIGRO. Se recomienda a los clientes verificar las credenciales de los agentes de pago antes de enviarles dinero. Binary.com no será responsable en ninguna circunstancia por las transacciones realizadas entre los clientes y los agentes de pago"
+
+msgid "If you are considering self-exclusion, you may wish to register with GAMSTOP"
+msgstr "Si está considerando la autoexclusión, le recomendamos registrarse en GAMSTOP"
+
+msgid "If you select a"
+msgstr "Si selecciona un"
+
+msgid "If you select a specific"
+msgstr "Si  selecciona un"
+
+msgid "In order to properly apply theme, a full refresh of page is required. Are you sure you want to proceed?"
+msgstr "Para aplicar correctamente el tema, se requiere una actualización completa de la página. ¿Está seguro que desea proceder?"
+
+msgid "In the EU, financial products are offered by Binary Investments (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, licensed and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2])."
+msgstr "En la Unión Europea, los productos de inversión se ofrecen a través de Binary Investments (Europe) Ltd., W Business Centre, Nivel 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, autorizado y regulado como proveedor de servicios de inversión de categoría 3, por la Autoridad de Servicios Financieros de Malta ([_1]licencia núm. IS/70156[_2])."
+
+msgid "In the EU, financial products are offered by Binary Investments (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2])."
+msgstr "En la Unión Europea, los productos de inversión se ofrecen a través de Binary Investments (Europe) Ltd., W Business Centre, Nivel 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulado como proveedor de servicios de categoría 3, por la Autoridad de Servicios Financieros de Malta ([_1]licencia núm. IS/70156[_2])."
+
+msgid "In the Isle of Man and the UK, Volatility Indices are offered by Binary (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles; licensed and regulated respectively by (1) the Gambling Supervision Commission in the Isle of Man (current licence issued on 31 August 2017) and by (2) the Gambling Commission in the UK (licence [_1]reference no: 39172[_2])."
+msgstr "En la Isla de Man y el Reino Unido, los índices de volatilidad se ofrecen a través de Binary (IOM) Ltd., Primer Piso, Millennium House, Victoria Road, Douglas, IM2 4RW, Isla de Man, Islas Británica, licenciado y regulado respectivamente por (1) la Comisión Supervisora de Apuestas de la Isla de Man (licencia actual otorgada el 31 de agosto de 2017) y por (2) la Comisión de Apuestas del Reino Unido (número de [_1]referencia de licencia 39172[_2])."
+
+msgid "In the rest of the EU, Volatility Indices are offered by Binary (Europe) Ltd., W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority in Malta (licence no. MGA/B2C/102/2000 issued on 01 August 2018), for UK clients by (2) the UK Gambling Commission (licence [_1]reference no: 39495[_2]), and for Irish clients by (3) the Revenue Commissioners in Ireland (Remote Bookmaker's Licence no. 1010285 issued on 1 July 2017). View complete [_3]Regulatory Information[_4]."
+msgstr "En el resto de la Unión Europea, los índices de volatilidad se ofrecen a través de Binary (Europe) Ltd., W Business Centre, Nivel 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; autorizado y regulado por (1) la Autoridad de Juegos de Azar en Malta (licencia n° MGA/B2C/102/2000 emitida en agosto 1 de 2018), para clientes del Reino Unido por (2) la Comisión de Apuesta de Reino Unido (licencia [_1]1referencia n°: 39495[_2]), y para clientes irlandeses por (3) la Administración Tributaria de Irlanda (Licencia de Corredor Remoto de Apuestas n° 1010285 emitida en Julio 1 de 2017). Ver [_3]Información Regulatoria[_4] completa."
+
+msgid "In/Out"
+msgstr "Dentro/Fuera"
+
+msgid "Indicative"
+msgstr "Indicativo"
+
+msgid "Indicative Price"
+msgstr "Precio Indicativo"
+
+msgid "Indicators"
+msgstr "Indicadores"
+
+msgid "Instruments"
+msgstr "Instrumentos"
+
+msgid "Invalid JSON file"
+msgstr "Archivo JSON no válido"
+
+msgid "Invalid parameter(s)"
+msgstr "Parámetro(s) no válido(s)"
+
+msgid "Invalid template type"
+msgstr "Tipo de plantilla no válido"
+
+msgid "Invalid template type."
+msgstr "Tipo de plantilla no válido."
+
+msgid "Investments & Dividends"
+msgstr "Inversiones y Dividendos"
+
+msgid "Jan"
+msgstr "Ene"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "Japan accounts are not supported."
+msgstr "Las cuentas de Japón no son compatibles."
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "Julio"
+
+msgid "Jump to:"
+msgstr "Saltar a:"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "Junio"
+
+msgid "Last 12 mnts Profitable Trades"
+msgstr "Operaciones rentables de los últimos 12 meses"
+
+msgid "Last Digit Prediction"
+msgstr "Predicción del Último Dígito"
+
+msgid "Last Digit is Over"
+msgstr "El último dígito es arriba"
+
+msgid "Last Digit is Under"
+msgstr "El último dígito es abajo"
+
+msgid "Last used"
+msgstr "Utilizado por última vez"
+
+msgid "Less than"
+msgstr "Menos de"
+
+msgid "Line"
+msgstr "Línea"
+
+msgid "Line Dot"
+msgstr "Punto de la línea"
+
+msgid "Link"
+msgstr "Enlace"
+
+msgid "Load Workspace"
+msgstr "Cargar espacio de trabajo"
+
+msgid "Load chart template"
+msgstr "Cargar plantilla del gráfico"
+
+msgid "Load trade template"
+msgstr "Cargar plantilla del contrato"
+
+msgid "Loading ..."
+msgstr "Cargando ..."
+
+msgid "Loading Asset Index ..."
+msgstr "Cargando el Índice de activos..."
+
+msgid "Loading Copy Trade..."
+msgstr "Cargando Copy Trade..."
+
+msgid "Loading Download/View Data ..."
+msgstr "Cargando Descargar/Ver Datos ..."
+
+msgid "Loading Password dialog ..."
+msgstr "Cargando Diálogo de Contraseña ..."
+
+msgid "Loading Profit Table ..."
+msgstr "Cargando Tabla de Ganancias ..."
+
+msgid "Loading Self-Exclusion ..."
+msgstr "Cargando Autoexclusión ..."
+
+msgid "Loading Statement Table ..."
+msgstr "Cargando Tabla de Declaración ..."
+
+msgid "Loading Token management ..."
+msgstr "Cargando gestión de Token ..."
+
+msgid "Loading Trading Times ..."
+msgstr "Cargando Tiempos de Comercio ..."
+
+msgid "Loading chart and trade menus ..."
+msgstr "Cargando gráficos y menús de comercio ..."
+
+msgid "Loading custom theme configuration..."
+msgstr "Cargando configuración de tema personalizado..."
+
+msgid "Loading portfolio ..."
+msgstr "Cargando cartera ..."
+
+msgid "Loading self-exclusion settings."
+msgstr "Cargando configuraciones de autoexclusión."
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+msgid "Log in time"
+msgstr "Tiempo de inicio de sesión"
+
+msgid "Logging out because of self-exclusion session time out!"
+msgstr "¡Cierre de sesión debido a autoexclusión!"
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "Low"
+msgstr "Mínimo"
+
+msgid "Low barrier"
+msgstr "Límite bajo"
+
+msgid "Low barrier offset"
+msgstr "Offset límite bajo"
+
+msgid "Lower"
+msgstr "Inferior"
+
+msgid "Make sure that you have first agreed with the Agent on the terms of payment before submitting your request. Once you click the 'Confirm transfer' button the funds will be withdrawn from your account and will be sent to the Payment Agent you have chosen. The Agent will send you the withdrawal amount (minus the commission) via your preferred payment method"
+msgstr "Asegúrese de que está de acuerdo con las condiciones de pago del agente antes de enviar su solicitud. Una vez que haga clic en el botón 'Confirmar transferencia' los fondos serán retirados de su cuenta y se enviarán al agente de pago que haya elegido. El agente le enviará la cantidad retirada (menos la comisión) a través de su método de pago preferido"
+
+msgid "Manage"
+msgstr "Administrar"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "March"
+msgstr "Marzo"
+
+msgid "Matches"
+msgstr "Coincidencias"
+
+msgid "Max. Trade Stake"
+msgstr "Inversión Máxima"
+
+msgid "Maximum account cash balance"
+msgstr "Saldo máximo de la cuenta"
+
+msgid "Maximum aggregate contract purchases over a 30-day period"
+msgstr "Compras de contrato agregado máximas en un período de 30 días"
+
+msgid "Maximum aggregate contract purchases over a 7-day period"
+msgstr "Compras de contrato agregado máximas en un período de 7 días"
+
+msgid "Maximum aggregate contract purchases per day"
+msgstr "Compras de contrato agregado máximas por día"
+
+msgid "Maximum aggregate loss over a 30-day period"
+msgstr "Compras de contrato agregado máximas en un período de 30 días"
+
+msgid "Maximum aggregate loss per day"
+msgstr "Pérdida total máxima por día"
+
+msgid "Maximum balance"
+msgstr "Saldo máximo"
+
+msgid "Maximum number of open positions"
+msgstr "Número máximo de posiciones abiertas"
+
+msgid "Maximum open positions"
+msgstr "Posiciones máximas abiertas"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "Memorable date"
+msgstr "Fecha memorable"
+
+msgid "Memorable town/city"
+msgstr "Ciudad memorable"
+
+msgid "Min trade stake should be lower than max trade stake."
+msgstr "La inversión mínima debe ser menor que la inversión máxima."
+
+msgid "Min. Trade Stake"
+msgstr "Inversión mínima"
+
+msgid "Minimum of six lower and uppercase letters with numbers"
+msgstr "Un mínimo de seis letras minúsculas y mayúsculas con los números"
+
+msgid "Minus the agent's commission"
+msgstr "Menos la comisión del agente"
+
+msgid "Minute"
+msgstr "Minuto"
+
+msgid "Minutes"
+msgstr "Minutos"
+
+msgid "Miss"
+msgstr "Fallido"
+
+msgid "Momentum Indicators"
+msgstr "Indicadores de momentum"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Monday"
+msgstr "Lunes"
+
+msgid "Mother's maiden name"
+msgstr "Apellido de soltera de su madre"
+
+msgid "Mr"
+msgstr "Sr."
+
+msgid "Mrs"
+msgstr "Sra."
+
+msgid "Ms"
+msgstr "Señorita"
+
+msgid "Multiplier"
+msgstr "Multiplicador"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name of first love"
+msgstr "Nombre de su primer amor"
+
+msgid "Name of your pet"
+msgstr "Nombre de su mascota"
+
+msgid "Navigator handles background"
+msgstr "Fondo de los mangos del explorador"
+
+msgid "Navigator handles border"
+msgstr "Borde de los mangos del explorador"
+
+msgid "Navigator mask-fill"
+msgstr "Máscara de relleno del navegador"
+
+msgid "Navigator outline"
+msgstr "Línea exterior del navegador"
+
+msgid "Navigator series color"
+msgstr "Color de la serie del navegador"
+
+msgid "Navigator series line"
+msgstr "Línea de la serie del navegador"
+
+msgid "Net Profit"
+msgstr "Ganancia neta"
+
+msgid "New password"
+msgstr "Nueva contraseña"
+
+msgid "No"
+msgstr "Núm"
+
+msgid "No touch"
+msgstr "Sin Toque"
+
+msgid "Note: Contract will be sold at the prevailing market price when the request is received by our servers. This price may differ from the indicated price."
+msgstr "Nota: El contrato se venderá al precio de mercado vigente cuando nuestros servidores reciban la solicitud. Este precio puede diferir del precio indicado."
+
+msgid "Note: withdrawal via payment agent is available only if you deposit exclusively via payment agent"
+msgstr "Nota: la retirada vía agente de pago está disponible sólo si  deposita exclusivamente vía agente de pago"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "Noviembre"
+
+msgid "Now"
+msgstr "Ahora"
+
+msgid "OHLC"
+msgstr "Gráfico OHLC"
+
+msgid "OK"
+msgstr "Aceptar"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "October"
+msgstr "Octubre"
+
+msgid "Odd"
+msgstr "Impar"
+
+msgid "Ok"
+msgstr "Aceptar"
+
+msgid "Once this limit is reached, you may no longer deposit"
+msgstr "Una vez que se alcanza este límite, ya no puede depositar"
+
+msgid "Online trading can become addictive. Fill in the form below to limit your participation on the website or send a signed letter or fax to our customer support team. Once set, you can only tighten your limits. Limits will only be removed or loosened after 7 days with the exception of the self-exclusion date, which cannot be removed or altered once you have confirmed it. To remove or increase your limits, please contact"
+msgstr "El comercio en línea puede hacerse adictivo. Rellene el siguiente formulario para limitar su participación en el sitio web o envíe una carta firmada o un fax a nuestro equipo de atención al cliente. Una vez establecido, solo puede ajustar sus límites. Los límites solo se eliminarán o aflojarán después de 7 días, a excepción de la fecha de autoexclusión, que no se puede eliminar ni modificar una vez que lo haya confirmado. Para eliminar o aumentar sus límites, por favor contacte con"
+
+msgid "Open"
+msgstr "Abierto"
+
+msgid "Open a Financial Account"
+msgstr "Abrir una cuenta financiera"
+
+msgid "Opens"
+msgstr "Se abre"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Option trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis"
+msgstr "El comercio con opciones binarias puede ser una verdadera adicción, como cualquier otra actividad llevada al extremo. Para evitar el peligro de tal adicción, le ofrecemos una comprobación de la realidad que le da un resumen de sus transacciones y cuentas de forma regular"
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "Outside the EU, financial products are offered by Binary (SVG) Ltd, Hinds Building, Kingstown, St. Vincent and the Grenadines; Binary (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission ([_1]view licence[_2]); Binary (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission ([_3]licence no. SIBA/L/18/1114[_4]); and Binary (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business ([_5]licence no. MB/18/0024[_6])."
+msgstr "Fuera de la UE, los productos financieros son ofrecidos por Binary (SVG) Ltd, Edificio Hinds, Kingstown, San Vicente y las Granadinas; Binary (V) Ltd, Edificio Govant, Port Vila, PO Box 1276, Vanuatu, regulada por la Comisión de Servicios Financieros de Vanuatu ([_1]ver licencia[_2])]; Binary (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, Islas Vírgenes Británicas, regulada por la Comisión de Servicios Financieros de las Islas Vírgenes Británicas ([_3]licencia núm. SIBA/L/18/1114[_4]); y Binary (FX) Ltd, Lote Núm. F16, Primer Piso, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malasia, regulada por la Autoridad de Servicios Financieros de Labuan para realización de un negocio de corretaje de cambios ([_5]licencia núm. MB/18/0024[_6])."
+
+msgid "Over"
+msgstr "Encima"
+
+msgid "Over 3 years"
+msgstr "Más de 3 años"
+
+msgid "Overlap Studies"
+msgstr "Estudios sobrepuestos"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "Password successfully updated."
+msgstr "Contraseña actualizada con éxito."
+
+msgid "Passwords didn't match. Please type them again"
+msgstr "Las contraseñas no coinciden. Por favor, escríbalas otra vez"
+
+msgid "Pattern Recognition"
+msgstr "Reconocimiento de patrones"
+
+msgid "Payment agent"
+msgstr "Agente de pago"
+
+msgid "Payment agents"
+msgstr "Agentes de pago"
+
+msgid "Payments"
+msgstr "Pagos"
+
+msgid "Payout"
+msgstr "Pago"
+
+msgid "Pension"
+msgstr "Pensión"
+
+msgid "Performance Probability"
+msgstr "Probabilidad de rendimiento"
+
+msgid "Permissions"
+msgstr "Permisos"
+
+msgid "Please [_1]accept the updated Terms and Conditions[_2] to lift your withdrawal and trading limits."
+msgstr "Por favor [_1]acepte los Términos y Condiciones actualizados[_2] para aumentar su retiro y los límites comerciales."
+
+msgid "Please [_1]complete your account profile[_2] to lift your withdrawal and trading limits."
+msgstr "Por favor [_1]complete el perfil de su cuenta[_2] para aumentar su retiro y los límites comerciales."
+
+msgid "Please choose at least one token scope"
+msgstr "Por favor, elija al menos un alcance de token"
+
+msgid "Please complete the [_1]financial assessment form[_2] to lift your withdrawal and trading limits."
+msgstr "Por favor, complete el [_1]formulario de evaluación financiera[_2] para aumentar su retiro y los límites comerciales."
+
+msgid "Please confirm the following details in order to complete the transfer"
+msgstr "Por favor, confirme los siguientes datos para completar la transferencia"
+
+msgid "Please enter a number between"
+msgstr "Por favor ingrese un número entre"
+
+msgid "Please enter a valid value for"
+msgstr "Por favor, introduzca un valor válido para"
+
+msgid "Please enter a value between 0 and"
+msgstr "Por favor, ingrese un valor entre 0 y"
+
+msgid "Please enter a value greater than 0"
+msgstr "Ingrese un valor mayor a 0"
+
+msgid "Please enter a value less than 6 weeks for time out until."
+msgstr "Por favor, introduzca un valor de menos de 6 semanas para Pausa hasta."
+
+msgid "Please enter date in the format YYYY-MM-DD"
+msgstr "Por favor introduzca la fecha en formato AAAA-MM-DD"
+
+msgid "Please enter the token name"
+msgstr "Por favor, ingrese el nombre del token"
+
+msgid "Please enter time in the format HH:MM"
+msgstr "Introduzca la hora en formato HH:MM"
+
+msgid "Please enter your current password"
+msgstr "Por favor, introduzca su contraseña actual"
+
+msgid "Please input correct token"
+msgstr "Digite el token correcto"
+
+msgid "Please install the latest version of one of these browsers"
+msgstr "Por favor, instale la última versión de uno de estos navegadores"
+
+msgid "Please keep your message to a single line, don't press enter"
+msgstr "Por favor, mantenga su mensaje en una sola línea, no pulse entrar"
+
+msgid "Please log in"
+msgstr "Por favor, inicie sesión"
+
+msgid "Please log in to see your saved workspace."
+msgstr "Por favor, inicie sesión para ver su espacio de trabajo guardado."
+
+msgid "Please log in."
+msgstr "Por favor, inicie sesión."
+
+msgid "Please select a date for time out until."
+msgstr "Por favor, seleccione una fecha para el campo Pausa hasta."
+
+msgid "Please select a payment agent"
+msgstr "Por favor seleccione un agente de pago"
+
+msgid "Please set the [_1]currency[_2] of your account"
+msgstr "Configure la [_1]moneda[_2] de su cuenta"
+
+msgid "Please try again after 1 minute."
+msgstr "Por favor, intente de nuevo después de 1 minuto."
+
+msgid "Please use your new password to login."
+msgstr "Por favor, use su contraseña nueva para iniciar sesión."
+
+msgid "Plot"
+msgstr "Tema"
+
+msgid "Pofit/Loss"
+msgstr "Ganancias/Pérdidas"
+
+msgid "Points"
+msgstr "Puntos"
+
+msgid "Portfolio"
+msgstr "Cartera"
+
+msgid "Potential Payout"
+msgstr "Pago Potencial"
+
+msgid "Potential Profit"
+msgstr "Ganancias Potenciales"
+
+msgid "Potential profit"
+msgstr "Ganancias potenciales"
+
+msgid "Pre-Defined"
+msgstr "Predefinido"
+
+msgid "Preferred reality-check interval"
+msgstr "Intervalo recomendado de prueba de la realidad"
+
+msgid "Press Create token button on the right to create your first token"
+msgstr "Presione 'Create token' a la derecha para crear su primer token"
+
+msgid "Price Transformation"
+msgstr "Transformación de precios"
+
+msgid "Primary"
+msgstr "Primario"
+
+msgid "Print chart"
+msgstr "Imprimir gráfico"
+
+msgid "Profit"
+msgstr "Ganancia"
+
+msgid "Profit Table"
+msgstr "Tabla de beneficios"
+
+msgid "Profit table"
+msgstr "Tabla de ganancias"
+
+msgid "Profit/ Loss"
+msgstr "Ganancias/Pérdidas"
+
+msgid "Purchase"
+msgstr "Comprar"
+
+msgid "Purchase Date"
+msgstr "Fecha de Compra"
+
+msgid "Purchase Price"
+msgstr "Precio de Compra"
+
+msgid "Purchase Time"
+msgstr "Hora de compra"
+
+msgid "Read"
+msgstr "Leer"
+
+msgid "Reality check"
+msgstr "Verificación de la realidad"
+
+msgid "Redirecting to oauth login page,"
+msgstr "Redirigiendo a una página Oauth de inicio de sesión,"
+
+msgid "Ref"
+msgstr "Ref."
+
+msgid "Ref."
+msgstr "Ref."
+
+msgid "Refresh failed"
+msgstr "Actualización fallida"
+
+msgid "Register free account"
+msgstr "Registrar una cuenta gratis"
+
+msgid "Remove"
+msgstr "Quitar"
+
+msgid "Remove Selected"
+msgstr "Quitar Seleccionado"
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "Resale of this contract is not offered"
+msgstr "No se ofrece reventa de este contrato"
+
+msgid "Reset zoom"
+msgstr "Reiniciar zoom"
+
+msgid "Reset zoom level 1:1"
+msgstr "Restablecer el nivel del zoom 1:1"
+
+msgid "Resources"
+msgstr "Recursos"
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Return"
+msgstr "Volver"
+
+msgid "Rise"
+msgstr "Aumento"
+
+msgid "Robust and secure platform"
+msgstr "Plataforma robusta y segura"
+
+msgid "Safari"
+msgstr "Safari"
+
+msgid "Salaried Employee"
+msgstr "Empleado Asalariado"
+
+msgid "Sale Date"
+msgstr "Fecha de Venta"
+
+msgid "Sale Price"
+msgstr "Precio de Venta"
+
+msgid "Sand Signika"
+msgstr "Sand Signika"
+
+msgid "Sat"
+msgstr "Sáb"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Save as"
+msgstr "Guardar como"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "Saved"
+msgstr "Guardado"
+
+msgid "Secondary"
+msgstr "Secundario"
+
+msgid "Seems like our servers are down, we are working on fixing it."
+msgstr "Parece que nuestros servidores están caídos, estamos trabajando para solucionarlo."
+
+msgid "Self-Employed"
+msgstr "Autónomo"
+
+msgid "Self-Exclusion"
+msgstr "Autoexclusión"
+
+msgid "Self-Exclusion Facilities"
+msgstr "Características de auto-exclusión"
+
+msgid "Self-exclusion on this website only applies to your Binary.com account and does not include other companies or websites"
+msgstr "La autoexclusión en este sitio web solo se aplica a su cuenta de Binary.com y no incluye otras empresas o sitios web"
+
+msgid "Sell At Market"
+msgstr "Vender en el Mercado"
+
+msgid "Sent to account"
+msgstr "Enviado a la cuenta"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "September"
+msgstr "Septiembre"
+
+msgid "Session"
+msgstr "Sesión"
+
+msgid "Session duration limit"
+msgstr "Límite de duración de la sesión"
+
+msgid "Session duration limit, in minutes"
+msgstr "Límite de duración de la sesión, en minutos"
+
+msgid "Settles"
+msgstr "Se queda en"
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Share chart"
+msgstr "Compartir gráfico"
+
+msgid "Since you feel the need to self-exclude, we strongly encourage you to exclude yourself from similar services that you may have signed up for"
+msgstr "Dado que siente la necesidad de autoexcluirse, le recomendamos encarecidamente que también se autoexcluya de servicios similares en los que se haya inscrito"
+
+msgid "Sold"
+msgstr "Vendido"
+
+msgid "Some random index"
+msgstr "Un índice aleatorio"
+
+msgid "Spline"
+msgstr "Spline"
+
+msgid "Spreads"
+msgstr "Spreads"
+
+msgid "Spreads down"
+msgstr "Spreads a la baja"
+
+msgid "Spreads up"
+msgstr "Spreads al alza"
+
+msgid "Stake"
+msgstr "Apuesta"
+
+msgid "Standard methods"
+msgstr "Métodos estándar"
+
+msgid "Standard withdrawal"
+msgstr "Retirada estándar"
+
+msgid "Start Time"
+msgstr "Hora de Inicio"
+
+msgid "Start Trading"
+msgstr "Comience a operar"
+
+msgid "Start time"
+msgstr "Hora de inicio"
+
+msgid "Statement"
+msgstr "Declaración"
+
+msgid "Statistical Functions"
+msgstr "Funciones estadísticas"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Stays in"
+msgstr "Queda dentro"
+
+msgid "Stop-loss"
+msgstr "Stop-pérdida"
+
+msgid "Stop-profit"
+msgstr "Stop-ganancia"
+
+msgid "Stop-type"
+msgstr "Tipo de stop"
+
+msgid "Stroke color"
+msgstr "Color de trazo"
+
+msgid "Stroke width"
+msgstr "Ancho de trazo"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Successfully added new token"
+msgstr "Un nuevo token agregado con éxito"
+
+msgid "Successfully added workspace as"
+msgstr "Espacio de trabajo agregado exitosamente como"
+
+msgid "Successfully applied the template and saved it as"
+msgstr "Plantilla aplicada y guardada como"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Table"
+msgstr "Tabla"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Template already saved as"
+msgstr "Plantilla ya guardada como"
+
+msgid "Template applied partially."
+msgstr "Plantilla aplicada parcialmente."
+
+msgid "Template changes saved"
+msgstr "Cambios de plantilla guardados"
+
+msgid "Template is not applicable."
+msgstr "Plantilla no es aplicable."
+
+msgid "Template name"
+msgstr "Nombre de la plantilla"
+
+msgid "Template name already exists"
+msgstr "El nombre de la plantilla ya existe"
+
+msgid "Terms"
+msgstr "Términos"
+
+msgid "Terms and Conditions"
+msgstr "Términos y Condiciones"
+
+msgid "Tertiary"
+msgstr "Terciario"
+
+msgid "The"
+msgstr "El"
+
+msgid "The company holds customer funds in separate bank accounts to the operational accounts which would not, in the event of insolvency, form part of the Company's assets. This meets the Gambling Commission's requirements for the segregation of customer funds at the level"
+msgstr "La Compañía mantiene los fondos de los clientes en cuentas bancarias separadas de las cuentas operativas, las cuales, en caso de insolvencia, no formarán parte de los activos de la compañía. Esto cumple con los requisitos de la Comisión de Juego para la segregación de los recursos de clientes a un nivel de: protección media"
+
+msgid "The products offered via this website include binary options, contracts for difference (\"CFDs\") and other complex derivatives. Trading binary options may not be suitable for everyone. Trading CFDs carries a high level of risk since leverage can work both to your advantage and disadvantage. As a result, the products offered on this website may not be suitable for all investors because of the risk of losing all of your invested capital. You should never invest money that you cannot afford to lose, and never trade with borrowed money. Before trading in the complex products offered, please be sure to understand the risks involved and learn about [_1]Responsible Trading[_2]."
+msgstr "Los productos ofrecidos a través de este sitio web incluyen opciones binarias, contratos por diferencias (\"CFDs\" en inglés) y otros derivados complejos. La operación con opciones binarias puede no ser adecuada para todos. La operación con CFDs conlleva un alto nivel de riesgo ya que el apalancamiento puede funcionar tanto en contra como a su favor. Como resultado, los productos ofrecidos en este sitio web pueden no ser adecuados para todos los inversionistas debido al riesgo de perder todo el capital invertido. Nunca debe invertir dinero que no pueda permitirse perder, y nunca debe operar con dinero prestado. Antes de operar con los productos complejos que se ofrecen, asegúrese de comprender los riesgos involucrados y de obtener información acerca de [_1]Comercio Responsable[_2]."
+
+msgid "There was a market data disruption during the contract period. For real-money accounts we will attempt to correct this and settle the contract properly, otherwise the contract will be cancelled and refunded. Virtual-money contracts will be cancelled and refunded."
+msgstr "Ocurrió una interrupción de datos del mercado durante el período del contrato. Para las cuentas de dinero real, intentaremos corregir esto y liquidar el contrato correctamente, de lo contrario, el contrato será cancelado y reembolsado. Los contratos de dinero virtual serán cancelados y reembolsados."
+
+msgid "There was an error"
+msgstr "Hubo un error"
+
+msgid "This contract has expired"
+msgstr "Este contrato ha expirado"
+
+msgid "This contract lost"
+msgstr "Este contrato perdió"
+
+msgid "This contract won"
+msgstr "Este contrato ganó"
+
+msgid "This field is required"
+msgstr "Este campo es requerido"
+
+msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, Japan, or to persons under age 18."
+msgstr "Los servicios de este sitio web no están disponibles en ciertos países como los Estados Unidos, Canadá, Hong Kong, Japón, ni tampoco para personas menores de 18 años."
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Tick"
+msgstr "Intervalo"
+
+msgid "Tick Trade app"
+msgstr "App Tick Trade"
+
+msgid "Tick {row.number}"
+msgstr "Intervalo {row.number}"
+
+msgid "Ticks"
+msgstr "Intervalos"
+
+msgid "Time interval"
+msgstr "Intervalo de tiempo"
+
+msgid "Time out until"
+msgstr "Pausa hasta"
+
+msgid "Timeout for websocket request"
+msgstr "Tiempo limite de solicitud de la websocket"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "To"
+msgstr "A"
+
+msgid "To deposit money please contact the payment agent directly"
+msgstr "Para depositar dinero por favor, póngase en contacto con el agente de pago directamente"
+
+msgid "To find out more and to sign up with GAMSTOP, please visit"
+msgstr "Para más detalles e inscribirse en GAMSTOP, por favor visite"
+
+msgid "To process deposits and withdrawals for payment methods or local currencies not supported by Binary.com contact a payment agent"
+msgstr "Para procesar depósitos y retiradas para métodos de pago o monedas locales no admitidas por Binary.com póngase en contacto con un agente de pago"
+
+msgid "To self-exclude from all online gambling companies licensed in Great Britain, you may go to"
+msgstr "Para autoexcluirse de todas las empresas de apuestas online licenciadas en Gran Bretaña, diríjase a"
+
+msgid "To withdraw funds please enter the special verification token we have just emailed you"
+msgstr "Para retirar fondos, introduzca el token de verificación especial que le hemos enviado por correo electrónico"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Token Management"
+msgstr "Gestión de token"
+
+msgid "Token already added"
+msgstr "Token ya añadido"
+
+msgid "Token management"
+msgstr "Gestión de token"
+
+msgid "Token name"
+msgstr "Nombre de token"
+
+msgid "Token name can contain alphanumeric characters with spaces and underscores"
+msgstr "El nombre del token puede contener caracteres alfanuméricos con espacios y guiones bajos"
+
+msgid "Token name can have a maximum of 32 characters"
+msgstr "El nombre del token puede tener un máximo de 32 caracteres"
+
+msgid "Token name must contain atleast 2 characters"
+msgstr "El nombre del token debe contener al menos 2 caracteres"
+
+msgid "Token name should begin with alphanumeric characters only"
+msgstr "El nombre del token debe comenzar con caracteres alfanuméricos solamente"
+
+msgid "Token permissions"
+msgstr "Permisos del tokens"
+
+msgid "Tooltip background"
+msgstr "Fondo del Tooltip"
+
+msgid "Tooltip text"
+msgstr "Texto del Tooltip"
+
+msgid "Total Copiers"
+msgstr "Número de Copiadores"
+
+msgid "Total Cost"
+msgstr "Coste Total"
+
+msgid "Total Profit/Loss"
+msgstr "Ganancia/Pérdida Total"
+
+msgid "Total Trades"
+msgstr "Número de operaciones"
+
+msgid "Touch"
+msgstr "Toca"
+
+msgid "Touch/No Touch"
+msgstr "Toque/No Toque"
+
+msgid "Tourism"
+msgstr "Turismo"
+
+msgid "Trade"
+msgstr "Comerciar"
+
+msgid "Trade Confirmation"
+msgstr "Confirmación del Comercio"
+
+msgid "Trade Types"
+msgstr "Tipos de Contratos"
+
+msgid "Trade using"
+msgstr "Comercie usando"
+
+msgid "Trader"
+msgstr "Operador"
+
+msgid "Trader's Statistics"
+msgstr "Estadística de Operador"
+
+msgid "Trades Profitability"
+msgstr "Rentabilidad de las operaciones"
+
+msgid "Trading Times"
+msgstr "Horario de Comercio"
+
+msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset."
+msgstr "Es posible que el las operaciones con opciones binarias no sean apropiadas para todos, así que asegúrese de entender completamente los riesgos que implican. Sus pérdidas pueden superar su depósito inicial y usted no es propietaria ni tiene ningún interés sobre el activo subyacente."
+
+msgid "Tradingview for Binary.com"
+msgstr "Tradingview para Binary.com"
+
+msgid "Transfer"
+msgstr "Transferir"
+
+msgid "Transfer to another Binary account"
+msgstr "Transferir a otra cuenta Binary"
+
+msgid "Try"
+msgstr "Pruebe"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Turnover"
+msgstr "Volumen de ventas"
+
+msgid "USD"
+msgstr "USD"
+
+msgid "USDJPY"
+msgstr "USDJPY"
+
+msgid "Under"
+msgstr "Inferior"
+
+msgid "Unfortunately, your browser does not support them"
+msgstr "Desafortunadamente, su navegador no es compatible"
+
+msgid "Up/Down"
+msgstr "Arriba/Abajo"
+
+msgid "Upcoming Events"
+msgstr "Próximos Eventos"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Update Settings"
+msgstr "Actualizar Configuración"
+
+msgid "Upgrade to a Real Account"
+msgstr "Actualizar a una cuenta real"
+
+msgid "Upload template"
+msgstr "Cargar plantilla"
+
+msgid "Use"
+msgstr "Usar"
+
+msgid "Use the \"Save as ...\" button to save the chart settings, type, time period, indicators and comparisons"
+msgstr "Utilice el botón de \"Guardar como...\" para guardar los ajustes del gráfico, el tipo, el período de tiempo, los indicadores y las comparaciones"
+
+msgid "Use the \"Save as ...\" button to save the trade settings"
+msgstr "Utilice el botón \"Guardar...\" para guardar la configuración comercial"
+
+msgid "Various customisable features like loading and arranging assets, charting, and other resources however you see fit"
+msgstr "Varias funciones personalizables, así como cargar y organizar activos, crear gráficos y otros recursos como usted considere conveniente"
+
+msgid "Verification code sent to"
+msgstr "Código de verificación enviado a"
+
+msgid "Verification token"
+msgstr "Token de verificación"
+
+msgid "Verify new password"
+msgstr "Verificar nueva contraseña"
+
+msgid "Vertical line"
+msgstr "Línea vertical"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "View Statement"
+msgstr "Vea su extracto"
+
+msgid "Volatility Indicators"
+msgstr "Indicadores de volatilidad"
+
+msgid "We are required by our license to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency"
+msgstr "Estamos obligados por nuestra licencia a informarle acerca de lo que ocurre con los fondos que guardamos en la cuenta para usted y sobre el grado de protección de los mismos en caso de insolvencia"
+
+msgid "Webtrader"
+msgstr "Webtrader"
+
+msgid "Webtrader is an advanced trading platform that's fully-customisable according to your personal preferences"
+msgstr "Webtrader es una plataforma avanzada totalmente personalizable según sus preferencias"
+
+msgid "Webtrader uses new web technologies for rich and enjoyable trading experience"
+msgstr "Webtrader utiliza las nuevas tecnologías web para una experiencia comercial rica y placentera"
+
+msgid "Wed"
+msgstr "Mié"
+
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgid "Welcome to Binary.com Webtrader"
+msgstr "Bienvenido a Webtrader de Binary.com"
+
+msgid "When you click \"Ok\" you will be excluded from trading on the site until the selected date."
+msgstr "Si hace clic en \"Ok\", no se le permitirá operar en el sitio hasta la fecha seleccionada."
+
+msgid "While on the go, you can"
+msgstr "Mientras viaja, puede"
+
+msgid "Withdraw funds"
+msgstr "Retirar fondos"
+
+msgid "Withdrawal via payment agents"
+msgstr "Retirada a través de agentes de pago"
+
+msgid "Workspace"
+msgstr "Espacio de trabajo"
+
+msgid "Workspace changes saved"
+msgstr "Cambios en el espacio de trabajo guardados"
+
+msgid "X-axis labels"
+msgstr "Etiquetas de eje-x"
+
+msgid "X-axis line"
+msgstr "Línea de eje-x"
+
+msgid "X-axis tick"
+msgstr "Tick de eje-x"
+
+msgid "Y-axis gridline"
+msgstr "Cuadrícula del eje-y"
+
+msgid "Y-axis labels"
+msgstr "Etiquetas del eje-y"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "You are not copying any trade(s) yet"
+msgstr "Usted no está copiando ningúna operación todavía"
+
+msgid "You have excluded yourself until"
+msgstr "Se ha excluido hasta"
+
+msgid "You have sold the following contract"
+msgstr "Han vendido el siguiente contrato"
+
+msgid "You haven't saved any templates yet"
+msgstr "Aún no ha guardado ninguna plantilla"
+
+msgid "You pay"
+msgstr "Usted paga"
+
+msgid "You will be automatically logged out after such time"
+msgstr "Usted será deconectado automáticamente después de esa hora"
+
+msgid "You wish to allow other traders to copy your trades"
+msgstr "Quiere permitir que otros operadores copien sus operaciones"
+
+msgid "You wish to copy another trader's trades"
+msgstr "Quiere copiar las operaciones de otro operador"
+
+msgid "Your account (%) is locked, please contact customer support for more info."
+msgstr "Su cuenta (%) está bloqueada, póngase en contacto con el servicio de atención al cliente para más información."
+
+msgid "Your account is restricted. Kindly [_1]contact customer support[_2] for assistance."
+msgstr "Su cuenta está restringida. Por favor, [_1]contacte con atención al cliente[_2] para asistencia."
+
+msgid "Your browser doesn't support copy to clipboard"
+msgstr "Tu navegador no soporta copiar al portapapeles"
+
+msgid "Your browser is not supported"
+msgstr "Su navegador no es compatible"
+
+msgid "Your changes have been updated"
+msgstr "Sus cambios se han actualizado"
+
+msgid "Your copying settings"
+msgstr "Sus ajustes de copiar"
+
+msgid "Your new account balance is"
+msgstr "El nuevo saldo de su cuenta es"
+
+msgid "Your transaction reference is"
+msgstr "Su referencia de transacción es"
+
+msgid "Your transaction reference number is"
+msgstr "Su número de referencia de la transacción es"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "[_1]Authenticate your account[_2] now to take full advantage of all withdrawal options available."
+msgstr "[_1]Autentique su cuenta[_2] ahora para aprovechar al máximo todas las opciones de retiro disponibles."
+
+msgid "and"
+msgstr "y"
+
+msgid "commission"
+msgstr "comisión"
+
+msgid "create a Read-only token, and share the token with your copier(s)"
+msgstr "cree un token solo de lectura y compártalo con su(s) copiador(es)"
+
+msgid "customer support"
+msgstr "atención al cliente"
+
+msgid "day"
+msgstr "día"
+
+msgid "days"
+msgstr "días"
+
+msgid "deposits"
+msgstr "depósitos"
+
+msgid "end time"
+msgstr "hora de finalización"
+
+msgid "entry spot"
+msgstr "punto de entrada"
+
+msgid "exit spot"
+msgstr "punto de salida"
+
+msgid "for"
+msgstr "para"
+
+msgid "for mobile charts"
+msgstr "para los gráficos móviles"
+
+msgid "has updated its"
+msgstr "ha actualizado su"
+
+msgid "hour"
+msgstr "hora"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "in the future, the"
+msgstr "en el futuro, el"
+
+msgid "is Binary's advanced desktop trading platform. Its multi-window interface provides maximum flexibility and suits the needs of active traders working on their desktop PCs"
+msgstr "es la avanzada plataforma de comercio de Binary. Su interfaz con múltiples ventana proporciona máxima flexibilidad y se adapta a las necesidades de los comerciantes activos que trabajan en su PC de escritorio"
+
+msgid "is required. Current spread"
+msgstr "es requerido. Spread actual"
+
+msgid "is that which is selected and the"
+msgstr "es el seleccionado y el"
+
+msgid "is the"
+msgstr "es el"
+
+msgid "is the price in effect at that time"
+msgstr "es el precio válido en ese momento"
+
+msgid "is the selected number of minutes/hours after the"
+msgstr "es el número de minutos/horas seleccionados después de"
+
+msgid "is the selected time"
+msgstr "es el tiempo seleccionado"
+
+msgid "is the spot at the"
+msgstr "es el lugar en el"
+
+msgid "is when the contract is processed by our servers and the"
+msgstr "es cuando el contrato es procesado por nuestros servidores y el"
+
+msgid "main site"
+msgstr "sitio web principal"
+
+msgid "market is presently closed."
+msgstr "el mercado está actualmente cerrado."
+
+msgid "medium protection"
+msgstr "protección media"
+
+msgid "minute"
+msgstr "minuto"
+
+msgid "minutes"
+msgstr "minutos"
+
+msgid "next tick"
+msgstr "próximo tick"
+
+msgid "of \"Now\", the"
+msgstr "de \"Ahora\", el"
+
+msgid "payment agent"
+msgstr "agente de pago"
+
+msgid "points"
+msgstr "puntos"
+
+msgid "risk warning"
+msgstr "advertencia de riesgos"
+
+msgid "sec"
+msgstr "seg."
+
+msgid "second"
+msgstr "segundo"
+
+msgid "seconds"
+msgstr "segundos"
+
+msgid "session overview"
+msgstr "resumen de la sesión"
+
+msgid "start time"
+msgstr "hora de inicio"
+
+msgid "the"
+msgstr "el"
+
+msgid "thereafter"
+msgstr "después de eso"
+
+msgid "tick"
+msgstr "tick"
+
+msgid "ticks"
+msgstr "ticks"
+
+msgid "withdrawals"
+msgstr "retiros"
+
+msgid "www.gamstop.co.uk"
+msgstr "www.gamstop.co.uk"
+
+msgid "yes"
+msgstr "sí"
+
+msgid "{agent.commission}%"
+msgstr "{agent.commission}%"
+
+msgid "| Return"
+msgstr "| Ganancias"
+
+msgid "﻿"
+msgstr "﻿"
+
