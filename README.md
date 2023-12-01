@@ -1,122 +1,182 @@
-JavaScript Guidelines
-=============
+<h1 align="center">
+  Webtrader
+</h1>
 
-### General Guidelines
-In order to improve the clarity, quality and development time it is worth considering the following principles whenever possible:
-- [DRY (Don't Repeat Yourself)](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
-- [KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle)
-- [SoC (Separation of Concerns)](https://en.wikipedia.org/wiki/Separation_of_concerns)
-- [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-- [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
+Webtrader.binary.com - The goal of this project is to create a full-screen trading interface for [Binary.com](https://www.binary.com) according to the following design:
 
----
+![Webtrader](screenshots/webtrader-layout.jpg)
 
-### Naming Conventions
+![Build Status](https://travis-ci.org/binary-com/webtrader.svg?branch=master) ![node](https://img.shields.io/badge/node-%3E%3D12.3.0-blue.svg) ![npm](https://img.shields.io/badge/npm-%3E%3D6.9.0-blue.svg)
 
-<a id="naming-conventions-variables"></a>
-**[Variables:](#naming-conventions-variables)** Variables should be lowercase words separated by `_`.
-    
-```js
-const field_name = '...';
-```
+## In this document:
 
-<a id="naming-conventions-functions"></a>
-**[Functions:](#naming-conventions-functions)** Functions should be camelCase. This is to easily distinguish between variables and functions.
-    
-```js
-const myFunction = () => { ... };
-```
+- [Pre-installation](#pre-installation)
+- [Quick start](#quick-start)
+- [How to contribute](#how-to-contribute)
+- [Manage translations](#manage-translations)
+- [Test link deployment](#test-link-deployment)
 
-<a id="magic_strings_numbers"></a>
-**[Capitalize "magic" strings and numbers:](#magic_strings_numbers)**
+## Pre-installation
 
-```js
-const WARNING_MSG = 'This is a warning message';
-const TRADE_TYPES = [{
-    code: 'NOTOUCH',
-    name: 'NoTouch',
-}];
-```
+Before running or contribute to this project, you need to have the setup of the following packages in your environment:
 
-<a id="naming-conventions-modules"></a>
-**[Modules:](#naming-conventions-modules)** Module names and classes should be PascalCase.
-    
-```js
-const MyModule = (() => { ... })();
-```
+-   node >=12.3.0
+-   npm 
+-   git
 
-<a id="naming-conventions-jquery-variables"></a>
-**[jQuery variables:](#naming-conventions-jquery-variables)** jQuery variables should have a `$` in the beginning to mark them.
-    
-```js
-const $test = $('#test');
-```
+## Quick start
 
-<a id="naming-conventions-javascript-elements"></a>
-**[JavaScript elements:](#naming-conventions-javascript-elements)** JavaScript elements start with `el_` for a similar effect.
-    
-```js
-const el_test = document.getElementById('test');
-``` 
 
-<a id="naming-conventions-boolean"></a>
-**[Boolean:](#naming-conventions-boolean)** Those variables which store a boolean value, should start with `is_`, `has_`, ...
+1.  **Fork the project**
 
-```js
-const is_updated = true;
-const has_crypto = false;
-```
+    In order to work on your own version, please fork the project to your own repo.
 
-<a id="naming-conventions-form-elements"></a>
-**[Form elements:](#naming-conventions-form-elements)** Consider prefixes for form elements to make it more obvious what type of field they are, such as:
+2.  **Clone using SSH**
 
-```js
-const fields = {
-    txt_name  : { id: '#txt_name' },
-    chk_tnc   : { id: '#chk_tnc' },
-    ddl_agents: { id: '#ddl_agents' },
-};
-```
+    ```sh
+    git clone git@github.com:your-github-username/webtrader.git
+    ```
 
----
+3. **Verify Remote**
 
-### Commenting
+    ```sh
+    git remote -v
+    ```
 
-## Comments rules
-1. Always try to explain yourself in code first, comments should be seen as a "necessary evil".
-2. Don't add obvious noise.
-3. Don't comment out code. Just remove.
-4. Use as explanation of intent.
-5. Use as clarification of code.
-6. Use as warning of consequences.
+4. **Add remote using webtraders ssh key**
+    ```sh
+    git remote add git@github.com:binary-com/webtrader.git
+    ```
 
-<a id="commenting-explanations"></a>
-**[Explanations:](#commenting-explanations)** Feel free to add comments to explain any code that is confusing.
+5.  **Enter project directory**
 
-<a id="commenting-todo"></a>
-**[To do:](#commenting-todo)** Use `TODO: ...` comments anywhere that needs consideration or attention in the future.
+    ```sh
+    cd webtrader
+    ```
 
----
+6.  **Install the dependencies:**
 
-### Import Rules
+    ```sh
+    npm install
+    npm run build
+    ```
 
-<a id="import-rules-alphabetical-ordering"></a>
-**[Alphabetical ordering:](#import-rules-alphabetical-ordering)** The order is important; it should be sorted alphabetically according to path: 
-    
-- `moment` comes first as it's not a relative path.
-- `s` is before `u` so `./storage` comes before `./utility`.
-- Both `applyToAllElements` and `createElement` are from the same file, but `a` is before `c`
-- Unassigned `require` goes to the end 
+7.  **Start Running the Application:**
 
-<a id="import-rules-combining-require"></a>
-**[Combining require:](#import-rules-combining-require)** When there are many functions being imported from the same file, consider combining it into one import line.
+    ```sh
+    npm start
+    ```
 
-```js
-const Utility = require('./utility');
+8.  **Open the source code and start editing!**
 
-...
+    Your site is now running at `http://localhost:9001`!
 
-Utility.handleHash();
-Utility.createElement('div');
-...
-```
+
+Note\*: Since backend needs an https web address for **oauth app register** if you intend to debug oauth login on localhost, you need to modify your `/etc/hosts` file. For example the `https://webtrader.local/` token in `src/oauth/app_id.josn` is registered to `https://webtrader.local/` address, you need to do the following in order to use it locally.
+
+_Add this line to your /etc/hosts file._
+
+        127.0.0.1 webtrader.local
+
+_Use this command to run your local server on https._
+
+        $ sudo node_modules/.bin/grunt connect:https
+
+_Use this command to watch the files._
+
+        $ node_modules/.bin/grunt && node_modules/.bin/grunt watch:https
+
+Go to https://webtrader.local:35729 and accept the self signed ssl certificate for grunt livereload.
+
+Now you can debug your app on https://webtrader.local/ locally.
+
+To bump release version, run
+
+        $ npm major-rel
+        or
+        $ npm minor-rel
+        or
+        $ npm patch-rel
+
+Every check-in or merge into master will trigger travis-ci build and do a release to production.
+
+Every check-in or merge of PR into development will trigger travis-ci build and do a beta release
+
+## How to contribute
+
+In order to contribute, please fork and submit pull request by following all the following mentioned coding rules:
+
+1.  **Create branch from latest master branch**
+
+        ```sh
+        git checkout master
+        git pull upstream master
+        git checkout -b {your_branch_name}
+        ```
+
+2. **After finish editing, Add, Commit and Push your changes to github**
+
+        ```sh
+        $ git add .
+        $ git commit -m {your ideal message}
+        $ git push --set-upstream origin {your-branch-name}
+        ```
+3. **Go to your github and create a pull request**
+
+4. **Go to pull request page and copy the url link that will be your PR link.**
+
+5. **Do [Test link deployment](#test-link-deployment)**
+
+## Manage translations
+
+Translation related files are in `/translations` folder.
+
+To extract text for translation:
+
+        ```sh
+        $ npm run build
+        $ cd ./translations
+        $ python extract.py
+        $ extract.py # extracts string literals from `dist/uncompressed` (from *.html and *.js)
+        $ extract.py # for merging `.po` files uses `msgmerge` command line tool.
+        ```
+
+Note\*: The tool should be available on linux, if you are on Osx try `brew install gettext && brew link gettext --force`.
+
+Note\*: To submit text to translators: push to _translation_ branch, weblate hook will be triggered.
+
+Note\*: To see CrowdIn In-Context translations pass querystring `?lang=ach` (obs not for production env)
+
+## Test link deployment
+
+While submitting your PR, make sure that you deploy your code to your forked gh-pages by running following command, so that the reviewer can have a look at the deployed code at this url `{your-username}.github.io/webtrader/{your-branch-name}`:
+
+        ```sh
+        $ npm run deploy-gh-pages
+        ```
+
+The command above will create a new **gh-pages** branch and will likely deploy your page at the above url (look for correct url in your PR if the link above isn't working).
+
+Your deployed page will likely be blank because it's missing a few files during deployment in **gh-pages** branch. This is solely deployment issue. Do the following to get around the issue...
+
+### Use the following link to get missing files
+
+    ```sh
+    https://github.com/binary-com/webtrader/tree/gh-pages
+    ```
+
+1. Open inspect element of your deployed page 
+    1. Go to console tab.
+    2. Look at the error to see which file is missing.
+    3. Copy content of missing file from reference link above and ***manually*** add to {YOUR_BRANCH_NAME} folder in your **gh-pages** branch on your github repo. 
+    4. Ensure file name and file path match **exactly** as described in console error. Commit new file to your gh-pages branch.
+    5. Run ***npm run deploy-gh-pages***
+    6. Refresh your deployed link and repeat the step 1 through 6 until your deployed page is no longer blank and console errors are gone.
+
+2. Register your application [here](https://developers.binary.com/applications/). This will give you the ability to redirect back to your deployed page after login.
+    > Use `https://YOUR_DEPLOYED_LINK/en/logged_inws.html` for the Redirect URL and `https://YOUR_DEPLOYED_LINK/en/redirect.html` for the Verification URL.
+    >
+    > - Have api key ready from deriv app account in order to register
+    > - Make note of your App ID to update in redmine card
+
+
